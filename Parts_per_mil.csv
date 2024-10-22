@@ -1,0 +1,2603 @@
+County,Highest Parts Per Million Value,Highest Parts Per Million
+Autauga,15.07,PM10
+Baldwin,19.99,PM10
+Barbour,15.77,PM10
+Bibb Cou,14.92,PM10
+Blount C,17.9,PM10
+Bullock,15.95,PM10
+Butler C,13.18,PM10
+Calhoun,16.17,PM10
+Chambers,13.97,PM10
+Cherokee,16.78,PM10
+Chilton,15.96,PM10
+Choctaw,11.79,PM2.5
+Clarke C,11.74,PM2.5
+Clay Cou,16.1,PM10
+Cleburne,14.36,PM10
+Coffee C,15.7,PM10
+Colbert,11.65,PM2.5
+Conecuh,14.72,PM10
+Coosa Co,16.73,PM10
+Covingto,13.54,PM10
+Crenshaw,15.63,PM10
+Cullman,14.6,PM10
+Dale Cou,16.86,PM10
+Dallas C,12.19,PM10
+DeKalb C,16.56,PM10
+Elmore C,17.34,PM10
+Escambia,19.05,PM10
+Etowah C,19.88,PM10
+Fayette,11.99,PM2.5
+Franklin,11.45,PM2.5
+Geneva C,14.07,PM10
+Greene C,11.85,PM2.5
+Hale Cou,14.54,PM10
+Henry Co,15.91,PM10
+Houston,18.08,PM10
+Jackson,13.06,PM10
+Jefferso,29.89,PM10
+Lamar Co,11.51,PM2.5
+Lauderda,12.01,PM2.5
+Lawrence,12.0,PM2.5
+Lee Coun,15.89,PM10
+Limeston,12.51,PM10
+Lowndes,13.83,PM10
+Macon Co,15.02,PM10
+Madison,19.13,PM10
+Marengo,13.27,PM10
+Marion C,11.6,PM2.5
+Marshall,16.01,PM10
+Mobile C,17.29,PM10
+Monroe C,12.38,PM10
+Montgome,17.94,PM10
+Morgan C,15.16,PM10
+Perry Co,13.39,PM10
+Pickens,11.81,PM2.5
+Pike Cou,21.26,PM10
+Randolph,13.72,PM10
+Russell,16.87,PM10
+St. Clai,21.16,PM10
+Shelby C,22.42,PM10
+Sumter C,11.91,PM2.5
+Talladeg,22.72,PM10
+Tallapoo,14.35,PM10
+Tuscaloo,13.85,PM10
+Walker C,13.4,PM10
+Washingt,11.36,PM2.5
+Wilcox C,11.58,PM2.5
+Winston,12.23,PM2.5
+Anchorag,8.56,PM10
+Fairbank,3.44,PM2.5
+Juneau B,3.06,PM10
+Kodiak I,1.7,PM2.5
+Valdez-C,2.48,PM2.5
+Apache C,7.95,PM10
+Cochise,13.42,PM10
+Coconino,6.01,PM10
+Gila Cou,12.17,PM10
+Graham C,17.09,PM10
+Greenlee,9.43,PM10
+La Paz C,10.72,PM10
+Maricopa,29.9,PM10
+Mohave C,9.51,PM10
+Navajo C,6.42,PM10
+Pima Cou,13.73,PM10
+Pinal Co,25.66,PM10
+Santa Cr,25.54,PM10
+Yavapai,11.53,PM10
+Yuma Cou,11.07,PM10
+Arkansas,11.31,PM2.5
+Ashley C,11.2,PM2.5
+Baxter C,10.73,PM2.5
+Benton C,12.04,PM10
+Boone Co,10.47,PM2.5
+Bradley,11.38,PM2.5
+Calhoun,11.27,PM2.5
+Carroll,10.66,PM2.5
+Chicot C,11.06,PM2.5
+Clark Co,11.18,PM2.5
+Clay Cou,11.26,PM2.5
+Cleburne,10.92,PM2.5
+Clevelan,11.5,PM2.5
+Columbia,11.05,PM2.5
+Conway C,11.29,PM2.5
+Craighea,11.3,PM2.5
+Crawford,11.01,PM2.5
+Crittend,11.81,PM2.5
+Cross Co,11.12,PM2.5
+Dallas C,11.4,PM2.5
+Desha Co,11.32,PM2.5
+Drew Cou,11.22,PM2.5
+Faulkner,11.82,PM2.5
+Franklin,11.0,PM2.5
+Fulton C,10.42,PM2.5
+Garland,11.28,PM2.5
+Grant Co,11.55,PM2.5
+Greene C,11.25,PM2.5
+Hempstea,11.01,PM2.5
+Hot Spri,11.39,PM2.5
+Howard C,10.99,PM2.5
+Independ,10.57,PM2.5
+Izard Co,10.4,PM2.5
+Jackson,10.7,PM2.5
+Jefferso,11.94,PM2.5
+Johnson,10.95,PM2.5
+Lafayett,10.95,PM2.5
+Lawrence,10.52,PM2.5
+Lee Coun,11.32,PM2.5
+Lincoln,11.41,PM2.5
+Little R,10.84,PM2.5
+Logan Co,10.98,PM2.5
+Lonoke C,11.48,PM2.5
+Madison,10.79,PM2.5
+Marion C,10.6,PM2.5
+Miller C,11.12,PM2.5
+Mississi,11.7,PM2.5
+Monroe C,11.27,PM2.5
+Montgome,10.98,PM2.5
+Nevada C,11.14,PM2.5
+Newton C,10.81,PM2.5
+Ouachita,11.23,PM2.5
+Perry Co,11.22,PM2.5
+Phillips,11.33,PM2.5
+Pike Cou,11.06,PM2.5
+Poinsett,11.2,PM2.5
+Polk Cou,11.06,PM2.5
+Pope Cou,11.22,PM2.5
+Prairie,11.35,PM2.5
+Pulaski,24.79,PM10
+Randolph,10.89,PM2.5
+St. Fran,11.29,PM2.5
+Saline C,11.61,PM10
+Scott Co,10.8,PM2.5
+Searcy C,10.7,PM2.5
+Sebastia,10.91,PM2.5
+Sevier C,10.85,PM2.5
+Sharp Co,10.28,PM2.5
+Stone Co,10.59,PM2.5
+Union Co,11.88,PM2.5
+Van Bure,11.01,PM2.5
+Washingt,10.99,PM2.5
+White Co,12.26,PM2.5
+Woodruff,11.09,PM2.5
+Yell Cou,10.97,PM2.5
+Alameda,19.79,PM10
+Amador C,14.46,PM10
+Butte Co,15.88,PM10
+Calavera,15.84,PM10
+Colusa C,8.3,PM2.5
+Contra C,19.01,PM10
+Del Nort,12.62,PM10
+El Dorad,12.42,PM10
+Fresno C,39.55,PM10
+Glenn Co,13.96,PM10
+Humboldt,13.68,PM10
+Imperial,36.78,PM10
+Inyo Cou,12.56,PM10
+Kern Cou,27.12,PM10
+Kings Co,31.09,PM10
+Lake Cou,7.25,PM10
+Lassen C,11.66,PM10
+Los Ange,32.02,PM10
+Madera C,23.57,PM10
+Marin Co,13.86,PM10
+Mariposa,21.4,PM10
+Mendocin,16.74,PM10
+Merced C,24.58,PM10
+Modoc Co,9.68,PM10
+Mono Cou,34.63,PM10
+Monterey,15.86,PM10
+Napa Cou,12.16,PM10
+Nevada C,14.3,PM10
+Orange C,28.37,PM10
+Placer C,14.16,PM10
+Plumas C,17.02,PM10
+Riversid,29.35,PM10
+Sacramen,24.71,PM10
+San Beni,15.66,PM10
+San Bern,11.48,PM10
+San Dieg,25.56,PM10
+San Fran,20.67,PM10
+San Joaq,25.67,PM10
+San Luis,18.53,PM10
+San Mate,17.74,PM10
+Santa Ba,16.53,PM10
+Santa Cl,19.73,PM10
+Santa Cr,19.24,PM10
+Shasta C,13.38,PM10
+Siskiyou,13.34,PM10
+Solano C,18.76,PM10
+Sonoma C,14.79,PM10
+Stanisla,28.35,PM10
+Sutter C,18.21,PM10
+Tehama C,21.97,PM10
+Trinity,15.12,PM10
+Tulare C,20.13,PM10
+Tuolumne,15.62,PM10
+Ventura,24.1,PM10
+Yolo Cou,15.4,PM10
+Yuba Cou,15.79,PM10
+Adams Co,9.54,PM10
+Alamosa,19.12,PM10
+Arapahoe,9.37,PM10
+Archulet,21.49,PM10
+Baca Cou,6.32,PM10
+Bent Cou,8.83,PM10
+Boulder,17.3,PM10
+Chaffee,12.47,PM10
+Clear Cr,14.15,PM10
+Conejos,13.96,PM10
+Costilla,11.6,PM10
+Custer C,12.19,PM10
+Delta Co,19.72,PM10
+Denver C,24.51,PM10
+Douglas,16.5,PM10
+Eagle Co,13.59,PM10
+Elbert C,7.91,PM10
+El Paso,13.95,PM10
+Fremont,13.4,PM10
+Garfield,16.95,PM10
+Grand Co,11.81,PM10
+Gunnison,19.57,PM10
+Huerfano,10.01,PM10
+Jefferso,17.64,PM10
+Kit Cars,6.51,PM10
+La Plata,16.08,PM10
+Larimer,13.1,PM10
+Las Anim,6.28,PM10
+Lincoln,6.69,PM10
+Logan Co,5.51,PM2.5
+Mesa Cou,22.86,PM10
+Moffat C,7.15,PM10
+Montezum,9.28,PM10
+Montrose,14.53,PM10
+Morgan C,5.93,PM2.5
+Otero Co,7.19,PM10
+Park Cou,12.71,PM10
+Phillips,5.43,PM10
+Pitkin C,18.81,PM10
+Prowers,12.01,PM10
+Pueblo C,16.33,PM10
+Rio Gran,13.77,PM10
+Routt Co,16.54,PM10
+Summit C,16.14,PM10
+Teller C,19.23,PM10
+Weld Cou,9.92,PM10
+Yuma Cou,6.27,PM10
+Fairfiel,16.47,PM10
+Hartford,14.78,PM10
+Litchfie,11.72,PM10
+Middlese,15.47,PM10
+New Have,18.52,PM10
+New Lond,13.59,PM10
+Tolland,14.63,PM10
+Windham,13.4,PM10
+Kent Cou,12.09,PM2.5
+New Cast,15.03,PM10
+Sussex C,10.14,PM2.5
+District,24.93,PM10
+Alachua,18.23,PM10
+Baker Co,14.16,PM10
+Bay Coun,15.78,PM10
+Bradford,16.7,PM10
+Brevard,12.1,PM10
+Broward,13.61,PM10
+Calhoun,12.08,PM10
+Charlott,11.71,PM10
+Citrus C,9.0,PM2.5
+Clay Cou,19.27,PM10
+Collier,8.97,PM10
+Columbia,14.4,PM10
+DeSoto C,9.68,PM10
+Dixie Co,9.22,PM2.5
+Duval Co,25.2,PM10
+Escambia,18.49,PM10
+Flagler,16.87,PM10
+Franklin,10.13,PM2.5
+Gadsden,11.5,PM10
+Gilchris,10.31,PM10
+Glades C,10.53,PM10
+Gulf Cou,10.34,PM10
+Hamilton,12.57,PM10
+Hardee C,9.94,PM10
+Hendry C,10.3,PM10
+Hernando,8.84,PM2.5
+Highland,10.02,PM10
+Hillsbor,24.38,PM10
+Holmes C,13.02,PM10
+Indian R,11.02,PM10
+Jackson,13.23,PM10
+Jefferso,10.56,PM2.5
+Lafayett,9.64,PM2.5
+Lake Cou,15.4,PM10
+Lee Coun,15.93,PM10
+Leon Cou,11.57,PM2.5
+Levy Cou,9.17,PM2.5
+Liberty,11.05,PM10
+Madison,10.59,PM2.5
+Manatee,16.38,PM10
+Marion C,13.22,PM10
+Martin C,13.03,PM10
+Monroe C,7.88,PM10
+Nassau C,19.71,PM10
+Okaloosa,12.24,PM10
+Okeechob,11.37,PM10
+Orange C,19.41,PM10
+Osceola,11.53,PM10
+Palm Bea,15.97,PM10
+Pasco Co,12.15,PM10
+Pinellas,22.46,PM10
+Polk Cou,12.09,PM10
+Putnam C,21.33,PM10
+St. John,17.79,PM10
+St. Luci,14.13,PM10
+Santa Ro,15.72,PM10
+Sarasota,16.04,PM10
+Seminole,18.18,PM10
+Sumter C,10.76,PM10
+Suwannee,10.82,PM10
+Taylor C,10.09,PM2.5
+Volusia,18.18,PM10
+Wakulla,11.22,PM10
+Walton C,11.62,PM10
+Washingt,13.17,PM10
+Appling,11.54,PM2.5
+Atkinson,11.5,PM2.5
+Bacon Co,11.47,PM2.5
+Baker Co,13.1,PM10
+Baldwin,15.31,PM10
+Banks Co,12.72,PM2.5
+Barrow C,13.2,PM2.5
+Bartow C,15.08,PM10
+Ben Hill,12.01,PM2.5
+Berrien,11.48,PM2.5
+Bibb Cou,20.54,PM10
+Bleckley,13.62,PM10
+Brantley,12.77,PM10
+Brooks C,11.16,PM2.5
+Bryan Co,13.93,PM10
+Bulloch,11.38,PM2.5
+Burke Co,13.32,PM10
+Butts Co,15.68,PM10
+Calhoun,13.51,PM10
+Camden C,19.12,PM10
+Candler,11.73,PM2.5
+Carroll,14.97,PM10
+Catoosa,17.02,PM10
+Charlton,13.18,PM10
+Chatham,20.17,PM10
+Chattaho,17.21,PM10
+Chattoog,16.4,PM10
+Cherokee,14.56,PM10
+Clarke C,15.32,PM2.5
+Clay Cou,14.14,PM10
+Clayton,20.2,PM10
+Clinch C,11.27,PM10
+Cobb Cou,19.91,PM10
+Coffee C,11.61,PM2.5
+Colquitt,11.61,PM10
+Columbia,13.79,PM10
+Cook Cou,11.44,PM2.5
+Coweta C,16.19,PM10
+Crawford,15.82,PM10
+Crisp Co,13.15,PM10
+Dade Cou,15.17,PM10
+Dawson C,13.04,PM2.5
+Decatur,11.64,PM10
+DeKalb C,18.49,PM10
+Dodge Co,12.18,PM2.5
+Dooly Co,13.44,PM10
+Doughert,16.35,PM10
+Douglas,18.96,PM10
+Early Co,13.71,PM10
+Effingha,13.44,PM10
+Elbert C,12.73,PM2.5
+Emanuel,12.11,PM2.5
+Evans Co,11.61,PM2.5
+Fannin C,12.94,PM2.5
+Fayette,18.97,PM10
+Floyd Co,18.34,PM10
+Forsyth,13.24,PM2.5
+Franklin,12.49,PM2.5
+Fulton C,25.84,PM10
+Gilmer C,12.95,PM2.5
+Glynn Co,18.72,PM10
+Gordon C,14.47,PM10
+Grady Co,11.25,PM10
+Greene C,12.88,PM2.5
+Gwinnett,15.21,PM2.5
+Habersha,12.41,PM2.5
+Hall Cou,14.75,PM2.5
+Hancock,13.62,PM10
+Haralson,15.09,PM10
+Harris C,16.88,PM10
+Hart Cou,12.59,PM2.5
+Heard Co,14.19,PM10
+Henry Co,17.37,PM10
+Houston,15.17,PM10
+Irwin Co,11.83,PM2.5
+Jackson,13.07,PM2.5
+Jasper C,14.77,PM10
+Jeff Dav,11.79,PM2.5
+Jefferso,13.54,PM10
+Jenkins,11.97,PM2.5
+Johnson,13.12,PM10
+Jones Co,16.73,PM10
+Lamar Co,16.67,PM10
+Lanier C,11.37,PM2.5
+Laurens,12.51,PM2.5
+Lee Coun,15.58,PM10
+Liberty,13.13,PM10
+Lincoln,12.58,PM2.5
+Long Cou,11.68,PM10
+Lowndes,12.25,PM2.5
+Lumpkin,12.95,PM2.5
+McDuffie,12.65,PM10
+McIntosh,14.79,PM10
+Macon Co,14.16,PM10
+Madison,12.85,PM2.5
+Marion C,14.78,PM10
+Meriweth,15.71,PM10
+Miller C,12.64,PM10
+Mitchell,12.73,PM10
+Monroe C,16.42,PM10
+Montgome,12.12,PM2.5
+Morgan C,13.02,PM2.5
+Murray C,14.47,PM10
+Muscogee,19.51,PM10
+Newton C,14.63,PM10
+Oconee C,13.67,PM2.5
+Oglethor,12.8,PM2.5
+Paulding,17.16,PM10
+Peach Co,16.17,PM10
+Pickens,13.15,PM2.5
+Pierce C,11.32,PM10
+Pike Cou,17.0,PM10
+Polk Cou,16.08,PM10
+Pulaski,12.94,PM10
+Putnam C,13.76,PM10
+Quitman,14.5,PM10
+Rabun Co,12.19,PM2.5
+Randolph,13.96,PM10
+Richmond,16.25,PM10
+Rockdale,15.31,PM10
+Schley C,13.97,PM10
+Screven,11.71,PM2.5
+Seminole,12.44,PM10
+Spalding,20.17,PM10
+Stephens,12.23,PM2.5
+Stewart,15.31,PM10
+Sumter C,14.1,PM10
+Talbot C,15.25,PM10
+Tattnall,11.76,PM2.5
+Taylor C,14.14,PM10
+Telfair,12.12,PM2.5
+Terrell,14.46,PM10
+Thomas C,11.12,PM2.5
+Tift Cou,11.85,PM10
+Toombs C,11.96,PM2.5
+Towns Co,12.63,PM2.5
+Treutlen,12.34,PM2.5
+Troup Co,14.86,PM10
+Turner C,12.29,PM10
+Twiggs C,16.68,PM10
+Union Co,12.66,PM2.5
+Upson Co,15.58,PM10
+Walker C,15.75,PM10
+Walton C,13.3,PM2.5
+Ware Cou,11.39,PM10
+Warren C,12.58,PM2.5
+Washingt,19.72,PM10
+Wayne Co,11.99,PM10
+Wheeler,12.19,PM2.5
+White Co,12.52,PM2.5
+Whitfiel,15.61,PM10
+Wilcox C,11.77,PM2.5
+Wilkes C,12.76,PM2.5
+Wilkinso,15.19,PM10
+Worth Co,13.94,PM10
+Honolulu,13.88,PM10
+Kauai Co,7.47,PM10
+Maui Cou,14.38,PM10
+Ada Coun,17.9,PM10
+Adams Co,8.64,PM10
+Bannock,17.25,PM10
+Bear Lak,9.72,PM10
+Benewah,20.08,PM10
+Bingham,19.5,PM10
+Blaine C,8.31,PM10
+Boise Co,10.13,PM10
+Bonner C,15.89,PM10
+Bonnevil,11.86,PM10
+Boundary,11.33,PM10
+Canyon C,17.96,PM10
+Cassia C,9.84,PM10
+Clearwat,10.51,PM10
+Custer C,7.76,PM10
+Elmore C,8.94,PM10
+Fremont,10.39,PM10
+Gem Coun,12.41,PM10
+Gooding,8.4,PM10
+Idaho Co,9.32,PM10
+Jefferso,10.49,PM10
+Jerome C,11.59,PM10
+Kootenai,18.38,PM10
+Latah Co,15.82,PM10
+Lemhi Co,14.05,PM10
+Lewis Co,12.82,PM10
+Minidoka,11.42,PM10
+Nez Perc,14.9,PM10
+Owyhee C,7.59,PM10
+Payette,11.64,PM10
+Power Co,12.58,PM10
+Shoshone,13.33,PM10
+Twin Fal,9.54,PM10
+Valley C,8.17,PM10
+Washingt,8.88,PM10
+Adams Co,11.03,PM10
+Alexande,10.19,PM2.5
+Bond Cou,11.76,PM10
+Boone Co,11.17,PM2.5
+Brown Co,10.4,PM10
+Bureau C,14.55,PM10
+Calhoun,11.68,PM10
+Carroll,13.58,PM10
+Cass Cou,10.65,PM10
+Champaig,12.49,PM2.5
+Christia,11.08,PM10
+Clark Co,11.84,PM2.5
+Clay Cou,11.82,PM2.5
+Clinton,10.44,PM2.5
+Coles Co,12.12,PM2.5
+Cook Cou,29.9,PM10
+Crawford,11.63,PM2.5
+Cumberla,12.19,PM2.5
+DeKalb C,12.24,PM10
+De Witt,11.97,PM2.5
+Douglas,12.06,PM2.5
+DuPage C,21.41,PM10
+Edgar Co,11.76,PM2.5
+Edwards,12.49,PM2.5
+Effingha,11.58,PM2.5
+Fayette,9.74,PM2.5
+Ford Cou,10.53,PM2.5
+Franklin,10.16,PM10
+Fulton C,12.17,PM10
+Gallatin,12.3,PM2.5
+Greene C,12.65,PM10
+Grundy C,12.6,PM10
+Hamilton,11.62,PM2.5
+Hancock,14.99,PM10
+Hardin C,12.14,PM2.5
+Henderso,15.44,PM10
+Henry Co,16.46,PM10
+Iroquois,10.08,PM2.5
+Jackson,13.6,PM10
+Jasper C,12.29,PM2.5
+Jefferso,9.9,PM2.5
+Jersey C,14.64,PM10
+Jo Davie,11.98,PM10
+Johnson,12.21,PM10
+Kane Cou,13.39,PM10
+Kankakee,11.34,PM10
+Kendall,14.45,PM10
+Knox Cou,15.2,PM10
+Lake Cou,13.93,PM10
+La Salle,17.07,PM10
+Lawrence,12.24,PM2.5
+Lee Coun,13.09,PM10
+Livingst,11.35,PM2.5
+Logan Co,11.03,PM2.5
+McDonoug,12.34,PM10
+McHenry,12.03,PM10
+McLean C,11.81,PM2.5
+Macon Co,12.97,PM2.5
+Macoupin,17.77,PM10
+Madison,20.65,PM10
+Marion C,9.81,PM2.5
+Marshall,16.8,PM10
+Mason Co,12.08,PM10
+Massac C,14.22,PM10
+Menard C,11.85,PM10
+Mercer C,22.61,PM10
+Monroe C,12.23,PM10
+Montgome,12.96,PM10
+Morgan C,11.03,PM10
+Moultrie,11.5,PM2.5
+Ogle Cou,11.57,PM10
+Peoria C,18.14,PM10
+Perry Co,11.0,PM10
+Piatt Co,12.11,PM2.5
+Pike Cou,10.1,PM10
+Pope Cou,13.01,PM10
+Pulaski,10.78,PM2.5
+Putnam C,17.43,PM10
+Randolph,11.23,PM2.5
+Richland,12.42,PM2.5
+Rock Isl,23.55,PM10
+St. Clai,16.77,PM10
+Saline C,11.54,PM2.5
+Sangamon,13.32,PM10
+Schuyler,10.85,PM10
+Scott Co,10.44,PM10
+Shelby C,11.26,PM2.5
+Stark Co,15.99,PM10
+Stephens,11.14,PM10
+Tazewell,16.62,PM10
+Union Co,11.58,PM10
+Vermilio,11.08,PM2.5
+Wabash C,12.44,PM2.5
+Warren C,15.05,PM10
+Washingt,10.39,PM2.5
+Wayne Co,12.25,PM2.5
+White Co,12.41,PM2.5
+Whitesid,15.7,PM10
+Will Cou,18.81,PM10
+Williams,11.93,PM10
+Winnebag,11.75,PM2.5
+Woodford,14.92,PM10
+Adams Co,13.56,PM10
+Allen Co,18.59,PM10
+Bartholo,17.75,PM10
+Benton C,10.35,PM2.5
+Blackfor,12.66,PM10
+Boone Co,14.66,PM10
+Brown Co,13.89,PM10
+Carroll,11.56,PM2.5
+Cass Cou,11.68,PM2.5
+Clark Co,17.24,PM10
+Clay Cou,18.02,PM10
+Clinton,11.9,PM2.5
+Crawford,15.0,PM10
+Daviess,16.51,PM10
+Dearborn,12.43,PM10
+Decatur,11.65,PM10
+De Kalb,16.85,PM10
+Delaware,13.78,PM2.5
+Dubois C,21.22,PM10
+Elkhart,12.76,PM10
+Fayette,12.41,PM10
+Floyd Co,22.09,PM10
+Fountain,11.46,PM2.5
+Franklin,11.98,PM10
+Fulton C,12.11,PM2.5
+Gibson C,14.72,PM10
+Grant Co,13.0,PM10
+Greene C,13.68,PM10
+Hamilton,15.16,PM10
+Hancock,15.14,PM10
+Harrison,17.02,PM10
+Hendrick,16.66,PM10
+Henry Co,12.8,PM10
+Howard C,14.19,PM2.5
+Huntingt,14.56,PM10
+Jackson,12.49,PM10
+Jasper C,10.74,PM10
+Jay Coun,12.56,PM10
+Jefferso,10.93,PM10
+Jennings,11.81,PM2.5
+Johnson,16.83,PM10
+Knox Cou,13.4,PM10
+Kosciusk,12.42,PM10
+Lagrange,13.16,PM10
+Lake Cou,17.62,PM10
+La Porte,11.81,PM2.5
+Lawrence,12.39,PM10
+Madison,16.86,PM10
+Marion C,21.92,PM10
+Marshall,12.02,PM10
+Martin C,14.78,PM10
+Miami Co,11.85,PM2.5
+Monroe C,13.82,PM10
+Montgome,12.06,PM10
+Morgan C,15.46,PM10
+Newton C,9.81,PM2.5
+Noble Co,15.49,PM10
+Ohio Cou,11.89,PM10
+Orange C,13.8,PM10
+Owen Cou,16.23,PM10
+Parke Co,14.79,PM10
+Perry Co,18.45,PM10
+Pike Cou,16.83,PM10
+Porter C,15.35,PM10
+Posey Co,13.45,PM10
+Pulaski,10.4,PM2.5
+Putnam C,20.99,PM10
+Randolph,12.76,PM10
+Ripley C,10.74,PM10
+Rush Cou,12.44,PM10
+St. Jose,16.31,PM10
+Scott Co,12.52,PM10
+Shelby C,14.29,PM10
+Spencer,18.21,PM10
+Starke C,10.77,PM2.5
+Steuben,13.82,PM10
+Sullivan,13.35,PM10
+Switzerl,11.11,PM10
+Tippecan,12.9,PM2.5
+Tipton C,12.81,PM10
+Union Co,13.93,PM10
+Vanderbu,21.34,PM10
+Vermilli,12.08,PM2.5
+Vigo Cou,21.95,PM10
+Wabash C,12.45,PM10
+Warren C,11.11,PM2.5
+Warrick,17.7,PM10
+Washingt,13.4,PM10
+Wayne Co,13.92,PM10
+Wells Co,14.35,PM10
+White Co,10.52,PM2.5
+Whitley,17.89,PM10
+Adair Co,10.15,PM10
+Adams Co,10.0,PM10
+Allamake,9.94,PM2.5
+Appanoos,10.09,PM2.5
+Audubon,10.35,PM10
+Benton C,16.95,PM10
+Black Ha,24.7,PM10
+Boone Co,13.93,PM10
+Bremer C,16.64,PM10
+Buchanan,16.79,PM10
+Buena Vi,11.26,PM10
+Butler C,15.65,PM10
+Calhoun,10.85,PM10
+Carroll,10.31,PM10
+Cass Cou,10.17,PM10
+Cedar Co,19.13,PM10
+Cerro Go,20.49,PM10
+Cherokee,11.2,PM10
+Chickasa,12.77,PM10
+Clarke C,11.53,PM10
+Clay Cou,12.2,PM10
+Clayton,11.08,PM10
+Clinton,17.39,PM10
+Crawford,11.19,PM10
+Dallas C,14.86,PM10
+Davis Co,10.9,PM10
+Decatur,9.69,PM10
+Delaware,14.4,PM10
+Des Moin,16.16,PM10
+Dickinso,12.4,PM10
+Dubuque,11.92,PM10
+Emmet Co,15.4,PM10
+Fayette,12.73,PM10
+Floyd Co,15.83,PM10
+Franklin,14.33,PM10
+Fremont,14.15,PM10
+Greene C,11.28,PM10
+Grundy C,14.98,PM10
+Guthrie,10.89,PM10
+Hamilton,12.53,PM10
+Hancock,13.02,PM10
+Hardin C,13.07,PM10
+Harrison,15.13,PM10
+Henry Co,15.32,PM10
+Howard C,10.39,PM10
+Humboldt,11.65,PM10
+Ida Coun,11.15,PM10
+Iowa Cou,14.29,PM10
+Jackson,13.76,PM10
+Jasper C,13.25,PM10
+Jefferso,13.52,PM10
+Johnson,17.42,PM10
+Jones Co,15.19,PM10
+Keokuk C,12.52,PM10
+Kossuth,12.22,PM10
+Lee Coun,16.76,PM10
+Linn Cou,20.44,PM10
+Louisa C,18.16,PM10
+Lucas Co,11.7,PM10
+Lyon Cou,12.64,PM10
+Madison,13.46,PM10
+Mahaska,11.19,PM10
+Marion C,12.75,PM10
+Marshall,13.28,PM10
+Mills Co,16.88,PM10
+Mitchell,14.2,PM10
+Monona C,13.41,PM10
+Monroe C,10.52,PM10
+Montgome,11.99,PM10
+Muscatin,23.58,PM10
+O'Brien,11.12,PM10
+Osceola,11.04,PM10
+Page Cou,11.8,PM10
+Palo Alt,16.92,PM10
+Plymouth,15.7,PM10
+Pocahont,12.35,PM10
+Polk Cou,23.44,PM10
+Pottawat,14.76,PM10
+Poweshie,12.36,PM10
+Ringgold,9.12,PM10
+Sac Coun,10.67,PM10
+Scott Co,21.6,PM10
+Shelby C,11.62,PM10
+Sioux Co,12.7,PM10
+Story Co,15.0,PM10
+Tama Cou,14.94,PM10
+Taylor C,10.12,PM10
+Union Co,9.88,PM10
+Van Bure,16.31,PM10
+Wapello,11.28,PM10
+Warren C,17.29,PM10
+Washingt,14.55,PM10
+Wayne Co,10.19,PM10
+Webster,11.31,PM10
+Winnebag,12.94,PM10
+Winneshi,9.32,PM2.5
+Woodbury,14.75,PM10
+Worth Co,20.39,PM10
+Wright C,11.96,PM10
+Adair Co,12.47,PM2.5
+Allen Co,11.7,PM2.5
+Anderson,12.36,PM10
+Ballard,11.51,PM2.5
+Barren C,11.63,PM2.5
+Bath Cou,11.72,PM2.5
+Bell Cou,18.14,PM10
+Boone Co,13.99,PM10
+Bourbon,13.88,PM10
+Boyd Cou,20.81,PM10
+Boyle Co,13.0,PM10
+Bracken,10.74,PM2.5
+Breathit,15.61,PM10
+Breckinr,14.59,PM10
+Bullitt,19.87,PM10
+Butler C,12.21,PM10
+Caldwell,11.72,PM2.5
+Calloway,11.48,PM10
+Campbell,16.02,PM10
+Carlisle,11.68,PM2.5
+Carroll,10.74,PM10
+Carter C,14.75,PM10
+Casey Co,12.37,PM2.5
+Christia,12.19,PM2.5
+Clark Co,15.11,PM10
+Clay Cou,15.32,PM10
+Clinton,12.7,PM2.5
+Crittend,12.27,PM10
+Cumberla,12.34,PM2.5
+Daviess,16.78,PM10
+Edmonson,12.91,PM10
+Elliott,13.19,PM10
+Estill C,13.64,PM10
+Fayette,21.11,PM10
+Fleming,11.68,PM2.5
+Floyd Co,16.84,PM10
+Franklin,12.7,PM2.5
+Fulton C,11.5,PM2.5
+Gallatin,11.19,PM10
+Garrard,15.16,PM10
+Grant Co,11.83,PM10
+Graves C,12.17,PM10
+Grayson,12.92,PM10
+Green Co,12.21,PM2.5
+Greenup,19.43,PM10
+Hancock,17.14,PM10
+Hardin C,15.9,PM10
+Harlan C,17.21,PM10
+Harrison,12.41,PM10
+Hart Cou,12.07,PM2.5
+Henderso,15.56,PM10
+Henry Co,11.16,PM10
+Hickman,11.51,PM2.5
+Hopkins,11.96,PM2.5
+Jackson,14.39,PM10
+Jefferso,22.16,PM10
+Jessamin,17.75,PM10
+Johnson,15.1,PM10
+Kenton C,15.47,PM10
+Knott Co,17.12,PM10
+Knox Cou,16.96,PM10
+Larue Co,13.28,PM10
+Laurel C,16.15,PM10
+Lawrence,15.83,PM10
+Lee Coun,12.74,PM10
+Leslie C,17.42,PM10
+Letcher,14.3,PM10
+Lewis Co,11.88,PM2.5
+Lincoln,13.98,PM10
+Livingst,14.8,PM10
+Logan Co,12.38,PM10
+Lyon Cou,13.03,PM10
+McCracke,15.2,PM10
+McCreary,13.98,PM10
+McLean C,13.7,PM10
+Madison,19.8,PM10
+Magoffin,14.45,PM10
+Marion C,11.97,PM10
+Marshall,14.75,PM10
+Martin C,15.41,PM10
+Mason Co,11.24,PM2.5
+Meade Co,15.93,PM10
+Menifee,12.1,PM2.5
+Mercer C,13.05,PM10
+Metcalfe,11.94,PM2.5
+Monroe C,11.95,PM2.5
+Montgome,12.17,PM10
+Morgan C,12.87,PM2.5
+Muhlenbe,12.41,PM2.5
+Nelson C,14.04,PM10
+Nicholas,11.25,PM2.5
+Ohio Cou,13.21,PM10
+Oldham C,14.5,PM10
+Owen Cou,11.14,PM10
+Owsley C,13.96,PM10
+Pendleto,11.87,PM10
+Perry Co,22.11,PM10
+Pike Cou,16.0,PM10
+Powell C,12.97,PM10
+Pulaski,16.84,PM10
+Robertso,11.12,PM2.5
+Rockcast,15.01,PM10
+Rowan Co,11.91,PM2.5
+Russell,12.34,PM2.5
+Scott Co,14.22,PM10
+Shelby C,12.4,PM10
+Simpson,12.12,PM2.5
+Spencer,13.8,PM10
+Taylor C,12.53,PM2.5
+Todd Cou,12.64,PM10
+Trigg Co,11.9,PM10
+Trimble,11.59,PM10
+Union Co,12.2,PM10
+Warren C,14.01,PM2.5
+Washingt,12.3,PM10
+Wayne Co,12.87,PM2.5
+Webster,12.49,PM10
+Whitley,16.33,PM10
+Wolfe Co,12.55,PM10
+Woodford,15.35,PM10
+Acadia P,9.85,PM2.5
+Allen Pa,10.07,PM2.5
+Ascensio,12.72,PM10
+Assumpti,9.7,PM10
+Avoyelle,10.22,PM2.5
+Beaurega,9.98,PM2.5
+Bienvill,10.94,PM2.5
+Bossier,11.79,PM10
+Caddo Pa,15.07,PM10
+Calcasie,9.99,PM2.5
+Caldwell,10.35,PM2.5
+Cameron,9.58,PM2.5
+Catahoul,10.26,PM2.5
+Claiborn,10.92,PM2.5
+Concordi,10.25,PM2.5
+De Soto,10.66,PM2.5
+East Bat,22.18,PM10
+East Car,11.0,PM2.5
+East Fel,11.68,PM10
+Evangeli,9.98,PM2.5
+Franklin,10.35,PM2.5
+Grant Pa,10.33,PM2.5
+Iberia P,9.27,PM2.5
+Ibervill,14.0,PM10
+Jackson,10.89,PM2.5
+Jefferso,15.74,PM10
+Jefferso,9.79,PM2.5
+Lafayett,10.93,PM2.5
+Lafourch,10.68,PM10
+La Salle,10.39,PM2.5
+Lincoln,10.9,PM2.5
+Livingst,12.6,PM10
+Madison,10.82,PM2.5
+Morehous,11.02,PM2.5
+Natchito,10.62,PM2.5
+Orleans,12.79,PM10
+Ouachita,11.26,PM2.5
+Plaquemi,8.75,PM2.5
+Pointe C,10.08,PM10
+Rapides,10.6,PM2.5
+Red Rive,10.69,PM2.5
+Richland,10.84,PM2.5
+Sabine P,10.59,PM2.5
+St. Bern,9.54,PM2.5
+St. Char,24.78,PM10
+St. Hele,10.46,PM10
+St. Jame,11.69,PM10
+St. John,14.95,PM10
+St. Land,10.05,PM2.5
+St. Mart,9.62,PM2.5
+St. Tamm,10.47,PM2.5
+Tangipah,10.42,PM2.5
+Tensas P,10.56,PM2.5
+Terrebon,8.58,PM2.5
+Union Pa,11.01,PM2.5
+Vermilio,9.46,PM2.5
+Vernon P,10.29,PM2.5
+Washingt,10.18,PM2.5
+Webster,10.83,PM2.5
+West Bat,21.81,PM10
+West Car,10.96,PM2.5
+West Fel,10.04,PM2.5
+Winn Par,10.58,PM2.5
+Androsco,17.51,PM10
+Aroostoo,12.01,PM10
+Cumberla,17.34,PM10
+Franklin,7.61,PM2.5
+Hancock,7.79,PM10
+Kennebec,15.07,PM10
+Knox Cou,12.13,PM10
+Lincoln,12.7,PM10
+Oxford C,10.21,PM10
+Penobsco,8.05,PM10
+Piscataq,7.11,PM2.5
+Sagadaho,14.93,PM10
+Somerset,7.51,PM2.5
+Waldo Co,11.37,PM10
+Washingt,5.85,PM2.5
+York Cou,12.86,PM10
+Allegany,12.48,PM10
+Anne Aru,16.86,PM10
+Baltimor,18.82,PM10
+Calvert,12.02,PM10
+Caroline,10.55,PM2.5
+Carroll,15.36,PM10
+Cecil Co,13.47,PM10
+Charles,14.57,PM10
+Dorchest,9.56,PM10
+Frederic,14.12,PM10
+Garrett,11.32,PM2.5
+Harford,14.68,PM10
+Howard C,18.61,PM10
+Kent Cou,11.0,PM10
+Montgome,17.52,PM10
+Prince G,20.58,PM10
+Queen An,10.69,PM2.5
+St. Mary,11.6,PM10
+Somerset,9.94,PM2.5
+Talbot C,10.2,PM2.5
+Washingt,15.95,PM10
+Wicomico,9.9,PM10
+Worceste,9.83,PM2.5
+Baltimor,24.54,PM10
+Barnstab,6.92,PM2.5
+Berkshir,10.64,PM10
+Bristol,12.43,PM10
+Dukes Co,7.2,PM2.5
+Essex Co,14.45,PM10
+Franklin,14.23,PM10
+Hampden,19.96,PM10
+Hampshir,14.58,PM10
+Middlese,17.71,PM10
+Nantucke,6.08,PM2.5
+Norfolk,17.79,PM10
+Plymouth,9.04,PM10
+Suffolk,20.77,PM10
+Worceste,16.25,PM10
+Adams Co,10.83,PM2.5
+Alcorn C,11.5,PM2.5
+Amite Co,10.06,PM2.5
+Attala C,11.56,PM2.5
+Benton C,11.65,PM2.5
+Bolivar,11.43,PM2.5
+Calhoun,11.58,PM2.5
+Carroll,11.48,PM2.5
+Chickasa,11.82,PM2.5
+Choctaw,11.71,PM2.5
+Claiborn,10.88,PM2.5
+Clarke C,11.6,PM2.5
+Clay Cou,11.94,PM2.5
+Coahoma,11.2,PM2.5
+Copiah C,10.81,PM2.5
+Covingto,11.1,PM2.5
+DeSoto C,12.52,PM10
+Forrest,11.48,PM2.5
+Franklin,10.67,PM2.5
+George C,11.12,PM10
+Greene C,11.19,PM2.5
+Grenada,11.39,PM2.5
+Hancock,10.99,PM2.5
+Harrison,11.41,PM2.5
+Hinds Co,11.23,PM2.5
+Holmes C,11.69,PM2.5
+Humphrey,11.39,PM2.5
+Itawamba,11.37,PM2.5
+Jackson,13.05,PM10
+Jasper C,11.45,PM2.5
+Jefferso,10.61,PM2.5
+Jefferso,10.88,PM2.5
+Jones Co,12.7,PM2.5
+Kemper C,11.6,PM2.5
+Lafayett,11.62,PM2.5
+Lamar Co,11.0,PM2.5
+Lauderda,12.46,PM2.5
+Lawrence,10.64,PM2.5
+Leake Co,11.79,PM2.5
+Lee Coun,12.14,PM2.5
+Leflore,11.41,PM2.5
+Lincoln,10.6,PM2.5
+Lowndes,12.86,PM2.5
+Madison,11.73,PM2.5
+Marion C,10.67,PM2.5
+Marshall,11.64,PM2.5
+Monroe C,11.52,PM2.5
+Montgome,11.53,PM2.5
+Neshoba,11.93,PM2.5
+Newton C,11.69,PM2.5
+Noxubee,11.55,PM2.5
+Oktibbeh,12.02,PM2.5
+Panola C,11.46,PM2.5
+Pearl Ri,10.82,PM2.5
+Perry Co,11.11,PM2.5
+Pike Cou,10.23,PM2.5
+Pontotoc,11.75,PM2.5
+Prentiss,11.58,PM2.5
+Quitman,11.37,PM2.5
+Rankin C,11.56,PM2.5
+Scott Co,11.55,PM2.5
+Sharkey,11.34,PM2.5
+Simpson,10.93,PM2.5
+Smith Co,11.25,PM2.5
+Stone Co,10.98,PM2.5
+Sunflowe,11.36,PM2.5
+Tallahat,11.46,PM2.5
+Tate Cou,11.84,PM2.5
+Tippah C,11.6,PM2.5
+Tishomin,11.69,PM2.5
+Tunica C,11.39,PM2.5
+Union Co,11.71,PM2.5
+Walthall,10.31,PM2.5
+Warren C,11.87,PM2.5
+Washingt,11.06,PM2.5
+Wayne Co,11.44,PM2.5
+Webster,11.65,PM2.5
+Wilkinso,10.25,PM2.5
+Winston,12.01,PM2.5
+Yalobush,11.3,PM2.5
+Yazoo Co,11.56,PM2.5
+Adair Co,10.08,PM2.5
+Andrew C,17.62,PM10
+Atchison,12.0,PM10
+Audrain,9.2,PM2.5
+Barry Co,12.2,PM10
+Barton C,19.15,PM10
+Bates Co,11.1,PM10
+Benton C,9.74,PM2.5
+Bollinge,9.87,PM2.5
+Boone Co,11.12,PM2.5
+Buchanan,26.67,PM10
+Butler C,10.64,PM2.5
+Caldwell,10.49,PM10
+Callaway,9.15,PM2.5
+Camden C,9.63,PM2.5
+Cape Gir,9.97,PM2.5
+Carroll,9.63,PM2.5
+Carter C,10.28,PM2.5
+Cass Cou,13.25,PM10
+Cedar Co,11.82,PM10
+Chariton,9.54,PM2.5
+Christia,11.66,PM10
+Clark Co,15.05,PM10
+Clay Cou,16.39,PM10
+Clinton,14.56,PM10
+Cole Cou,9.63,PM2.5
+Cooper C,9.86,PM2.5
+Crawford,9.28,PM2.5
+Dade Cou,14.4,PM10
+Dallas C,9.57,PM2.5
+Daviess,9.14,PM10
+DeKalb C,12.78,PM10
+Dent Cou,9.26,PM2.5
+Douglas,10.7,PM2.5
+Dunklin,11.49,PM2.5
+Franklin,9.97,PM2.5
+Gasconad,9.76,PM2.5
+Gentry C,10.58,PM10
+Greene C,16.24,PM10
+Grundy C,9.24,PM2.5
+Harrison,8.93,PM2.5
+Henry Co,9.56,PM10
+Hickory,9.63,PM2.5
+Holt Cou,13.74,PM10
+Howard C,9.93,PM2.5
+Howell C,11.32,PM2.5
+Iron Cou,9.78,PM2.5
+Jackson,15.63,PM10
+Jasper C,35.99,PM10
+Jefferso,10.67,PM2.5
+Johnson,9.83,PM10
+Knox Cou,10.17,PM2.5
+Laclede,10.39,PM2.5
+Lafayett,9.71,PM10
+Lawrence,15.08,PM10
+Lewis Co,11.54,PM10
+Lincoln,11.27,PM10
+Linn Cou,9.47,PM2.5
+Livingst,9.37,PM2.5
+McDonald,14.7,PM10
+Macon Co,9.87,PM2.5
+Madison,9.98,PM2.5
+Maries C,9.49,PM2.5
+Marion C,10.83,PM10
+Mercer C,9.34,PM2.5
+Miller C,10.46,PM2.5
+Mississi,11.55,PM2.5
+Moniteau,9.97,PM2.5
+Monroe C,9.25,PM2.5
+Montgome,9.64,PM2.5
+Morgan C,9.8,PM2.5
+New Madr,10.96,PM2.5
+Newton C,20.59,PM10
+Nodaway,11.76,PM10
+Oregon C,11.07,PM2.5
+Osage Co,9.32,PM2.5
+Ozark Co,10.74,PM2.5
+Pemiscot,11.55,PM2.5
+Perry Co,10.39,PM2.5
+Pettis C,9.85,PM2.5
+Phelps C,9.17,PM2.5
+Pike Cou,9.88,PM2.5
+Platte C,21.92,PM10
+Polk Cou,10.98,PM10
+Pulaski,9.76,PM2.5
+Putnam C,9.91,PM2.5
+Ralls Co,10.68,PM10
+Randolph,9.84,PM2.5
+Ray Coun,10.89,PM10
+Reynolds,9.32,PM2.5
+Ripley C,10.7,PM2.5
+St. Char,12.46,PM10
+St. Clai,9.99,PM10
+Ste. Gen,11.14,PM2.5
+St. Fran,10.36,PM2.5
+St. Loui,14.85,PM10
+Saline C,9.69,PM2.5
+Schuyler,10.24,PM2.5
+Scotland,11.99,PM10
+Scott Co,10.43,PM2.5
+Shannon,10.1,PM2.5
+Shelby C,9.34,PM2.5
+Stoddard,10.91,PM2.5
+Stone Co,10.86,PM10
+Sullivan,9.39,PM2.5
+Taney Co,10.57,PM2.5
+Texas Co,10.33,PM2.5
+Vernon C,12.95,PM10
+Warren C,10.01,PM2.5
+Washingt,9.75,PM2.5
+Wayne Co,9.83,PM2.5
+Webster,10.44,PM2.5
+Wright C,11.15,PM2.5
+St. Loui,22.77,PM10
+Beaverhe,9.1,PM10
+Big Horn,9.36,PM10
+Blaine C,4.54,PM2.5
+Broadwat,11.01,PM10
+Carbon C,8.47,PM10
+Cascade,6.34,PM10
+Chouteau,5.5,PM2.5
+Custer C,5.14,PM2.5
+Dawson C,4.73,PM2.5
+Deer Lod,11.76,PM10
+Fergus C,5.38,PM2.5
+Flathead,18.12,PM10
+Gallatin,15.38,PM10
+Glacier,13.58,PM10
+Hill Cou,4.83,PM2.5
+Jefferso,14.12,PM10
+Lake Cou,18.74,PM10
+Lewis an,11.97,PM10
+Lincoln,16.26,PM10
+Madison,9.7,PM10
+Mineral,10.93,PM10
+Missoula,18.12,PM10
+Musselsh,6.22,PM10
+Park Cou,8.56,PM10
+Phillips,4.65,PM2.5
+Pondera,6.58,PM10
+Powell C,13.75,PM10
+Ravalli,14.32,PM10
+Richland,4.54,PM2.5
+Roosevel,4.47,PM10
+Rosebud,7.2,PM10
+Sanders,12.87,PM10
+Sheridan,4.08,PM2.5
+Silver B,14.69,PM10
+Stillwat,6.81,PM10
+Sweet Gr,6.46,PM2.5
+Teton Co,7.31,PM10
+Toole Co,5.49,PM2.5
+Valley C,4.29,PM2.5
+Yellowst,11.02,PM10
+Adams Co,6.95,PM2.5
+Antelope,7.37,PM2.5
+Boone Co,7.2,PM2.5
+Box Butt,5.36,PM2.5
+Boyd Cou,6.8,PM2.5
+Buffalo,7.06,PM10
+Burt Cou,13.37,PM10
+Butler C,8.28,PM10
+Cass Cou,28.28,PM10
+Cedar Co,9.19,PM10
+Chase Co,6.27,PM10
+Cherry C,5.59,PM2.5
+Cheyenne,5.38,PM2.5
+Clay Cou,7.41,PM2.5
+Colfax C,8.9,PM10
+Cuming C,10.49,PM10
+Custer C,10.02,PM10
+Dakota C,15.79,PM10
+Dawes Co,5.28,PM2.5
+Dawson C,18.47,PM10
+Dixon Co,11.28,PM10
+Dodge Co,10.8,PM10
+Douglas,27.35,PM10
+Fillmore,7.66,PM2.5
+Furnas C,8.22,PM10
+Gage Cou,8.0,PM2.5
+Hall Cou,7.09,PM2.5
+Hamilton,7.43,PM2.5
+Holt Cou,6.79,PM2.5
+Howard C,6.96,PM2.5
+Jefferso,8.1,PM2.5
+Johnson,11.46,PM10
+Kearney,6.69,PM10
+Keith Co,5.7,PM10
+Kimball,5.39,PM2.5
+Knox Cou,7.53,PM2.5
+Lancaste,10.0,PM10
+Lincoln,8.42,PM10
+Madison,7.7,PM2.5
+Merrick,7.41,PM2.5
+Morrill,5.39,PM2.5
+Nance Co,7.28,PM2.5
+Nemaha C,12.36,PM10
+Nuckolls,7.4,PM2.5
+Otoe Cou,16.74,PM10
+Pawnee C,9.49,PM10
+Phelps C,8.31,PM10
+Pierce C,7.82,PM2.5
+Platte C,7.71,PM2.5
+Polk Cou,7.88,PM2.5
+Red Will,8.46,PM10
+Richards,11.53,PM10
+Saline C,8.01,PM2.5
+Sarpy Co,29.56,PM10
+Saunders,11.4,PM10
+Scotts B,5.65,PM2.5
+Seward C,7.83,PM10
+Sheridan,5.05,PM2.5
+Thayer C,7.54,PM2.5
+Thurston,13.32,PM10
+Washingt,17.74,PM10
+Wayne Co,9.54,PM10
+Webster,6.91,PM2.5
+York Cou,7.84,PM2.5
+Belknap,10.01,PM10
+Carroll,9.48,PM10
+Cheshire,15.8,PM10
+Coos Cou,8.78,PM10
+Grafton,8.86,PM10
+Hillsbor,13.53,PM10
+Merrimac,11.14,PM10
+Rockingh,14.31,PM10
+Straffor,12.38,PM10
+Sullivan,10.39,PM10
+Atlantic,15.12,PM10
+Bergen C,24.47,PM10
+Burlingt,15.53,PM10
+Camden C,18.73,PM10
+Cape May,10.18,PM10
+Cumberla,11.44,PM10
+Essex Co,22.65,PM10
+Gloucest,18.39,PM10
+Hudson C,29.41,PM10
+Hunterdo,17.13,PM10
+Mercer C,19.6,PM10
+Middlese,14.52,PM10
+Monmouth,11.9,PM10
+Morris C,13.63,PM10
+Ocean Co,11.46,PM10
+Passaic,15.91,PM10
+Salem Co,15.8,PM10
+Somerset,16.03,PM10
+Sussex C,12.38,PM10
+Union Co,21.03,PM10
+Warren C,15.59,PM10
+Bernalil,28.03,PM10
+Catron C,7.13,PM10
+Chaves C,16.07,PM10
+Cibola C,6.5,PM10
+Colfax C,5.99,PM10
+Curry Co,5.62,PM2.5
+Dona Ana,17.1,PM10
+Eddy Cou,6.14,PM10
+Grant Co,13.2,PM10
+Lea Coun,9.94,PM10
+Lincoln,5.87,PM10
+Los Alam,12.13,PM10
+Luna Cou,15.29,PM10
+McKinley,6.44,PM10
+Otero Co,8.35,PM10
+Quay Cou,5.63,PM2.5
+Rio Arri,9.63,PM10
+Roosevel,5.63,PM2.5
+Sandoval,15.91,PM10
+San Juan,10.03,PM10
+San Migu,5.74,PM10
+Santa Fe,10.4,PM10
+Sierra C,7.42,PM10
+Socorro,6.42,PM10
+Taos Cou,12.3,PM10
+Torrance,7.12,PM10
+Valencia,11.85,PM10
+Albany C,9.42,PM2.5
+Allegany,10.87,PM2.5
+Bronx Co,21.36,PM10
+Broome C,10.42,PM2.5
+Cattarau,10.6,PM2.5
+Cayuga C,9.67,PM2.5
+Chautauq,10.24,PM2.5
+Chemung,10.19,PM2.5
+Chenango,9.74,PM2.5
+Clinton,7.26,PM10
+Columbia,11.02,PM10
+Cortland,9.64,PM2.5
+Delaware,9.86,PM2.5
+Dutchess,10.07,PM10
+Erie Cou,11.3,PM2.5
+Essex Co,8.51,PM10
+Franklin,6.94,PM10
+Fulton C,9.12,PM2.5
+Genesee,9.97,PM2.5
+Greene C,9.17,PM2.5
+Hamilton,8.32,PM2.5
+Herkimer,8.79,PM2.5
+Jefferso,8.01,PM2.5
+Kings Co,16.68,PM10
+Lewis Co,8.27,PM2.5
+Livingst,10.16,PM2.5
+Madison,9.38,PM2.5
+Monroe C,10.21,PM2.5
+Montgome,9.43,PM2.5
+Nassau C,16.67,PM10
+New York,24.97,PM10
+Niagara,9.84,PM2.5
+Oneida C,9.12,PM2.5
+Onondaga,10.14,PM2.5
+Ontario,9.87,PM2.5
+Orange C,10.99,PM10
+Orleans,9.58,PM2.5
+Oswego C,8.94,PM2.5
+Otsego C,9.57,PM2.5
+Putnam C,11.61,PM10
+Queens C,15.8,PM10
+Renssela,9.69,PM10
+Richmond,17.79,PM10
+Rockland,16.34,PM10
+St. Lawr,7.36,PM2.5
+Saratoga,8.86,PM2.5
+Schenect,9.08,PM2.5
+Schohari,9.79,PM2.5
+Schuyler,10.21,PM2.5
+Seneca C,9.77,PM2.5
+Steuben,10.34,PM2.5
+Suffolk,11.64,PM10
+Sullivan,9.16,PM2.5
+Tioga Co,10.11,PM2.5
+Tompkins,10.01,PM2.5
+Ulster C,9.15,PM10
+Warren C,8.28,PM2.5
+Washingt,10.05,PM10
+Wayne Co,9.43,PM2.5
+Westches,15.86,PM10
+Wyoming,10.41,PM2.5
+Yates Co,9.98,PM2.5
+Alamance,14.83,PM10
+Alexande,15.59,PM10
+Alleghan,13.71,PM10
+Anson Co,12.51,PM10
+Ashe Cou,12.52,PM10
+Avery Co,13.8,PM10
+Beaufort,9.88,PM2.5
+Bertie C,10.56,PM2.5
+Bladen C,11.66,PM10
+Brunswic,10.04,PM2.5
+Buncombe,13.46,PM10
+Burke Co,16.01,PM10
+Cabarrus,18.06,PM10
+Caldwell,15.05,PM10
+Camden C,11.12,PM10
+Carteret,8.73,PM2.5
+Caswell,13.17,PM10
+Catawba,19.28,PM10
+Chatham,15.23,PM10
+Cherokee,12.64,PM2.5
+Chowan C,10.08,PM2.5
+Clay Cou,12.68,PM2.5
+Clevelan,16.72,PM10
+Columbus,10.8,PM2.5
+Craven C,9.87,PM2.5
+Cumberla,18.26,PM10
+Currituc,9.65,PM2.5
+Dare Cou,8.23,PM2.5
+Davidson,18.59,PM10
+Davie Co,17.42,PM10
+Duplin C,13.3,PM10
+Durham C,19.92,PM10
+Edgecomb,13.73,PM10
+Forsyth,20.35,PM10
+Franklin,14.88,PM10
+Gaston C,19.34,PM10
+Gates Co,11.18,PM10
+Graham C,12.95,PM10
+Granvill,14.47,PM10
+Greene C,14.65,PM10
+Guilford,19.14,PM10
+Halifax,12.01,PM10
+Harnett,17.21,PM10
+Haywood,14.7,PM10
+Henderso,16.47,PM10
+Hertford,10.7,PM2.5
+Hoke Cou,14.29,PM10
+Hyde Cou,8.73,PM2.5
+Iredell,16.92,PM10
+Jackson,13.05,PM10
+Johnston,16.98,PM10
+Jones Co,12.11,PM10
+Lee Coun,15.25,PM10
+Lenoir C,13.89,PM10
+Lincoln,19.2,PM10
+McDowell,16.86,PM10
+Macon Co,12.41,PM2.5
+Madison,13.28,PM10
+Martin C,10.65,PM2.5
+Mecklenb,25.77,PM10
+Mitchell,14.93,PM10
+Montgome,12.52,PM10
+Moore Co,13.1,PM10
+Nash Cou,14.7,PM10
+New Hano,11.6,PM10
+Northamp,11.08,PM2.5
+Onslow C,14.26,PM10
+Orange C,16.12,PM10
+Pamlico,9.24,PM2.5
+Pasquota,11.86,PM10
+Pender C,11.6,PM10
+Perquima,10.9,PM10
+Person C,13.79,PM10
+Pitt Cou,13.75,PM10
+Polk Cou,15.47,PM10
+Randolph,15.45,PM10
+Richmond,11.53,PM2.5
+Robeson,12.59,PM10
+Rockingh,14.08,PM10
+Rowan Co,17.63,PM10
+Rutherfo,15.17,PM10
+Sampson,13.83,PM10
+Scotland,11.69,PM10
+Stanly C,14.27,PM10
+Stokes C,16.0,PM10
+Surry Co,15.59,PM10
+Swain Co,15.73,PM10
+Transylv,13.74,PM10
+Tyrrell,9.04,PM2.5
+Union Co,15.87,PM10
+Vance Co,13.5,PM10
+Wake Cou,19.94,PM10
+Warren C,12.25,PM10
+Washingt,9.72,PM2.5
+Watauga,12.54,PM10
+Wayne Co,18.75,PM10
+Wilkes C,13.92,PM10
+Wilson C,15.7,PM10
+Yadkin C,16.02,PM10
+Yancey C,14.18,PM10
+Barnes C,6.12,PM2.5
+Benson C,5.07,PM2.5
+Bottinea,4.47,PM2.5
+Bowman C,5.09,PM2.5
+Burleigh,8.27,PM10
+Cass Cou,7.87,PM10
+Cavalier,4.81,PM2.5
+Dickey C,7.43,PM10
+Foster C,5.61,PM2.5
+Grand Fo,5.38,PM2.5
+Griggs C,5.81,PM2.5
+McHenry,4.82,PM2.5
+McKenzie,6.92,PM10
+McLean C,5.44,PM10
+Mercer C,6.1,PM10
+Morton C,6.49,PM10
+Mountrai,6.78,PM10
+Nelson C,5.51,PM2.5
+Pembina,4.84,PM2.5
+Pierce C,4.87,PM2.5
+Ramsey C,5.09,PM2.5
+Ransom C,6.76,PM10
+Richland,8.22,PM10
+Rolette,4.55,PM2.5
+Sargent,7.29,PM10
+Stark Co,5.37,PM10
+Stutsman,5.88,PM2.5
+Traill C,5.81,PM2.5
+Walsh Co,5.14,PM2.5
+Ward Cou,4.84,PM10
+Wells Co,5.32,PM2.5
+Williams,5.36,PM10
+Adams Co,11.24,PM2.5
+Allen Co,21.36,PM10
+Ashland,13.03,PM10
+Ashtabul,12.19,PM10
+Athens C,14.9,PM10
+Auglaize,15.7,PM10
+Belmont,17.13,PM10
+Brown Co,10.87,PM2.5
+Butler C,20.91,PM10
+Carroll,15.46,PM10
+Champaig,15.11,PM10
+Clark Co,15.61,PM10
+Clermont,14.61,PM10
+Clinton,12.98,PM10
+Columbia,20.44,PM10
+Coshocto,12.25,PM10
+Crawford,15.55,PM10
+Cuyahoga,30.37,PM10
+Darke Co,13.16,PM10
+Defiance,12.35,PM10
+Delaware,19.93,PM10
+Erie Cou,13.93,PM10
+Fairfiel,15.54,PM10
+Fayette,12.5,PM10
+Franklin,27.58,PM10
+Fulton C,11.93,PM10
+Gallia C,14.97,PM10
+Geauga C,17.46,PM10
+Greene C,16.89,PM10
+Guernsey,11.87,PM10
+Hamilton,24.36,PM10
+Hancock,21.77,PM10
+Hardin C,17.05,PM10
+Harrison,13.36,PM10
+Henry Co,13.17,PM10
+Highland,10.96,PM2.5
+Hocking,13.54,PM10
+Holmes C,12.07,PM10
+Huron Co,14.21,PM10
+Jackson,14.98,PM10
+Jefferso,20.63,PM10
+Knox Cou,14.91,PM10
+Lake Cou,17.92,PM10
+Lawrence,21.05,PM10
+Licking,16.43,PM10
+Logan Co,15.15,PM10
+Lorain C,16.45,PM10
+Lucas Co,18.27,PM10
+Madison,15.09,PM10
+Mahoning,21.6,PM10
+Marion C,16.68,PM10
+Medina C,15.7,PM10
+Meigs Co,14.7,PM10
+Mercer C,12.96,PM10
+Miami Co,15.78,PM10
+Monroe C,15.37,PM10
+Montgome,23.33,PM10
+Morgan C,15.72,PM10
+Morrow C,16.55,PM10
+Muskingu,12.89,PM10
+Noble Co,14.26,PM10
+Ottawa C,17.16,PM10
+Paulding,13.15,PM10
+Perry Co,13.79,PM10
+Pickaway,15.69,PM10
+Pike Cou,12.78,PM10
+Portage,18.95,PM10
+Preble C,16.91,PM10
+Putnam C,15.71,PM10
+Richland,14.43,PM10
+Ross Cou,12.62,PM10
+Sandusky,17.88,PM10
+Scioto C,18.01,PM10
+Seneca C,18.35,PM10
+Shelby C,14.06,PM10
+Stark Co,20.05,PM10
+Summit C,19.58,PM10
+Trumbull,17.66,PM10
+Tuscaraw,11.12,PM2.5
+Union Co,16.14,PM10
+Van Wert,13.24,PM10
+Vinton C,13.26,PM2.5
+Warren C,18.39,PM10
+Washingt,21.69,PM10
+Wayne Co,12.78,PM10
+Williams,12.53,PM10
+Wood Cou,18.34,PM10
+Wyandot,19.27,PM10
+Adair Co,13.4,PM10
+Alfalfa,8.31,PM10
+Atoka Co,9.55,PM2.5
+Beckham,6.83,PM2.5
+Blaine C,10.37,PM10
+Bryan Co,9.12,PM2.5
+Caddo Co,9.06,PM10
+Canadian,12.0,PM10
+Carter C,9.08,PM2.5
+Cherokee,20.79,PM10
+Choctaw,10.28,PM2.5
+Clevelan,13.59,PM10
+Coal Cou,9.82,PM10
+Comanche,8.35,PM2.5
+Cotton C,7.98,PM2.5
+Craig Co,17.61,PM10
+Creek Co,14.76,PM10
+Custer C,15.14,PM10
+Delaware,15.37,PM10
+Dewey Co,9.35,PM10
+Ellis Co,6.51,PM10
+Garfield,11.09,PM10
+Garvin C,9.33,PM10
+Grady Co,9.87,PM10
+Grant Co,10.83,PM10
+Greer Co,7.0,PM2.5
+Harmon C,6.7,PM2.5
+Harper C,6.99,PM10
+Haskell,12.44,PM10
+Hughes C,12.1,PM10
+Jackson,7.21,PM2.5
+Jefferso,8.48,PM2.5
+Johnston,9.0,PM2.5
+Kay Coun,22.12,PM10
+Kingfish,11.86,PM10
+Kiowa Co,7.69,PM10
+Latimer,11.06,PM10
+Le Flore,10.6,PM2.5
+Lincoln,13.09,PM10
+Logan Co,15.14,PM10
+Love Cou,9.12,PM2.5
+McClain,11.09,PM10
+McCurtai,10.96,PM2.5
+McIntosh,16.56,PM10
+Marshall,9.19,PM2.5
+Mayes Co,18.64,PM10
+Murray C,9.1,PM2.5
+Muskogee,21.89,PM10
+Noble Co,15.29,PM10
+Nowata C,17.36,PM10
+Okfuskee,12.71,PM10
+Oklahoma,20.56,PM10
+Okmulgee,16.4,PM10
+Osage Co,15.01,PM10
+Ottawa C,20.17,PM10
+Pawnee C,14.89,PM10
+Payne Co,14.16,PM10
+Pittsbur,20.58,PM10
+Pontotoc,9.45,PM10
+Pottawat,11.66,PM10
+Pushmata,10.53,PM2.5
+Rogers C,19.27,PM10
+Seminole,11.35,PM10
+Sequoyah,12.41,PM10
+Stephens,8.67,PM2.5
+Texas Co,6.0,PM2.5
+Tillman,7.21,PM2.5
+Tulsa Co,25.95,PM10
+Wagoner,23.25,PM10
+Washingt,16.19,PM10
+Washita,12.26,PM10
+Woods Co,7.62,PM10
+Baker Co,8.79,PM10
+Benton C,7.98,PM10
+Clackama,8.52,PM10
+Clatsop,6.69,PM2.5
+Columbia,12.62,PM10
+Coos Cou,6.45,PM2.5
+Crook Co,7.73,PM10
+Curry Co,7.36,PM10
+Deschute,12.49,PM10
+Douglas,9.02,PM10
+Grant Co,8.39,PM10
+Harney C,7.55,PM10
+Hood Riv,7.69,PM10
+Jackson,16.43,PM10
+Jefferso,9.39,PM10
+Josephin,11.55,PM10
+Klamath,10.06,PM10
+Lake Cou,7.36,PM10
+Lane Cou,13.15,PM10
+Lincoln,6.45,PM2.5
+Linn Cou,8.69,PM10
+Malheur,7.26,PM10
+Marion C,8.32,PM10
+Morrow C,10.17,PM10
+Multnoma,11.92,PM10
+Polk Cou,6.98,PM2.5
+Tillamoo,6.64,PM2.5
+Umatilla,17.23,PM10
+Union Co,19.41,PM10
+Wallowa,10.64,PM10
+Wasco Co,7.59,PM10
+Washingt,10.44,PM10
+Yamhill,7.24,PM10
+Adams Co,13.32,PM10
+Alleghen,23.43,PM10
+Armstron,10.83,PM2.5
+Beaver C,25.41,PM10
+Bedford,13.53,PM10
+Berks Co,21.16,PM10
+Blair Co,19.39,PM10
+Bradford,10.65,PM2.5
+Bucks Co,18.36,PM10
+Butler C,12.25,PM10
+Cambria,16.04,PM10
+Cameron,11.6,PM2.5
+Carbon C,16.65,PM10
+Centre C,11.83,PM2.5
+Chester,18.03,PM10
+Clarion,10.59,PM2.5
+Clearfie,10.94,PM2.5
+Clinton,11.64,PM2.5
+Columbia,12.45,PM10
+Crawford,10.85,PM10
+Cumberla,12.93,PM10
+Dauphin,16.39,PM10
+Delaware,21.19,PM10
+Elk Coun,10.76,PM2.5
+Erie Cou,13.48,PM10
+Fayette,16.32,PM10
+Forest C,10.61,PM2.5
+Franklin,12.48,PM10
+Fulton C,13.73,PM10
+Greene C,16.76,PM10
+Huntingd,12.83,PM10
+Indiana,12.15,PM10
+Jefferso,10.34,PM2.5
+Juniata,11.52,PM2.5
+Lackawan,17.54,PM10
+Lancaste,20.34,PM10
+Lawrence,27.09,PM10
+Lebanon,16.87,PM10
+Lehigh C,17.62,PM10
+Luzerne,15.2,PM10
+Lycoming,15.16,PM10
+Mc Kean,10.97,PM2.5
+Mercer C,13.27,PM10
+Mifflin,11.37,PM2.5
+Monroe C,15.89,PM10
+Montgome,17.39,PM10
+Montour,13.5,PM10
+Northamp,30.29,PM10
+Northumb,13.33,PM10
+Perry Co,12.54,PM10
+Philadel,25.07,PM10
+Pike Cou,11.29,PM10
+Potter C,11.37,PM2.5
+Schuylki,14.16,PM10
+Snyder C,13.13,PM10
+Somerset,13.34,PM10
+Sullivan,10.88,PM2.5
+Susqueha,10.28,PM2.5
+Tioga Co,10.83,PM2.5
+Union Co,14.17,PM10
+Venango,10.45,PM2.5
+Warren C,10.78,PM2.5
+Washingt,16.08,PM10
+Wayne Co,9.89,PM10
+Westmore,19.93,PM10
+Wyoming,11.71,PM10
+York Cou,21.6,PM10
+Bristol,14.26,PM10
+Kent Cou,13.26,PM10
+Newport,9.9,PM10
+Providen,16.87,PM10
+Washingt,10.02,PM10
+Abbevill,12.44,PM2.5
+Aiken Co,15.29,PM10
+Allendal,12.82,PM10
+Anderson,12.61,PM2.5
+Bamberg,12.59,PM10
+Barnwell,16.93,PM10
+Beaufort,11.93,PM10
+Berkeley,14.86,PM10
+Calhoun,13.48,PM10
+Charlest,19.61,PM10
+Cherokee,15.47,PM10
+Chester,16.02,PM10
+Chesterf,13.68,PM10
+Clarendo,11.39,PM2.5
+Colleton,11.33,PM10
+Darlingt,11.83,PM2.5
+Dillon C,11.54,PM2.5
+Dorchest,11.96,PM10
+Edgefiel,13.36,PM10
+Fairfiel,15.01,PM10
+Florence,11.41,PM2.5
+Georgeto,20.29,PM10
+Greenvil,18.69,PM10
+Greenwoo,12.93,PM2.5
+Hampton,12.04,PM10
+Horry Co,10.91,PM2.5
+Jasper C,13.3,PM10
+Kershaw,13.05,PM10
+Lancaste,15.31,PM10
+Laurens,12.6,PM10
+Lee Coun,11.69,PM2.5
+Lexingto,20.48,PM10
+McCormic,12.52,PM2.5
+Marion C,11.24,PM2.5
+Marlboro,11.62,PM2.5
+Newberry,12.79,PM10
+Oconee C,12.08,PM2.5
+Orangebu,12.06,PM10
+Pickens,13.4,PM10
+Richland,18.76,PM10
+Saluda C,12.93,PM10
+Spartanb,19.33,PM10
+Sumter C,11.57,PM2.5
+Union Co,13.12,PM10
+Williams,12.73,PM10
+York Cou,19.03,PM10
+Aurora C,6.89,PM2.5
+Beadle C,7.87,PM10
+Bon Homm,7.53,PM2.5
+Brooking,21.83,PM10
+Brown Co,13.36,PM10
+Brule Co,6.68,PM2.5
+Butte Co,5.28,PM2.5
+Charles,6.91,PM2.5
+Clark Co,9.76,PM10
+Clay Cou,10.71,PM10
+Codingto,15.27,PM10
+Custer C,7.33,PM10
+Davison,7.21,PM10
+Day Coun,9.2,PM10
+Deuel Co,13.82,PM10
+Douglas,7.07,PM2.5
+Fall Riv,5.29,PM2.5
+Grant Co,11.29,PM10
+Gregory,6.65,PM2.5
+Hamlin C,14.68,PM10
+Hughes C,6.26,PM2.5
+Hutchins,8.11,PM10
+Kingsbur,10.42,PM10
+Lake Cou,13.27,PM10
+Lawrence,5.97,PM10
+Lincoln,14.37,PM10
+McCook C,10.52,PM10
+Meade Co,5.23,PM2.5
+Minnehah,17.77,PM10
+Moody Co,16.76,PM10
+Penningt,6.92,PM10
+Potter C,6.14,PM2.5
+Roberts,8.88,PM10
+Shannon,5.19,PM2.5
+Spink Co,9.49,PM10
+Tripp Co,6.32,PM2.5
+Turner C,11.15,PM10
+Union Co,13.39,PM10
+Walworth,6.03,PM2.5
+Yankton,8.96,PM10
+Anderson,17.69,PM10
+Bedford,12.38,PM2.5
+Benton C,11.84,PM2.5
+Bledsoe,13.94,PM10
+Blount C,15.97,PM10
+Bradley,20.47,PM10
+Campbell,16.98,PM10
+Cannon C,12.44,PM2.5
+Carroll,11.27,PM2.5
+Carter C,12.53,PM2.5
+Cheatham,16.28,PM10
+Chester,11.65,PM2.5
+Claiborn,18.28,PM10
+Clay Cou,12.51,PM2.5
+Cocke Co,14.37,PM10
+Coffee C,12.68,PM2.5
+Crockett,11.59,PM2.5
+Cumberla,13.21,PM10
+Davidson,22.1,PM10
+Decatur,11.73,PM2.5
+DeKalb C,12.66,PM2.5
+Dickson,12.89,PM10
+Dyer Cou,12.14,PM2.5
+Fayette,11.62,PM2.5
+Fentress,12.8,PM2.5
+Franklin,12.68,PM2.5
+Gibson C,11.24,PM2.5
+Giles Co,12.11,PM2.5
+Grainger,15.15,PM10
+Greene C,14.05,PM10
+Grundy C,12.92,PM2.5
+Hamblen,14.43,PM10
+Hamilton,18.09,PM10
+Hancock,14.86,PM10
+Hardeman,11.68,PM2.5
+Hardin C,11.61,PM2.5
+Hawkins,13.73,PM10
+Haywood,11.56,PM2.5
+Henderso,11.49,PM2.5
+Henry Co,11.47,PM2.5
+Hickman,12.11,PM2.5
+Houston,11.7,PM2.5
+Humphrey,11.63,PM2.5
+Jackson,12.62,PM2.5
+Jefferso,14.93,PM10
+Johnson,12.52,PM2.5
+Knox Cou,22.12,PM10
+Lake Cou,11.72,PM2.5
+Lauderda,11.63,PM2.5
+Lawrence,11.92,PM2.5
+Lewis Co,12.05,PM2.5
+Lincoln,12.39,PM2.5
+Loudon C,16.65,PM10
+McMinn C,21.3,PM10
+McNairy,11.7,PM2.5
+Macon Co,12.39,PM2.5
+Madison,15.9,PM10
+Marion C,13.8,PM10
+Marshall,12.27,PM2.5
+Maury Co,12.64,PM2.5
+Meigs Co,20.62,PM10
+Monroe C,14.77,PM10
+Montgome,16.63,PM10
+Moore Co,12.47,PM2.5
+Morgan C,14.41,PM10
+Obion Co,11.63,PM2.5
+Overton,12.46,PM2.5
+Perry Co,11.89,PM2.5
+Pickett,12.7,PM2.5
+Polk Cou,16.2,PM10
+Putnam C,13.35,PM2.5
+Rhea Cou,17.13,PM10
+Roane Co,17.74,PM10
+Robertso,14.77,PM10
+Rutherfo,12.35,PM2.5
+Scott Co,13.59,PM10
+Sequatch,13.95,PM10
+Sevier C,15.29,PM10
+Shelby C,19.93,PM10
+Smith Co,12.54,PM2.5
+Stewart,11.64,PM2.5
+Sullivan,13.09,PM2.5
+Sumner C,12.6,PM2.5
+Tipton C,12.43,PM10
+Trousdal,12.55,PM2.5
+Unicoi C,12.47,PM2.5
+Union Co,23.12,PM10
+Van Bure,12.57,PM2.5
+Warren C,12.72,PM2.5
+Washingt,12.61,PM2.5
+Wayne Co,11.73,PM2.5
+Weakley,11.23,PM2.5
+White Co,12.4,PM2.5
+Williams,15.3,PM10
+Wilson C,12.48,PM2.5
+Anderson,9.85,PM2.5
+Andrews,5.66,PM2.5
+Angelina,9.75,PM2.5
+Aransas,9.75,PM10
+Archer C,7.44,PM2.5
+Atascosa,9.99,PM10
+Austin C,9.05,PM2.5
+Bandera,7.47,PM2.5
+Bastrop,10.22,PM10
+Baylor C,7.01,PM2.5
+Bee Coun,10.48,PM10
+Bell Cou,8.48,PM2.5
+Bexar Co,19.2,PM10
+Blanco C,9.36,PM10
+Bosque C,8.76,PM2.5
+Bowie Co,11.18,PM2.5
+Brazoria,9.97,PM10
+Brazos C,9.09,PM2.5
+Brewster,5.11,PM2.5
+Brown Co,7.1,PM2.5
+Burleson,8.76,PM2.5
+Burnet C,7.76,PM2.5
+Caldwell,11.75,PM10
+Calhoun,8.02,PM2.5
+Callahan,7.06,PM2.5
+Cameron,18.54,PM10
+Carson C,6.28,PM2.5
+Cass Cou,10.89,PM2.5
+Castro C,6.16,PM2.5
+Chambers,9.76,PM2.5
+Cherokee,10.23,PM2.5
+Childres,6.87,PM2.5
+Clay Cou,8.04,PM2.5
+Coke Cou,6.78,PM2.5
+Coleman,6.87,PM2.5
+Collin C,12.47,PM10
+Colorado,8.77,PM2.5
+Comal Co,16.02,PM10
+Comanche,7.69,PM2.5
+Concho C,6.73,PM2.5
+Cooke Co,9.29,PM2.5
+Coryell,8.28,PM2.5
+Crosby C,6.51,PM2.5
+Dallam C,5.41,PM10
+Dallas C,26.5,PM10
+Dawson C,6.44,PM2.5
+Deaf Smi,5.99,PM2.5
+Denton C,12.59,PM10
+DeWitt C,8.7,PM10
+Dimmit C,7.04,PM2.5
+Donley C,6.41,PM2.5
+Duval Co,9.27,PM10
+Eastland,7.42,PM2.5
+Ector Co,6.04,PM2.5
+Ellis Co,14.25,PM10
+El Paso,27.75,PM10
+Erath Co,8.05,PM2.5
+Falls Co,9.13,PM2.5
+Fannin C,9.84,PM2.5
+Fayette,8.65,PM2.5
+Fisher C,6.79,PM2.5
+Floyd Co,6.42,PM2.5
+Fort Ben,10.55,PM10
+Freeston,9.59,PM2.5
+Frio Cou,7.48,PM10
+Gaines C,6.46,PM10
+Galvesto,20.33,PM10
+Garza Co,6.66,PM2.5
+Gillespi,7.2,PM2.5
+Goliad C,9.27,PM10
+Gonzales,9.66,PM10
+Gray Cou,6.11,PM2.5
+Grayson,9.39,PM2.5
+Gregg Co,10.74,PM2.5
+Grimes C,9.19,PM2.5
+Guadalup,13.9,PM10
+Hale Cou,6.31,PM2.5
+Hall Cou,6.64,PM2.5
+Hamilton,8.04,PM2.5
+Hardin C,9.57,PM2.5
+Harris C,24.67,PM10
+Harrison,11.02,PM2.5
+Haskell,7.07,PM2.5
+Hays Cou,13.41,PM10
+Henderso,10.0,PM2.5
+Hidalgo,17.2,PM10
+Hill Cou,9.51,PM2.5
+Hockley,6.26,PM10
+Hood Cou,8.83,PM2.5
+Houston,9.87,PM2.5
+Howard C,6.59,PM2.5
+Hunt Cou,10.09,PM2.5
+Hutchins,6.2,PM2.5
+Jack Cou,8.13,PM2.5
+Jackson,8.41,PM2.5
+Jasper C,9.87,PM2.5
+Jefferso,9.94,PM2.5
+Jim Well,10.62,PM10
+Johnson,13.75,PM10
+Jones Co,6.9,PM2.5
+Karnes C,9.89,PM10
+Kaufman,10.87,PM2.5
+Kendall,9.46,PM10
+Kerr Cou,7.22,PM2.5
+Kimble C,6.91,PM2.5
+Kleberg,12.05,PM10
+Knox Cou,6.86,PM2.5
+Lamar Co,9.93,PM2.5
+Lamb Cou,6.01,PM2.5
+Lampasas,7.71,PM2.5
+Lavaca C,8.49,PM2.5
+Lee Coun,8.56,PM2.5
+Leon Cou,9.27,PM2.5
+Liberty,9.76,PM2.5
+Limeston,9.56,PM2.5
+Live Oak,9.73,PM10
+Llano Co,7.09,PM2.5
+Lubbock,11.24,PM10
+Lynn Cou,6.58,PM2.5
+McCulloc,7.04,PM2.5
+McLennan,9.61,PM2.5
+Madison,9.6,PM2.5
+Marion C,10.8,PM2.5
+Matagord,8.55,PM2.5
+Medina C,7.74,PM10
+Midland,6.14,PM2.5
+Milam Co,8.97,PM2.5
+Mitchell,6.84,PM2.5
+Montague,8.68,PM2.5
+Montgome,10.55,PM10
+Moore Co,6.08,PM2.5
+Nacogdoc,10.03,PM2.5
+Navarro,9.9,PM2.5
+Newton C,9.98,PM2.5
+Nolan Co,6.97,PM2.5
+Nueces C,17.04,PM10
+Orange C,10.89,PM2.5
+Palo Pin,7.99,PM2.5
+Panola C,10.75,PM2.5
+Parker C,9.87,PM10
+Pecos Co,5.54,PM2.5
+Polk Cou,9.45,PM2.5
+Potter C,6.21,PM2.5
+Randall,6.23,PM2.5
+Real Cou,7.08,PM2.5
+Red Rive,10.51,PM2.5
+Reeves C,5.32,PM2.5
+Refugio,9.97,PM10
+Robertso,9.19,PM2.5
+Rockwall,12.62,PM10
+Runnels,6.93,PM2.5
+Rusk Cou,10.42,PM2.5
+Sabine C,10.35,PM2.5
+San Augu,10.15,PM2.5
+San Jaci,9.55,PM2.5
+San Patr,16.34,PM10
+San Saba,7.14,PM2.5
+Scurry C,6.8,PM2.5
+Shelby C,10.51,PM2.5
+Somervel,8.84,PM2.5
+Starr Co,9.38,PM10
+Stephens,7.47,PM2.5
+Swisher,6.41,PM2.5
+Tarrant,18.67,PM10
+Taylor C,6.85,PM2.5
+Terry Co,5.96,PM2.5
+Tom Gree,6.6,PM2.5
+Travis C,16.4,PM10
+Trinity,9.34,PM2.5
+Tyler Co,9.47,PM2.5
+Uvalde C,7.21,PM2.5
+Val Verd,6.31,PM2.5
+Van Zand,9.89,PM2.5
+Victoria,8.16,PM2.5
+Walker C,9.29,PM2.5
+Waller C,9.48,PM10
+Ward Cou,5.5,PM2.5
+Washingt,8.86,PM2.5
+Webb Cou,12.25,PM10
+Wharton,8.75,PM2.5
+Wheeler,6.18,PM2.5
+Wichita,7.29,PM2.5
+Wilbarge,7.25,PM2.5
+Willacy,12.89,PM10
+Williams,9.73,PM10
+Wilson C,12.28,PM10
+Winkler,5.46,PM2.5
+Wise Cou,9.08,PM10
+Yoakum C,6.57,PM10
+Young Co,7.43,PM2.5
+Zapata C,8.79,PM10
+Box Elde,7.56,PM10
+Cache Co,21.01,PM10
+Carbon C,6.4,PM2.5
+Davis Co,22.68,PM10
+Duchesne,6.65,PM2.5
+Grand Co,8.37,PM10
+Iron Cou,5.34,PM2.5
+Juab Cou,5.76,PM2.5
+Kane Cou,5.81,PM2.5
+Millard,5.43,PM2.5
+Salt Lak,29.0,PM10
+Sanpete,6.16,PM2.5
+Sevier C,5.67,PM2.5
+Summit C,8.26,PM10
+Tooele C,6.21,PM2.5
+Uintah C,6.64,PM2.5
+Utah Cou,13.4,PM10
+Wasatch,8.56,PM10
+Washingt,5.41,PM2.5
+Weber Co,24.87,PM10
+Addison,12.37,PM10
+Benningt,12.18,PM10
+Caledoni,8.0,PM10
+Chittend,13.22,PM10
+Essex Co,7.7,PM10
+Franklin,7.13,PM10
+Grand Is,8.37,PM10
+Lamoille,7.87,PM10
+Orange C,10.27,PM10
+Orleans,7.2,PM2.5
+Rutland,15.16,PM10
+Washingt,10.85,PM10
+Windham,15.31,PM10
+Windsor,11.9,PM10
+Accomack,9.7,PM2.5
+Albemarl,17.74,PM10
+Alleghan,13.6,PM10
+Amelia C,11.51,PM10
+Amherst,12.09,PM10
+Appomatt,11.55,PM10
+Arlingto,22.39,PM10
+Augusta,13.88,PM10
+Bath Cou,12.15,PM10
+Bland Co,12.25,PM2.5
+Botetour,15.96,PM10
+Brunswic,11.28,PM2.5
+Buchanan,12.56,PM2.5
+Buckingh,12.16,PM10
+Campbell,11.84,PM10
+Caroline,14.19,PM10
+Carroll,15.58,PM10
+Charles,13.22,PM10
+Charlott,11.65,PM2.5
+Chesterf,13.92,PM10
+Clarke C,18.95,PM10
+Craig Co,17.02,PM10
+Culpeper,16.75,PM10
+Cumberla,11.77,PM10
+Dickenso,12.9,PM2.5
+Dinwiddi,11.54,PM2.5
+Essex Co,13.12,PM10
+Fairfax,18.97,PM10
+Fauquier,16.62,PM10
+Floyd Co,15.36,PM10
+Fluvanna,14.29,PM10
+Franklin,17.31,PM10
+Frederic,17.04,PM10
+Giles Co,13.06,PM10
+Gloucest,13.43,PM10
+Goochlan,12.76,PM10
+Grayson,12.96,PM10
+Greene C,17.33,PM10
+Greensvi,11.22,PM2.5
+Halifax,12.09,PM10
+Hanover,14.69,PM10
+Henrico,16.04,PM10
+Henry Co,14.34,PM10
+Isle of,12.75,PM10
+James Ci,13.89,PM10
+King and,14.41,PM10
+King Geo,13.84,PM10
+King Wil,14.06,PM10
+Lancaste,13.34,PM10
+Lee Coun,15.07,PM10
+Loudoun,16.32,PM10
+Louisa C,13.57,PM10
+Lunenbur,11.65,PM2.5
+Madison,16.15,PM10
+Mathews,12.29,PM10
+Mecklenb,11.81,PM10
+Middlese,13.88,PM10
+Montgome,15.7,PM10
+Nelson C,13.05,PM10
+New Kent,14.3,PM10
+Northamp,9.97,PM2.5
+Northumb,12.9,PM10
+Nottoway,11.5,PM2.5
+Orange C,15.31,PM10
+Page Cou,16.14,PM10
+Patrick,15.01,PM10
+Pittsylv,12.81,PM10
+Powhatan,12.14,PM10
+Prince E,11.54,PM2.5
+Prince G,12.1,PM10
+Prince W,17.53,PM10
+Pulaski,13.44,PM10
+Rappahan,16.22,PM10
+Richmond,12.73,PM10
+Roanoke,24.89,PM10
+Rockbrid,12.53,PM10
+Rockingh,18.35,PM10
+Russell,12.66,PM2.5
+Scott Co,12.69,PM2.5
+Shenando,14.69,PM10
+Smyth Co,12.36,PM2.5
+Southamp,10.96,PM2.5
+Spotsylv,14.99,PM10
+Stafford,16.78,PM10
+Surry Co,12.33,PM10
+Sussex C,11.24,PM2.5
+Tazewell,12.51,PM2.5
+Warren C,17.46,PM10
+Washingt,12.89,PM2.5
+Westmore,12.61,PM10
+Wise Cou,12.84,PM2.5
+Wythe Co,13.08,PM10
+York Cou,13.57,PM10
+Alexandr,21.88,PM10
+Bristol,14.39,PM2.5
+Buena Vi,12.66,PM10
+Charlott,19.17,PM10
+Chesapea,14.75,PM10
+Colonial,12.89,PM10
+Covingto,13.69,PM10
+Danville,12.76,PM10
+Emporia,11.21,PM2.5
+Fairfax,18.73,PM10
+Falls Ch,20.69,PM10
+Franklin,11.23,PM10
+Frederic,17.17,PM10
+Galax ci,16.35,PM10
+Hampton,15.63,PM10
+Harrison,19.77,PM10
+Hopewell,13.1,PM10
+Lexingto,12.64,PM10
+Lynchbur,12.68,PM2.5
+Manassas,17.86,PM10
+Martinsv,14.29,PM10
+Newport,14.32,PM10
+Norfolk,17.15,PM10
+Norton c,12.75,PM2.5
+Petersbu,12.19,PM10
+Poquoson,14.42,PM10
+Portsmou,17.76,PM10
+Radford,14.13,PM10
+Richmond,17.24,PM10
+Roanoke,26.27,PM10
+Salem ci,25.4,PM10
+Staunton,14.48,PM10
+Suffolk,12.53,PM10
+Virginia,11.72,PM10
+Waynesbo,15.18,PM10
+Williams,13.62,PM10
+Winchest,18.63,PM10
+Adams Co,11.07,PM10
+Asotin C,16.08,PM10
+Benton C,17.82,PM10
+Chelan C,8.27,PM10
+Clallam,5.82,PM2.5
+Clark Co,12.74,PM10
+Columbia,14.79,PM10
+Cowlitz,13.07,PM10
+Douglas,8.42,PM10
+Ferry Co,8.95,PM10
+Franklin,16.23,PM10
+Grant Co,10.17,PM10
+Grays Ha,6.63,PM2.5
+Island C,9.43,PM10
+Jefferso,6.5,PM2.5
+King Cou,10.24,PM10
+Kitsap C,12.89,PM10
+Kittitas,13.52,PM10
+Klickita,9.32,PM10
+Lewis Co,10.83,PM10
+Lincoln,9.76,PM10
+Mason Co,8.32,PM10
+Okanogan,6.8,PM2.5
+Pacific,6.68,PM2.5
+Pend Ore,12.12,PM10
+Pierce C,12.31,PM10
+San Juan,6.32,PM2.5
+Skagit C,6.94,PM10
+Skamania,8.64,PM10
+Snohomis,8.1,PM10
+Spokane,22.18,PM10
+Stevens,21.08,PM10
+Thurston,13.19,PM10
+Wahkiaku,8.1,PM10
+Walla Wa,21.01,PM10
+Whatcom,6.12,PM2.5
+Whitman,13.11,PM10
+Yakima C,14.23,PM10
+Barbour,9.91,PM2.5
+Berkeley,20.69,PM10
+Boone Co,14.13,PM10
+Braxton,12.15,PM2.5
+Brooke C,25.19,PM10
+Cabell C,17.17,PM10
+Calhoun,12.41,PM2.5
+Clay Cou,12.67,PM2.5
+Doddridg,11.61,PM2.5
+Fayette,12.35,PM2.5
+Gilmer C,11.65,PM2.5
+Grant Co,10.89,PM2.5
+Greenbri,12.26,PM2.5
+Hampshir,13.21,PM10
+Hancock,25.15,PM10
+Hardy Co,12.59,PM10
+Harrison,12.91,PM2.5
+Jackson,14.68,PM10
+Jefferso,19.36,PM10
+Kanawha,17.25,PM10
+Lewis Co,11.62,PM2.5
+Lincoln,15.12,PM10
+Logan Co,12.81,PM2.5
+McDowell,12.41,PM2.5
+Marion C,12.79,PM10
+Marshall,18.51,PM10
+Mason Co,15.52,PM10
+Mercer C,12.17,PM2.5
+Mineral,11.93,PM10
+Mingo Co,13.15,PM10
+Monongal,17.35,PM10
+Monroe C,13.18,PM10
+Morgan C,16.15,PM10
+Nicholas,12.37,PM2.5
+Ohio Cou,20.26,PM10
+Pendleto,11.86,PM2.5
+Pleasant,14.43,PM10
+Pocahont,11.89,PM2.5
+Preston,10.79,PM2.5
+Putnam C,17.35,PM10
+Raleigh,12.82,PM2.5
+Randolph,11.65,PM2.5
+Ritchie,11.93,PM10
+Roane Co,12.82,PM2.5
+Summers,12.03,PM2.5
+Taylor C,11.2,PM2.5
+Tucker C,10.36,PM2.5
+Tyler Co,12.65,PM10
+Upshur C,11.07,PM2.5
+Wayne Co,16.09,PM10
+Webster,12.13,PM2.5
+Wetzel C,14.51,PM10
+Wirt Cou,13.81,PM10
+Wood Cou,18.63,PM10
+Wyoming,12.4,PM2.5
+Adams Co,8.7,PM2.5
+Ashland,7.08,PM10
+Barron C,6.91,PM10
+Bayfield,7.36,PM10
+Brown Co,12.72,PM10
+Buffalo,8.17,PM2.5
+Burnett,7.31,PM10
+Calumet,9.48,PM10
+Chippewa,7.67,PM10
+Clark Co,8.41,PM2.5
+Columbia,9.95,PM10
+Crawford,9.97,PM2.5
+Dane Cou,13.22,PM10
+Dodge Co,10.56,PM10
+Door Cou,7.39,PM2.5
+Douglas,10.78,PM10
+Dunn Cou,7.65,PM10
+Eau Clai,8.15,PM10
+Florence,6.18,PM2.5
+Fond du,9.32,PM2.5
+Forest C,7.47,PM10
+Grant Co,10.46,PM2.5
+Green Co,10.85,PM10
+Green La,9.23,PM10
+Iowa Cou,10.08,PM2.5
+Iron Cou,6.49,PM10
+Jackson,8.94,PM2.5
+Jefferso,12.15,PM10
+Juneau C,8.62,PM2.5
+Kenosha,14.04,PM10
+Kewaunee,8.16,PM2.5
+La Cross,9.57,PM2.5
+Lafayett,10.51,PM2.5
+Langlade,7.81,PM10
+Lincoln,7.72,PM10
+Manitowo,9.07,PM10
+Marathon,9.32,PM10
+Marinett,6.77,PM2.5
+Marquett,9.24,PM10
+Milwauke,22.91,PM10
+Monroe C,9.48,PM2.5
+Oconto C,7.49,PM2.5
+Oneida C,7.53,PM10
+Outagami,9.04,PM10
+Ozaukee,12.43,PM10
+Pepin Co,7.89,PM10
+Pierce C,9.1,PM10
+Polk Cou,7.64,PM10
+Portage,8.75,PM10
+Price Co,7.24,PM2.5
+Racine C,16.51,PM10
+Richland,9.9,PM2.5
+Rock Cou,11.55,PM10
+Rusk Cou,6.7,PM2.5
+St. Croi,9.15,PM10
+Sauk Cou,9.35,PM2.5
+Sawyer C,6.57,PM10
+Shawano,8.17,PM10
+Sheboyga,10.21,PM10
+Taylor C,7.94,PM2.5
+Trempeal,8.19,PM2.5
+Vernon C,9.53,PM2.5
+Vilas Co,7.81,PM10
+Walworth,12.01,PM10
+Washburn,7.17,PM10
+Washingt,12.65,PM10
+Waukesha,18.75,PM10
+Waupaca,10.29,PM10
+Waushara,9.69,PM10
+Winnebag,9.37,PM2.5
+Wood Cou,8.25,PM10
+Albany C,11.9,PM10
+Big Horn,7.27,PM10
+Campbell,16.89,PM10
+Carbon C,9.71,PM10
+Converse,8.34,PM10
+Crook Co,5.26,PM2.5
+Fremont,9.42,PM10
+Goshen C,7.31,PM10
+Hot Spri,7.12,PM10
+Johnson,6.31,PM10
+Laramie,10.1,PM10
+Lincoln,6.83,PM2.5
+Natrona,5.91,PM2.5
+Park Cou,8.77,PM10
+Platte C,13.29,PM10
+Sheridan,22.8,PM10
+Sweetwat,11.26,PM10
+Teton Co,10.4,PM10
+Uinta Co,8.35,PM10
+Washakie,7.21,PM10
+Weston C,5.24,PM2.5

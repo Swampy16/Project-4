@@ -1,0 +1,2603 @@
+County,Highest EQI Values,Highest EQI
+Autauga,0.9553846,Air_EQI
+Baldwin,0.7179643,Air_EQI
+Barbour,0.1310074,Air_EQI
+Bibb Cou,0.065289,Air_EQI
+Blount C,0.4021944,Air_EQI
+Bullock,-0.3091858,Air_EQI
+Butler C,-0.0580627,Built_EQI
+Calhoun,1.027328,Air_EQI
+Chambers,0.6116033,Air_EQI
+Cherokee,0.1769833,Air_EQI
+Chilton,0.1707421,Air_EQI
+Choctaw,-0.3624081,Air_EQI
+Clarke C,-0.1306789,Air_EQI
+Clay Cou,-0.1722357,Air_EQI
+Cleburne,0.0225133,Air_EQI
+Coffee C,0.4223093,Air_EQI
+Colbert,1.04411,Air_EQI
+Conecuh,-0.4582785,Air_EQI
+Coosa Co,-0.1089109,Air_EQI
+Covingto,0.2726992,Built_EQI
+Crenshaw,-0.5155603,Air_EQI
+Cullman,0.5872105,Air_EQI
+Dale Cou,0.6042639,Air_EQI
+Dallas C,0.5834208,Air_EQI
+DeKalb C,0.3951405,Air_EQI
+Elmore C,0.8346915,Sociod_EQI
+Escambia,0.4550379,Air_EQI
+Etowah C,1.261626,Air_EQI
+Fayette,-0.1948088,Air_EQI
+Franklin,0.2432008,Air_EQI
+Geneva C,0.0872817,Air_EQI
+Greene C,-0.2028892,Air_EQI
+Hale Cou,-0.0835471,Air_EQI
+Henry Co,-0.0988077,Air_EQI
+Houston,1.19405,Built_EQI
+Jackson,0.3244386,Air_EQI
+Jefferso,1.599425,Air_EQI
+Lamar Co,-0.2476654,Air_EQI
+Lauderda,1.157003,Air_EQI
+Lawrence,0.6954468,Air_EQI
+Lee Coun,1.095201,Air_EQI
+Limeston,1.109551,Air_EQI
+Lowndes,-0.1692804,Air_EQI
+Macon Co,0.414538,Air_EQI
+Madison,1.119115,Air_EQI
+Marengo,0.4736884,Built_EQI
+Marion C,-0.0701385,Air_EQI
+Marshall,0.5074522,Air_EQI
+Mobile C,1.273919,Air_EQI
+Monroe C,-0.1765922,Air_EQI
+Montgome,1.06388,Air_EQI
+Morgan C,1.484486,Air_EQI
+Perry Co,-0.3099595,Land_EQI
+Pickens,-0.2984365,Air_EQI
+Pike Cou,0.3160656,Built_EQI
+Randolph,-0.057707,Air_EQI
+Russell,1.221229,Air_EQI
+St. Clai,0.820862,Air_EQI
+Shelby C,1.941549,Sociod_EQI
+Sumter C,0.1764608,Built_EQI
+Talladeg,0.9052505,Air_EQI
+Tallapoo,0.1637152,Air_EQI
+Tuscaloo,1.199555,Air_EQI
+Walker C,0.4714692,Air_EQI
+Washingt,-0.2202014,Air_EQI
+Wilcox C,-0.525683,Air_EQI
+Winston,0.0160874,Air_EQI
+Anchorag,1.224079,Built_EQI
+Fairbank,0.9446222,Water_EQI
+Juneau B,1.791411,Sociod_EQI
+Kodiak I,0.816367,Sociod_EQI
+Valdez-C,1.761043,Built_EQI
+Apache C,0.9266468,Water_EQI
+Cochise,1.095507,Water_EQI
+Coconino,1.240264,Built_EQI
+Gila Cou,0.8808818,Water_EQI
+Graham C,1.034606,Land_EQI
+Greenlee,0.8779061,Water_EQI
+La Paz C,0.9073426,Water_EQI
+Maricopa,1.335512,Air_EQI
+Mohave C,0.9303256,Water_EQI
+Navajo C,1.227014,Water_EQI
+Pima Cou,1.163192,Water_EQI
+Pinal Co,1.099522,Land_EQI
+Santa Cr,1.148265,Water_EQI
+Yavapai,0.9824299,Water_EQI
+Yuma Cou,0.9618529,Water_EQI
+Arkansas,0.6660017,Built_EQI
+Ashley C,0.8755393,Water_EQI
+Baxter C,0.8428338,Water_EQI
+Benton C,0.8732282,Water_EQI
+Boone Co,0.8687472,Built_EQI
+Bradley,0.8392338,Water_EQI
+Calhoun,0.4717832,Water_EQI
+Carroll,1.0615,Built_EQI
+Chicot C,0.8485741,Water_EQI
+Clark Co,0.2942339,Built_EQI
+Clay Cou,0.8513206,Water_EQI
+Cleburne,0.4707635,Built_EQI
+Clevelan,0.8660349,Water_EQI
+Columbia,0.8767294,Water_EQI
+Conway C,0.6528372,Built_EQI
+Craighea,0.6294437,Built_EQI
+Crawford,0.8594372,Water_EQI
+Crittend,1.043407,Air_EQI
+Cross Co,0.8941193,Water_EQI
+Dallas C,0.0025431,Built_EQI
+Desha Co,0.804302,Water_EQI
+Drew Cou,0.8541406,Built_EQI
+Faulkner,0.5069661,Sociod_EQI
+Franklin,0.0609835,Water_EQI
+Fulton C,0.8510488,Water_EQI
+Garland,1.062986,Built_EQI
+Grant Co,0.1332494,Sociod_EQI
+Greene C,0.3546862,Land_EQI
+Hempstea,0.8578948,Water_EQI
+Hot Spri,0.144188,Air_EQI
+Howard C,0.8525357,Water_EQI
+Independ,0.0925535,Water_EQI
+Izard Co,0.8405406,Water_EQI
+Jackson,0.8884442,Water_EQI
+Jefferso,0.8778791,Water_EQI
+Johnson,0.8221456,Water_EQI
+Lafayett,0.8729736,Water_EQI
+Lawrence,0.2115884,Land_EQI
+Lee Coun,0.5217528,Water_EQI
+Lincoln,0.8469375,Water_EQI
+Little R,0.114952,Built_EQI
+Logan Co,0.0690299,Water_EQI
+Lonoke C,0.8865038,Water_EQI
+Madison,-0.0663981,Land_EQI
+Marion C,0.8281124,Water_EQI
+Miller C,1.09652,Air_EQI
+Mississi,0.9210989,Land_EQI
+Monroe C,0.912456,Water_EQI
+Montgome,0.8477532,Water_EQI
+Nevada C,0.8462875,Water_EQI
+Newton C,0.1157639,Water_EQI
+Ouachita,0.3128702,Built_EQI
+Perry Co,0.0570504,Water_EQI
+Phillips,0.8753042,Water_EQI
+Pike Cou,0.8428478,Water_EQI
+Poinsett,0.8733414,Water_EQI
+Polk Cou,0.4253557,Built_EQI
+Pope Cou,0.2809101,Built_EQI
+Prairie,0.8885125,Water_EQI
+Pulaski,1.21399,Built_EQI
+Randolph,0.875693,Water_EQI
+St. Fran,0.5465946,Land_EQI
+Saline C,0.8139133,Sociod_EQI
+Scott Co,-0.0819207,Water_EQI
+Searcy C,-0.0073359,Water_EQI
+Sebastia,1.16643,Built_EQI
+Sevier C,0.8427483,Water_EQI
+Sharp Co,0.8466339,Water_EQI
+Stone Co,0.0803989,Water_EQI
+Union Co,1.111364,Air_EQI
+Van Bure,0.0652323,Water_EQI
+Washingt,0.7977738,Built_EQI
+White Co,0.8930339,Water_EQI
+Woodruff,0.2596362,Land_EQI
+Yell Cou,0.0975051,Land_EQI
+Alameda,1.27258,Water_EQI
+Amador C,1.228148,Water_EQI
+Butte Co,1.038305,Land_EQI
+Calavera,0.9405765,Water_EQI
+Colusa C,1.173588,Land_EQI
+Contra C,2.012172,Sociod_EQI
+Del Nort,0.707228,Built_EQI
+El Dorad,1.297327,Sociod_EQI
+Fresno C,1.354219,Water_EQI
+Glenn Co,0.9527405,Land_EQI
+Humboldt,0.9483296,Built_EQI
+Imperial,1.241583,Water_EQI
+Inyo Cou,1.41059,Built_EQI
+Kern Cou,1.424844,Water_EQI
+Kings Co,1.284989,Water_EQI
+Lake Cou,1.272891,Water_EQI
+Lassen C,0.9119719,Land_EQI
+Los Ange,2.263422,Air_EQI
+Madera C,0.956894,Land_EQI
+Marin Co,3.186212,Sociod_EQI
+Mariposa,0.6303721,Built_EQI
+Mendocin,1.067972,Water_EQI
+Merced C,1.351877,Water_EQI
+Modoc Co,0.9146829,Land_EQI
+Mono Cou,1.62515,Built_EQI
+Monterey,1.314963,Water_EQI
+Napa Cou,1.30408,Water_EQI
+Nevada C,1.306153,Water_EQI
+Orange C,1.987348,Air_EQI
+Placer C,1.911486,Sociod_EQI
+Plumas C,1.040163,Built_EQI
+Riversid,1.354331,Water_EQI
+Sacramen,1.298199,Water_EQI
+San Beni,1.215283,Sociod_EQI
+San Bern,1.364527,Water_EQI
+San Dieg,1.333344,Water_EQI
+San Fran,1.972302,Built_EQI
+San Joaq,1.228242,Water_EQI
+San Luis,1.288388,Water_EQI
+San Mate,2.671115,Sociod_EQI
+Santa Ba,1.256128,Water_EQI
+Santa Cl,2.440319,Sociod_EQI
+Santa Cr,1.368168,Built_EQI
+Shasta C,0.9786708,Land_EQI
+Siskiyou,0.9925479,Land_EQI
+Solano C,1.273219,Sociod_EQI
+Sonoma C,1.496922,Sociod_EQI
+Stanisla,1.331672,Water_EQI
+Sutter C,1.068389,Land_EQI
+Tehama C,0.9248555,Land_EQI
+Trinity,0.6068009,Land_EQI
+Tulare C,1.292463,Water_EQI
+Tuolumne,0.9466268,Water_EQI
+Ventura,1.499009,Sociod_EQI
+Yolo Cou,1.294849,Water_EQI
+Yuba Cou,0.9342386,Land_EQI
+Adams Co,1.10749,Sociod_EQI
+Alamosa,1.086812,Land_EQI
+Arapahoe,1.946356,Sociod_EQI
+Archulet,0.7498946,Built_EQI
+Baca Cou,0.9483042,Water_EQI
+Bent Cou,0.8568586,Water_EQI
+Boulder,1.946719,Sociod_EQI
+Chaffee,1.395975,Built_EQI
+Clear Cr,1.726737,Sociod_EQI
+Conejos,0.9328912,Water_EQI
+Costilla,0.8661003,Water_EQI
+Custer C,0.6320809,Land_EQI
+Delta Co,1.017978,Land_EQI
+Denver C,1.397675,Built_EQI
+Douglas,3.979472,Sociod_EQI
+Eagle Co,2.165092,Sociod_EQI
+Elbert C,2.64179,Sociod_EQI
+El Paso,1.396777,Sociod_EQI
+Fremont,0.8875301,Land_EQI
+Garfield,1.524208,Built_EQI
+Grand Co,1.779153,Built_EQI
+Gunnison,1.497203,Built_EQI
+Huerfano,1.112038,Built_EQI
+Jefferso,2.372489,Sociod_EQI
+Kit Cars,0.995234,Water_EQI
+La Plata,1.82952,Built_EQI
+Larimer,1.461252,Sociod_EQI
+Las Anim,0.4417534,Built_EQI
+Lincoln,0.8157587,Water_EQI
+Logan Co,1.085822,Water_EQI
+Mesa Cou,0.9446383,Water_EQI
+Moffat C,0.9956276,Built_EQI
+Montezum,0.9050339,Water_EQI
+Montrose,0.3975301,Built_EQI
+Morgan C,0.5239991,Land_EQI
+Otero Co,0.9602558,Water_EQI
+Park Cou,0.9103069,Sociod_EQI
+Phillips,0.925476,Water_EQI
+Pitkin C,3.126736,Sociod_EQI
+Prowers,0.8937898,Water_EQI
+Pueblo C,1.06113,Land_EQI
+Rio Gran,1.044849,Land_EQI
+Routt Co,1.698077,Sociod_EQI
+Summit C,2.380997,Built_EQI
+Teller C,1.401793,Sociod_EQI
+Weld Cou,0.8985956,Water_EQI
+Yuma Cou,0.9810362,Water_EQI
+Fairfiel,2.22134,Sociod_EQI
+Hartford,1.570504,Air_EQI
+Litchfie,1.802852,Sociod_EQI
+Middlese,1.921099,Sociod_EQI
+New Have,1.596831,Air_EQI
+New Lond,1.292333,Sociod_EQI
+Tolland,2.048332,Sociod_EQI
+Windham,1.011003,Water_EQI
+Kent Cou,0.9654498,Built_EQI
+New Cast,1.680467,Air_EQI
+Sussex C,0.9529083,Water_EQI
+District,2.139705,Built_EQI
+Alachua,1.196086,Built_EQI
+Baker Co,0.3045402,Sociod_EQI
+Bay Coun,0.7169707,Air_EQI
+Bradford,0.0910354,Air_EQI
+Brevard,0.7238919,Air_EQI
+Broward,1.169898,Air_EQI
+Calhoun,-0.4527588,Built_EQI
+Charlott,0.7032555,Built_EQI
+Citrus C,0.470712,Built_EQI
+Clay Cou,1.587154,Sociod_EQI
+Collier,0.9653921,Built_EQI
+Columbia,0.406904,Air_EQI
+DeSoto C,-0.1469594,Air_EQI
+Dixie Co,-0.8926065,Air_EQI
+Duval Co,1.378499,Air_EQI
+Escambia,1.048303,Air_EQI
+Flagler,1.05862,Sociod_EQI
+Franklin,0.4422072,Built_EQI
+Gadsden,0.046108,Air_EQI
+Gilchris,-0.4039422,Sociod_EQI
+Glades C,-1.02893,Air_EQI
+Gulf Cou,-0.5051413,Air_EQI
+Hamilton,-0.5446278,Air_EQI
+Hardee C,-0.2690367,Air_EQI
+Hendry C,0.3408386,Built_EQI
+Hernando,0.6685796,Built_EQI
+Highland,0.5147587,Built_EQI
+Hillsbor,1.342867,Air_EQI
+Holmes C,-0.2390531,Air_EQI
+Indian R,0.7872229,Built_EQI
+Jackson,0.2225301,Built_EQI
+Jefferso,0.4262545,Built_EQI
+Lafayett,-0.614092,Sociod_EQI
+Lake Cou,0.7615976,Built_EQI
+Lee Coun,0.6531591,Built_EQI
+Leon Cou,0.9716327,Built_EQI
+Levy Cou,-0.1632772,Air_EQI
+Liberty,-0.6356385,Air_EQI
+Madison,-0.3120582,Air_EQI
+Manatee,0.7933316,Air_EQI
+Marion C,0.704547,Air_EQI
+Martin C,1.220072,Built_EQI
+Monroe C,0.3758256,Sociod_EQI
+Nassau C,0.9003644,Sociod_EQI
+Okaloosa,0.7303112,Sociod_EQI
+Okeechob,0.4886562,Built_EQI
+Orange C,1.194289,Built_EQI
+Osceola,0.9124943,Built_EQI
+Palm Bea,0.8401342,Air_EQI
+Pasco Co,0.7200869,Air_EQI
+Pinellas,1.105347,Air_EQI
+Polk Cou,0.8201627,Air_EQI
+Putnam C,0.6929437,Air_EQI
+St. John,1.331174,Sociod_EQI
+St. Luci,0.7041097,Built_EQI
+Santa Ro,1.020253,Sociod_EQI
+Sarasota,0.9562497,Built_EQI
+Seminole,1.400479,Sociod_EQI
+Sumter C,0.1664146,Air_EQI
+Suwannee,0.0110464,Built_EQI
+Taylor C,-0.1538716,Built_EQI
+Volusia,0.7676505,Air_EQI
+Wakulla,0.3974623,Sociod_EQI
+Walton C,0.5436892,Built_EQI
+Washingt,0.2043421,Built_EQI
+Appling,0.4453244,Built_EQI
+Atkinson,-0.3288522,Water_EQI
+Bacon Co,-0.2928754,Water_EQI
+Baker Co,-0.3385593,Water_EQI
+Baldwin,0.8315995,Built_EQI
+Banks Co,0.147932,Land_EQI
+Barrow C,1.21579,Water_EQI
+Bartow C,1.075153,Air_EQI
+Ben Hill,0.2882036,Built_EQI
+Berrien,0.2535472,Built_EQI
+Bibb Cou,1.226244,Built_EQI
+Bleckley,-0.2450082,Sociod_EQI
+Brantley,-0.2294573,Water_EQI
+Brooks C,-0.1647161,Air_EQI
+Bryan Co,1.210267,Water_EQI
+Bulloch,1.223259,Water_EQI
+Burke Co,0.7990347,Water_EQI
+Butts Co,0.5401291,Air_EQI
+Calhoun,-0.2961769,Water_EQI
+Camden C,0.9221945,Water_EQI
+Candler,0.2442642,Built_EQI
+Carroll,1.222238,Water_EQI
+Catoosa,1.09475,Air_EQI
+Charlton,0.1102853,Water_EQI
+Chatham,1.456804,Air_EQI
+Chattaho,0.189811,Air_EQI
+Chattoog,0.541562,Air_EQI
+Cherokee,2.107732,Sociod_EQI
+Clarke C,1.419576,Built_EQI
+Clay Cou,-0.5228374,Air_EQI
+Clayton,1.276145,Air_EQI
+Clinch C,-0.4174394,Built_EQI
+Cobb Cou,1.964858,Sociod_EQI
+Coffee C,1.253919,Water_EQI
+Colquitt,1.20535,Water_EQI
+Columbia,2.080696,Sociod_EQI
+Cook Cou,1.242666,Water_EQI
+Coweta C,1.376154,Sociod_EQI
+Crawford,0.0038382,Sociod_EQI
+Crisp Co,1.216949,Water_EQI
+Dade Cou,0.507157,Air_EQI
+Dawson C,1.181092,Sociod_EQI
+Decatur,0.3987797,Built_EQI
+DeKalb C,1.556724,Air_EQI
+Dodge Co,-0.3847255,Water_EQI
+Dooly Co,0.8451795,Water_EQI
+Doughert,1.346807,Built_EQI
+Douglas,1.235533,Sociod_EQI
+Early Co,0.0591007,Built_EQI
+Effingha,1.15212,Sociod_EQI
+Elbert C,0.3850875,Air_EQI
+Emanuel,0.7678291,Water_EQI
+Evans Co,-0.2606241,Air_EQI
+Fannin C,0.8308935,Built_EQI
+Fayette,3.108457,Sociod_EQI
+Floyd Co,1.043418,Air_EQI
+Forsyth,2.7342,Sociod_EQI
+Franklin,0.7901613,Built_EQI
+Fulton C,1.725955,Air_EQI
+Gilmer C,0.0622274,Air_EQI
+Glynn Co,1.476796,Built_EQI
+Gordon C,1.077708,Air_EQI
+Grady Co,0.0153211,Air_EQI
+Greene C,1.213778,Water_EQI
+Gwinnett,2.053262,Sociod_EQI
+Habersha,0.9073465,Water_EQI
+Hall Cou,1.25308,Water_EQI
+Hancock,0.8145995,Water_EQI
+Haralson,0.386498,Air_EQI
+Harris C,1.345868,Sociod_EQI
+Hart Cou,0.5105243,Air_EQI
+Heard Co,-0.0940909,Air_EQI
+Henry Co,2.072897,Sociod_EQI
+Houston,0.7602441,Air_EQI
+Irwin Co,-0.4433957,Air_EQI
+Jackson,0.7871457,Water_EQI
+Jasper C,0.0492576,Air_EQI
+Jeff Dav,-0.387511,Water_EQI
+Jefferso,-0.2303917,Air_EQI
+Jenkins,0.8780059,Water_EQI
+Johnson,-0.5500293,Air_EQI
+Jones Co,0.7469096,Sociod_EQI
+Lamar Co,0.4347613,Air_EQI
+Lanier C,-0.2905875,Air_EQI
+Laurens,0.6898077,Built_EQI
+Lee Coun,1.377622,Sociod_EQI
+Liberty,0.7360098,Water_EQI
+Lincoln,-0.0899544,Air_EQI
+Long Cou,0.7421231,Water_EQI
+Lowndes,0.9755313,Water_EQI
+Lumpkin,0.4370246,Sociod_EQI
+McDuffie,0.5033655,Built_EQI
+McIntosh,0.8238252,Water_EQI
+Macon Co,-0.1634539,Built_EQI
+Madison,0.290779,Sociod_EQI
+Marion C,-0.2313163,Air_EQI
+Meriweth,0.1381589,Air_EQI
+Miller C,-0.3501818,Water_EQI
+Mitchell,-0.1199503,Air_EQI
+Monroe C,0.8226598,Sociod_EQI
+Montgome,-0.4732766,Sociod_EQI
+Morgan C,0.8360445,Water_EQI
+Murray C,0.6445138,Air_EQI
+Muscogee,1.444291,Air_EQI
+Newton C,1.029782,Air_EQI
+Oconee C,1.900916,Sociod_EQI
+Oglethor,0.2978419,Sociod_EQI
+Paulding,1.705144,Sociod_EQI
+Peach Co,0.6740406,Built_EQI
+Pickens,0.6790296,Sociod_EQI
+Pierce C,-0.2927488,Water_EQI
+Pike Cou,0.8158157,Sociod_EQI
+Polk Cou,0.6716605,Air_EQI
+Pulaski,-0.198033,Sociod_EQI
+Putnam C,0.8109097,Water_EQI
+Quitman,-0.3880591,Water_EQI
+Rabun Co,0.8359128,Built_EQI
+Randolph,-0.451807,Air_EQI
+Richmond,1.547402,Air_EQI
+Rockdale,1.398094,Sociod_EQI
+Schley C,-0.2294706,Air_EQI
+Screven,0.7559151,Water_EQI
+Seminole,0.4494672,Built_EQI
+Spalding,0.9769463,Air_EQI
+Stephens,0.5953275,Air_EQI
+Stewart,-0.3415873,Water_EQI
+Sumter C,0.3541518,Air_EQI
+Talbot C,-0.2314755,Water_EQI
+Tattnall,0.7706184,Water_EQI
+Taylor C,-0.3397005,Air_EQI
+Telfair,-0.3066029,Water_EQI
+Terrell,-0.0742733,Air_EQI
+Thomas C,0.5448595,Built_EQI
+Tift Cou,1.053432,Built_EQI
+Toombs C,0.9418449,Built_EQI
+Towns Co,0.7563357,Built_EQI
+Treutlen,-0.561852,Air_EQI
+Troup Co,0.9775736,Built_EQI
+Turner C,-0.2593277,Air_EQI
+Twiggs C,0.0761432,Air_EQI
+Union Co,-0.0587944,Built_EQI
+Upson Co,0.4125621,Air_EQI
+Walker C,1.078012,Air_EQI
+Walton C,0.7796132,Sociod_EQI
+Ware Cou,1.143115,Built_EQI
+Warren C,-0.0628454,Built_EQI
+Washingt,0.1295044,Built_EQI
+Wayne Co,0.4088305,Built_EQI
+Wheeler,-0.3460724,Water_EQI
+White Co,0.8186097,Water_EQI
+Whitfiel,1.240013,Air_EQI
+Wilcox C,-0.5498992,Air_EQI
+Wilkes C,0.896916,Built_EQI
+Wilkinso,0.7367623,Water_EQI
+Worth Co,-0.1683088,Air_EQI
+Honolulu,0.9672366,Sociod_EQI
+Kauai Co,1.086967,Built_EQI
+Maui Cou,1.035665,Built_EQI
+Ada Coun,1.311962,Air_EQI
+Adams Co,0.7207673,Land_EQI
+Bannock,1.222908,Built_EQI
+Bear Lak,0.1995514,Sociod_EQI
+Benewah,0.2569296,Land_EQI
+Bingham,0.624989,Land_EQI
+Blaine C,2.552453,Built_EQI
+Boise Co,0.9705953,Water_EQI
+Bonner C,0.9481024,Water_EQI
+Bonnevil,1.2763,Air_EQI
+Boundary,1.008113,Water_EQI
+Canyon C,1.298633,Air_EQI
+Cassia C,0.6010072,Land_EQI
+Clearwat,0.632366,Built_EQI
+Custer C,1.230264,Land_EQI
+Elmore C,1.479348,Land_EQI
+Fremont,0.6782931,Land_EQI
+Gem Coun,1.25658,Land_EQI
+Gooding,0.8573436,Land_EQI
+Idaho Co,0.9754006,Water_EQI
+Jefferso,0.8515986,Land_EQI
+Jerome C,0.5461748,Land_EQI
+Kootenai,1.229658,Air_EQI
+Latah Co,0.8973559,Built_EQI
+Lemhi Co,1.166105,Land_EQI
+Lewis Co,0.5833317,Land_EQI
+Minidoka,1.018028,Water_EQI
+Nez Perc,1.139107,Built_EQI
+Owyhee C,1.054475,Water_EQI
+Payette,1.111231,Land_EQI
+Power Co,1.044784,Water_EQI
+Shoshone,0.9353876,Water_EQI
+Twin Fal,1.110122,Built_EQI
+Valley C,1.839145,Built_EQI
+Washingt,1.33906,Land_EQI
+Adams Co,1.17876,Air_EQI
+Alexande,0.754281,Water_EQI
+Bond Cou,0.1529032,Air_EQI
+Boone Co,1.449387,Sociod_EQI
+Brown Co,-0.1234794,Sociod_EQI
+Bureau C,1.214126,Water_EQI
+Calhoun,0.5682942,Land_EQI
+Carroll,1.207043,Water_EQI
+Cass Cou,1.189845,Water_EQI
+Champaig,1.177945,Water_EQI
+Christia,1.17684,Water_EQI
+Clark Co,0.7885324,Water_EQI
+Clay Cou,0.0769219,Water_EQI
+Clinton,0.8153829,Sociod_EQI
+Coles Co,1.049667,Built_EQI
+Cook Cou,2.057472,Air_EQI
+Crawford,0.6378397,Water_EQI
+Cumberla,0.2995712,Sociod_EQI
+DeKalb C,1.280199,Water_EQI
+De Witt,1.226469,Water_EQI
+Douglas,0.7826019,Sociod_EQI
+DuPage C,2.728637,Sociod_EQI
+Edgar Co,0.7643285,Water_EQI
+Edwards,0.2123321,Sociod_EQI
+Effingha,1.211538,Built_EQI
+Fayette,0.7320211,Water_EQI
+Ford Cou,1.183217,Water_EQI
+Franklin,0.6575839,Air_EQI
+Fulton C,0.8560622,Water_EQI
+Gallatin,0.2970507,Land_EQI
+Greene C,0.7935816,Water_EQI
+Grundy C,1.556963,Land_EQI
+Hamilton,0.0599769,Land_EQI
+Hancock,1.159739,Water_EQI
+Hardin C,1.072727,Water_EQI
+Henderso,1.113343,Water_EQI
+Henry Co,1.111096,Water_EQI
+Iroquois,1.218315,Water_EQI
+Jackson,0.8439944,Built_EQI
+Jasper C,0.5066154,Sociod_EQI
+Jefferso,0.8566315,Built_EQI
+Jersey C,0.6975077,Land_EQI
+Jo Davie,1.221222,Built_EQI
+Johnson,0.1434673,Air_EQI
+Kane Cou,1.845879,Sociod_EQI
+Kankakee,1.302867,Land_EQI
+Kendall,2.547778,Sociod_EQI
+Knox Cou,1.188292,Water_EQI
+Lake Cou,2.274773,Sociod_EQI
+La Salle,1.3533,Land_EQI
+Lawrence,0.9627193,Water_EQI
+Lee Coun,1.022785,Water_EQI
+Livingst,1.219424,Water_EQI
+Logan Co,1.16935,Water_EQI
+McDonoug,1.149968,Water_EQI
+McHenry,2.450779,Sociod_EQI
+McLean C,1.24961,Water_EQI
+Macon Co,1.270779,Air_EQI
+Macoupin,1.161919,Water_EQI
+Madison,1.526488,Air_EQI
+Marion C,0.7788578,Water_EQI
+Marshall,1.126228,Water_EQI
+Mason Co,0.7834803,Water_EQI
+Massac C,1.079576,Water_EQI
+Menard C,1.220089,Sociod_EQI
+Mercer C,1.214205,Water_EQI
+Monroe C,1.751854,Sociod_EQI
+Montgome,0.7742212,Water_EQI
+Morgan C,0.8691795,Built_EQI
+Moultrie,1.168099,Water_EQI
+Ogle Cou,1.220263,Sociod_EQI
+Peoria C,1.340847,Air_EQI
+Perry Co,0.3578932,Air_EQI
+Piatt Co,1.417081,Sociod_EQI
+Pike Cou,1.18996,Water_EQI
+Pope Cou,0.237084,Air_EQI
+Pulaski,1.002735,Water_EQI
+Putnam C,1.219066,Water_EQI
+Randolph,1.1733,Water_EQI
+Richland,0.3903277,Air_EQI
+Rock Isl,1.665572,Air_EQI
+St. Clai,1.495782,Air_EQI
+Saline C,0.6776881,Built_EQI
+Sangamon,1.266941,Built_EQI
+Schuyler,1.108197,Water_EQI
+Scott Co,0.7981847,Water_EQI
+Shelby C,1.112579,Water_EQI
+Stark Co,1.128324,Water_EQI
+Stephens,1.234317,Water_EQI
+Tazewell,1.22898,Water_EQI
+Union Co,1.101158,Water_EQI
+Vermilio,1.188955,Water_EQI
+Wabash C,1.164762,Water_EQI
+Warren C,0.8288512,Water_EQI
+Washingt,0.6590555,Sociod_EQI
+Wayne Co,1.102058,Water_EQI
+White Co,0.249228,Land_EQI
+Whitesid,0.9537371,Air_EQI
+Will Cou,2.361627,Sociod_EQI
+Williams,0.7763597,Air_EQI
+Winnebag,1.307243,Air_EQI
+Woodford,1.688248,Sociod_EQI
+Adams Co,1.270257,Land_EQI
+Allen Co,1.364461,Air_EQI
+Bartholo,1.004999,Sociod_EQI
+Benton C,1.265666,Sociod_EQI
+Blackfor,0.8721446,Water_EQI
+Boone Co,1.780802,Sociod_EQI
+Brown Co,0.8464442,Water_EQI
+Carroll,0.950794,Sociod_EQI
+Cass Cou,1.052266,Land_EQI
+Clark Co,1.578907,Air_EQI
+Clay Cou,0.5885611,Sociod_EQI
+Clinton,0.8650025,Land_EQI
+Crawford,0.1541413,Land_EQI
+Daviess,0.6242192,Air_EQI
+Dearborn,1.606627,Sociod_EQI
+Decatur,0.9143038,Water_EQI
+De Kalb,1.244826,Sociod_EQI
+Delaware,0.9331886,Air_EQI
+Dubois C,1.181449,Sociod_EQI
+Elkhart,1.418002,Air_EQI
+Fayette,0.7019169,Air_EQI
+Floyd Co,1.690371,Air_EQI
+Fountain,0.8377067,Land_EQI
+Franklin,0.8797774,Sociod_EQI
+Fulton C,0.9779919,Land_EQI
+Gibson C,1.266065,Land_EQI
+Grant Co,1.047768,Land_EQI
+Greene C,0.8759261,Water_EQI
+Hamilton,3.079823,Sociod_EQI
+Hancock,2.048153,Sociod_EQI
+Harrison,1.153737,Sociod_EQI
+Hendrick,2.094086,Sociod_EQI
+Henry Co,0.9098759,Water_EQI
+Howard C,1.00272,Air_EQI
+Huntingt,1.160912,Sociod_EQI
+Jackson,0.8622117,Water_EQI
+Jasper C,1.354356,Land_EQI
+Jay Coun,1.057657,Land_EQI
+Jefferso,0.8356379,Water_EQI
+Jennings,0.5202212,Air_EQI
+Johnson,1.649009,Sociod_EQI
+Knox Cou,0.8768789,Built_EQI
+Kosciusk,1.013386,Land_EQI
+Lagrange,0.994074,Water_EQI
+Lake Cou,1.682382,Land_EQI
+La Porte,1.306151,Land_EQI
+Lawrence,0.8506893,Water_EQI
+Madison,1.157026,Land_EQI
+Marion C,1.513139,Air_EQI
+Marshall,1.19431,Land_EQI
+Martin C,0.1177573,Air_EQI
+Miami Co,0.939716,Water_EQI
+Monroe C,1.020132,Air_EQI
+Montgome,0.918884,Sociod_EQI
+Morgan C,1.246535,Sociod_EQI
+Newton C,1.187364,Land_EQI
+Noble Co,0.9454662,Water_EQI
+Ohio Cou,1.00576,Land_EQI
+Orange C,0.8404833,Water_EQI
+Owen Cou,0.192356,Sociod_EQI
+Parke Co,0.9099893,Water_EQI
+Perry Co,0.9333469,Air_EQI
+Pike Cou,0.9663625,Land_EQI
+Porter C,1.635106,Sociod_EQI
+Posey Co,1.053469,Air_EQI
+Pulaski,1.183831,Land_EQI
+Putnam C,0.9154651,Water_EQI
+Randolph,0.9183916,Water_EQI
+Ripley C,0.9474361,Sociod_EQI
+Rush Cou,0.7984318,Sociod_EQI
+St. Jose,1.310708,Air_EQI
+Scott Co,1.250317,Land_EQI
+Shelby C,1.134384,Sociod_EQI
+Spencer,0.8044059,Sociod_EQI
+Starke C,1.376222,Land_EQI
+Steuben,0.9619919,Sociod_EQI
+Sullivan,0.3782809,Land_EQI
+Switzerl,0.8698104,Land_EQI
+Tippecan,1.427008,Air_EQI
+Tipton C,1.403657,Sociod_EQI
+Union Co,0.6651667,Sociod_EQI
+Vanderbu,1.496347,Air_EQI
+Vermilli,0.893436,Water_EQI
+Vigo Cou,1.292798,Air_EQI
+Wabash C,0.9429302,Air_EQI
+Warren C,1.184246,Sociod_EQI
+Warrick,1.697245,Sociod_EQI
+Washingt,0.8462923,Water_EQI
+Wayne Co,0.9532726,Water_EQI
+Wells Co,1.3133,Sociod_EQI
+White Co,0.8854756,Water_EQI
+Whitley,1.401424,Sociod_EQI
+Adair Co,0.8399727,Sociod_EQI
+Adams Co,1.462249,Built_EQI
+Allamake,0.6284574,Land_EQI
+Appanoos,0.3403653,Land_EQI
+Audubon,0.7774813,Land_EQI
+Benton C,1.273843,Sociod_EQI
+Black Ha,1.044896,Air_EQI
+Boone Co,1.148577,Sociod_EQI
+Bremer C,1.178748,Sociod_EQI
+Buchanan,0.7190218,Land_EQI
+Buena Vi,0.8703821,Land_EQI
+Butler C,0.7755303,Sociod_EQI
+Calhoun,0.731335,Land_EQI
+Carroll,1.0478,Sociod_EQI
+Cass Cou,0.7840907,Land_EQI
+Cedar Co,1.345122,Sociod_EQI
+Cerro Go,1.431006,Built_EQI
+Cherokee,1.049124,Land_EQI
+Chickasa,0.8612792,Built_EQI
+Clarke C,0.6378099,Built_EQI
+Clay Cou,1.16513,Built_EQI
+Clayton,0.6330845,Land_EQI
+Clinton,1.168343,Air_EQI
+Crawford,0.7291,Land_EQI
+Dallas C,1.702707,Sociod_EQI
+Davis Co,0.6230055,Land_EQI
+Decatur,0.7115003,Land_EQI
+Delaware,0.8460371,Sociod_EQI
+Des Moin,1.29718,Built_EQI
+Dickinso,1.246546,Built_EQI
+Dubuque,1.01562,Built_EQI
+Emmet Co,0.7278886,Land_EQI
+Fayette,0.7239905,Land_EQI
+Floyd Co,0.8804609,Land_EQI
+Franklin,0.7795967,Land_EQI
+Fremont,0.7431418,Land_EQI
+Greene C,0.7791129,Land_EQI
+Grundy C,0.9990464,Sociod_EQI
+Guthrie,0.6657715,Sociod_EQI
+Hamilton,1.096323,Sociod_EQI
+Hancock,1.037527,Sociod_EQI
+Hardin C,0.6816815,Land_EQI
+Harrison,0.9312399,Land_EQI
+Henry Co,0.7334643,Sociod_EQI
+Howard C,0.5899247,Land_EQI
+Humboldt,0.9761848,Sociod_EQI
+Ida Coun,0.7449882,Sociod_EQI
+Iowa Cou,1.262874,Sociod_EQI
+Jackson,0.6234245,Land_EQI
+Jasper C,1.115285,Sociod_EQI
+Jefferso,0.6660447,Built_EQI
+Johnson,1.453763,Air_EQI
+Jones Co,0.9685525,Sociod_EQI
+Keokuk C,0.6675002,Land_EQI
+Kossuth,0.8986986,Land_EQI
+Lee Coun,0.7796924,Air_EQI
+Linn Cou,1.27365,Sociod_EQI
+Louisa C,0.632532,Land_EQI
+Lucas Co,0.5505425,Land_EQI
+Lyon Cou,0.9447163,Sociod_EQI
+Madison,1.152642,Sociod_EQI
+Mahaska,0.8162336,Land_EQI
+Marion C,0.9889569,Sociod_EQI
+Marshall,0.6141661,Land_EQI
+Mills Co,1.02712,Sociod_EQI
+Mitchell,0.799497,Sociod_EQI
+Monona C,0.8860646,Land_EQI
+Monroe C,0.6095182,Land_EQI
+Montgome,1.319931,Built_EQI
+Muscatin,1.135645,Air_EQI
+O'Brien,0.912706,Land_EQI
+Osceola,0.9554198,Land_EQI
+Page Cou,1.045738,Built_EQI
+Palo Alt,0.943382,Land_EQI
+Plymouth,1.465836,Sociod_EQI
+Pocahont,0.8986796,Land_EQI
+Polk Cou,1.18645,Air_EQI
+Pottawat,0.9138061,Air_EQI
+Poweshie,0.801429,Land_EQI
+Ringgold,0.6784042,Land_EQI
+Sac Coun,0.9390461,Land_EQI
+Scott Co,1.636664,Air_EQI
+Shelby C,1.231528,Sociod_EQI
+Sioux Co,1.153904,Sociod_EQI
+Story Co,0.8556648,Sociod_EQI
+Tama Cou,0.8387932,Land_EQI
+Taylor C,0.7040542,Land_EQI
+Union Co,0.9621448,Built_EQI
+Van Bure,0.4753769,Land_EQI
+Wapello,1.057464,Built_EQI
+Warren C,1.775748,Sociod_EQI
+Washingt,1.010369,Sociod_EQI
+Wayne Co,0.5575436,Land_EQI
+Webster,1.152036,Built_EQI
+Winnebag,0.9353911,Sociod_EQI
+Winneshi,0.8816636,Sociod_EQI
+Woodbury,1.043081,Land_EQI
+Worth Co,0.8873339,Sociod_EQI
+Wright C,0.7061893,Sociod_EQI
+Adair Co,1.093968,Water_EQI
+Allen Co,1.031158,Water_EQI
+Anderson,1.30146,Land_EQI
+Ballard,1.104896,Water_EQI
+Barren C,0.5286072,Air_EQI
+Bath Cou,0.6528242,Land_EQI
+Bell Cou,0.9218916,Water_EQI
+Boone Co,1.770027,Sociod_EQI
+Bourbon,1.692439,Land_EQI
+Boyd Cou,1.404387,Air_EQI
+Boyle Co,0.8669592,Land_EQI
+Bracken,0.4855738,Land_EQI
+Breathit,1.176917,Water_EQI
+Breckinr,1.101152,Water_EQI
+Bullitt,1.157167,Air_EQI
+Butler C,1.105985,Water_EQI
+Caldwell,1.076245,Water_EQI
+Calloway,1.068546,Water_EQI
+Campbell,1.718283,Air_EQI
+Carlisle,1.093136,Water_EQI
+Carroll,1.586661,Built_EQI
+Carter C,0.2336023,Air_EQI
+Casey Co,0.3176,Land_EQI
+Christia,0.8826969,Air_EQI
+Clark Co,1.315099,Land_EQI
+Clay Cou,-0.1385687,Air_EQI
+Clinton,1.082322,Water_EQI
+Crittend,1.062012,Water_EQI
+Cumberla,1.077623,Water_EQI
+Daviess,1.426642,Air_EQI
+Edmonson,1.102022,Water_EQI
+Elliott,0.6155202,Water_EQI
+Estill C,1.105087,Water_EQI
+Fayette,2.094526,Land_EQI
+Fleming,1.101038,Land_EQI
+Floyd Co,0.2544191,Built_EQI
+Franklin,1.461395,Land_EQI
+Fulton C,1.094602,Water_EQI
+Gallatin,0.7370464,Land_EQI
+Garrard,0.7601099,Land_EQI
+Grant Co,1.184542,Water_EQI
+Graves C,1.186753,Water_EQI
+Grayson,1.082191,Water_EQI
+Green Co,-0.0227355,Water_EQI
+Greenup,1.029167,Air_EQI
+Hancock,1.108971,Water_EQI
+Hardin C,1.102062,Air_EQI
+Harlan C,0.9510801,Water_EQI
+Harrison,1.326622,Land_EQI
+Hart Cou,1.097068,Water_EQI
+Henderso,1.483858,Air_EQI
+Henry Co,1.187814,Land_EQI
+Hickman,1.109577,Water_EQI
+Hopkins,1.079018,Water_EQI
+Jackson,1.073378,Water_EQI
+Jefferso,1.850847,Air_EQI
+Jessamin,1.089512,Land_EQI
+Johnson,0.147517,Built_EQI
+Kenton C,1.856953,Air_EQI
+Knott Co,-0.2982416,Water_EQI
+Knox Cou,0.8752538,Water_EQI
+Larue Co,0.8615755,Water_EQI
+Laurel C,1.0821,Water_EQI
+Lawrence,0.0492146,Air_EQI
+Lee Coun,1.115251,Water_EQI
+Leslie C,-0.1931954,Water_EQI
+Letcher,1.114353,Water_EQI
+Lewis Co,0.5066322,Land_EQI
+Lincoln,0.5655714,Water_EQI
+Livingst,1.077511,Water_EQI
+Logan Co,0.8168902,Water_EQI
+Lyon Cou,1.093726,Water_EQI
+McCracke,1.399798,Built_EQI
+McCreary,1.078956,Water_EQI
+McLean C,1.092087,Water_EQI
+Madison,1.002275,Air_EQI
+Magoffin,0.1843134,Water_EQI
+Marion C,1.089173,Water_EQI
+Marshall,1.07411,Water_EQI
+Martin C,-0.0872771,Air_EQI
+Mason Co,1.029753,Land_EQI
+Meade Co,0.8825606,Water_EQI
+Menifee,-0.4588536,Air_EQI
+Mercer C,0.9439148,Land_EQI
+Metcalfe,-0.290832,Air_EQI
+Monroe C,1.078391,Water_EQI
+Montgome,1.090651,Water_EQI
+Morgan C,-0.3327274,Water_EQI
+Muhlenbe,1.089721,Water_EQI
+Nelson C,0.7636815,Land_EQI
+Nicholas,0.8631384,Land_EQI
+Ohio Cou,1.11584,Water_EQI
+Oldham C,2.5169,Sociod_EQI
+Owen Cou,0.8257043,Land_EQI
+Owsley C,1.07839,Water_EQI
+Pendleto,1.000887,Land_EQI
+Perry Co,1.077772,Water_EQI
+Pike Cou,0.0748723,Air_EQI
+Powell C,0.2774997,Land_EQI
+Pulaski,1.019988,Water_EQI
+Robertso,0.6037409,Land_EQI
+Rockcast,1.109651,Water_EQI
+Rowan Co,1.077225,Water_EQI
+Russell,1.103465,Water_EQI
+Scott Co,1.966305,Land_EQI
+Shelby C,1.522154,Land_EQI
+Simpson,0.513897,Air_EQI
+Spencer,1.194991,Land_EQI
+Taylor C,0.8031194,Water_EQI
+Todd Cou,0.1250203,Air_EQI
+Trigg Co,1.090447,Water_EQI
+Trimble,1.307936,Built_EQI
+Union Co,1.109366,Water_EQI
+Warren C,1.242144,Air_EQI
+Washingt,1.124657,Water_EQI
+Wayne Co,1.072586,Water_EQI
+Webster,1.085059,Water_EQI
+Whitley,0.8379225,Water_EQI
+Wolfe Co,-0.3283975,Water_EQI
+Woodford,1.943874,Land_EQI
+Acadia P,0.3810781,Air_EQI
+Allen Pa,0.243455,Air_EQI
+Ascensio,1.809594,Air_EQI
+Assumpti,0.8349858,Air_EQI
+Avoyelle,0.1779972,Land_EQI
+Beaurega,0.6699942,Air_EQI
+Bienvill,-0.3050144,Air_EQI
+Bossier,0.9749706,Air_EQI
+Caddo Pa,1.230042,Air_EQI
+Calcasie,1.613815,Air_EQI
+Caldwell,-0.2957838,Built_EQI
+Cameron,0.2749302,Land_EQI
+Catahoul,0.1312743,Land_EQI
+Claiborn,-0.0777315,Air_EQI
+Concordi,0.4709744,Land_EQI
+De Soto,0.3022321,Air_EQI
+East Bat,1.971923,Air_EQI
+East Car,0.4645705,Land_EQI
+East Fel,0.378354,Air_EQI
+Evangeli,0.2515307,Air_EQI
+Franklin,0.0844881,Land_EQI
+Grant Pa,-0.1443375,Air_EQI
+Iberia P,0.6553973,Land_EQI
+Ibervill,2.014194,Air_EQI
+Jackson,-0.1960095,Built_EQI
+Jefferso,1.482751,Air_EQI
+Jefferso,0.3511274,Air_EQI
+Lafayett,1.153889,Built_EQI
+Lafourch,0.7296048,Air_EQI
+La Salle,-0.2646611,Built_EQI
+Lincoln,0.5034356,Built_EQI
+Livingst,1.303456,Air_EQI
+Madison,0.5875298,Land_EQI
+Morehous,0.5765684,Air_EQI
+Natchito,0.6538832,Built_EQI
+Orleans,1.409692,Air_EQI
+Ouachita,0.975486,Air_EQI
+Plaquemi,0.1588198,Land_EQI
+Pointe C,0.9798915,Air_EQI
+Rapides,0.8889443,Built_EQI
+Red Rive,-0.1690852,Air_EQI
+Richland,0.032327,Land_EQI
+Sabine P,-0.1495545,Air_EQI
+St. Bern,0.9774091,Air_EQI
+St. Char,1.444485,Air_EQI
+St. Hele,-0.014997,Air_EQI
+St. Jame,1.051809,Air_EQI
+St. John,1.407185,Air_EQI
+St. Land,0.6104413,Air_EQI
+St. Mart,0.6560196,Air_EQI
+St. Tamm,1.154259,Sociod_EQI
+Tangipah,0.6414939,Air_EQI
+Tensas P,0.3501731,Land_EQI
+Terrebon,1.050738,Built_EQI
+Union Pa,0.2193399,Air_EQI
+Vermilio,0.4471326,Air_EQI
+Vernon P,0.3213412,Air_EQI
+Washingt,0.524752,Air_EQI
+Webster,0.4025947,Air_EQI
+West Bat,1.994101,Air_EQI
+West Car,0.1349906,Land_EQI
+West Fel,0.3012199,Air_EQI
+Winn Par,0.154102,Air_EQI
+Androsco,1.267032,Air_EQI
+Aroostoo,0.7969097,Water_EQI
+Cumberla,1.625053,Built_EQI
+Franklin,0.7750214,Water_EQI
+Hancock,1.015113,Built_EQI
+Kennebec,1.065391,Built_EQI
+Knox Cou,0.8647135,Built_EQI
+Lincoln,0.6782308,Land_EQI
+Oxford C,0.8088039,Water_EQI
+Penobsco,1.025596,Built_EQI
+Piscataq,0.4648423,Land_EQI
+Sagadaho,1.031271,Sociod_EQI
+Somerset,0.8065457,Water_EQI
+Waldo Co,0.8273576,Water_EQI
+Washingt,0.764204,Water_EQI
+York Cou,1.078194,Air_EQI
+Allegany,1.172719,Air_EQI
+Anne Aru,2.215651,Sociod_EQI
+Baltimor,1.876066,Air_EQI
+Calvert,2.496938,Sociod_EQI
+Caroline,1.113465,Water_EQI
+Carroll,2.437829,Sociod_EQI
+Cecil Co,1.290809,Sociod_EQI
+Charles,2.524687,Sociod_EQI
+Dorchest,1.004838,Water_EQI
+Frederic,2.298663,Sociod_EQI
+Garrett,1.150048,Water_EQI
+Harford,2.160756,Sociod_EQI
+Howard C,3.497653,Sociod_EQI
+Kent Cou,1.001723,Water_EQI
+Montgome,2.723068,Sociod_EQI
+Prince G,1.509105,Sociod_EQI
+Queen An,2.085114,Sociod_EQI
+St. Mary,1.766908,Sociod_EQI
+Somerset,0.9366585,Water_EQI
+Talbot C,1.618263,Built_EQI
+Washingt,1.404942,Air_EQI
+Wicomico,1.130252,Built_EQI
+Worceste,1.0326,Water_EQI
+Baltimor,2.220089,Air_EQI
+Barnstab,1.612612,Built_EQI
+Berkshir,1.621118,Built_EQI
+Bristol,1.511225,Air_EQI
+Dukes Co,1.106009,Sociod_EQI
+Essex Co,1.510779,Air_EQI
+Franklin,1.165024,Built_EQI
+Hampden,1.612429,Air_EQI
+Hampshir,1.282717,Built_EQI
+Middlese,2.163388,Sociod_EQI
+Nantucke,2.046814,Sociod_EQI
+Norfolk,2.564994,Sociod_EQI
+Plymouth,1.814856,Sociod_EQI
+Suffolk,1.775588,Air_EQI
+Worceste,1.250709,Air_EQI
+Adams Co,1.36438,Built_EQI
+Alcorn C,0.4807004,Air_EQI
+Amite Co,-0.1827895,Air_EQI
+Attala C,0.0493317,Air_EQI
+Benton C,-0.3095464,Air_EQI
+Bolivar,0.8309707,Land_EQI
+Calhoun,0.0368016,Air_EQI
+Carroll,-0.4071912,Air_EQI
+Chickasa,0.190128,Air_EQI
+Choctaw,-0.0841898,Air_EQI
+Claiborn,0.3419502,Air_EQI
+Clarke C,-0.1065676,Air_EQI
+Clay Cou,0.6595309,Air_EQI
+Coahoma,0.9652321,Built_EQI
+Copiah C,0.4404313,Air_EQI
+Covingto,0.2471678,Air_EQI
+DeSoto C,1.246015,Air_EQI
+Forrest,1.217067,Air_EQI
+Franklin,-0.5562302,Air_EQI
+George C,0.2407681,Air_EQI
+Greene C,-0.3317618,Air_EQI
+Grenada,0.6416451,Air_EQI
+Hancock,0.6008288,Air_EQI
+Harrison,1.143328,Air_EQI
+Hinds Co,1.193087,Air_EQI
+Holmes C,-0.3439937,Land_EQI
+Humphrey,0.4684798,Land_EQI
+Itawamba,0.2890128,Air_EQI
+Jackson,1.29684,Air_EQI
+Jasper C,-0.0170313,Air_EQI
+Jefferso,0.1620446,Air_EQI
+Jefferso,-0.1772241,Air_EQI
+Jones Co,0.8084395,Air_EQI
+Kemper C,-0.4555944,Air_EQI
+Lafayett,0.4474307,Built_EQI
+Lamar Co,0.8401071,Sociod_EQI
+Lauderda,0.9041976,Air_EQI
+Lawrence,-0.0458865,Air_EQI
+Leake Co,-0.2196027,Air_EQI
+Lee Coun,1.204264,Air_EQI
+Leflore,0.871208,Air_EQI
+Lincoln,0.4162419,Air_EQI
+Lowndes,0.9048905,Built_EQI
+Madison,0.961165,Sociod_EQI
+Marion C,0.4204387,Air_EQI
+Marshall,0.401251,Air_EQI
+Monroe C,0.6700829,Air_EQI
+Montgome,-0.1090153,Air_EQI
+Neshoba,0.2809027,Air_EQI
+Newton C,0.119452,Air_EQI
+Noxubee,0.5217653,Land_EQI
+Oktibbeh,0.6627386,Air_EQI
+Panola C,0.2633505,Air_EQI
+Pearl Ri,0.4426542,Air_EQI
+Perry Co,-0.1211334,Air_EQI
+Pike Cou,0.9491861,Built_EQI
+Pontotoc,0.4481383,Air_EQI
+Prentiss,0.5709757,Air_EQI
+Quitman,0.4469453,Land_EQI
+Rankin C,0.8989969,Sociod_EQI
+Scott Co,0.1395748,Air_EQI
+Sharkey,0.5635922,Land_EQI
+Simpson,0.2405878,Air_EQI
+Smith Co,-0.2194613,Air_EQI
+Stone Co,0.4599248,Air_EQI
+Sunflowe,0.6315329,Land_EQI
+Tallahat,0.2695446,Air_EQI
+Tate Cou,0.6426862,Air_EQI
+Tippah C,0.4837465,Air_EQI
+Tishomin,0.3502842,Air_EQI
+Tunica C,0.9548416,Land_EQI
+Union Co,0.4238753,Air_EQI
+Walthall,0.3833264,Air_EQI
+Warren C,0.9843175,Built_EQI
+Washingt,0.8218786,Built_EQI
+Wayne Co,0.1054637,Air_EQI
+Webster,0.1153232,Air_EQI
+Wilkinso,-0.3305289,Air_EQI
+Winston,0.3219144,Air_EQI
+Yalobush,-0.2562211,Air_EQI
+Yazoo Co,0.6882689,Air_EQI
+Adair Co,0.9383267,Built_EQI
+Andrew C,1.005109,Sociod_EQI
+Atchison,0.8968086,Water_EQI
+Audrain,0.853095,Water_EQI
+Barry Co,0.8604159,Water_EQI
+Barton C,0.8254592,Water_EQI
+Bates Co,0.8624933,Water_EQI
+Benton C,0.9000713,Water_EQI
+Bollinge,0.8742367,Water_EQI
+Boone Co,1.138082,Built_EQI
+Buchanan,0.9531084,Built_EQI
+Butler C,1.095719,Built_EQI
+Caldwell,0.8891826,Water_EQI
+Callaway,0.837369,Water_EQI
+Camden C,1.170126,Built_EQI
+Cape Gir,0.8730458,Water_EQI
+Carroll,0.9245737,Land_EQI
+Carter C,-0.3713642,Land_EQI
+Cass Cou,1.534823,Sociod_EQI
+Cedar Co,-0.2781043,Land_EQI
+Chariton,0.8944075,Water_EQI
+Christia,0.8509052,Sociod_EQI
+Clark Co,0.8689077,Water_EQI
+Clay Cou,1.488996,Sociod_EQI
+Clinton,0.9078968,Sociod_EQI
+Cole Cou,1.079362,Built_EQI
+Cooper C,0.8865409,Water_EQI
+Crawford,0.0755217,Water_EQI
+Dade Cou,0.7414027,Land_EQI
+Dallas C,0.8983658,Water_EQI
+Daviess,0.8971289,Water_EQI
+DeKalb C,0.9289597,Water_EQI
+Dent Cou,0.861903,Water_EQI
+Douglas,0.8870113,Water_EQI
+Dunklin,0.7712678,Land_EQI
+Franklin,0.789784,Sociod_EQI
+Gasconad,0.876846,Water_EQI
+Gentry C,0.8968627,Water_EQI
+Greene C,0.9243876,Air_EQI
+Grundy C,0.9173821,Built_EQI
+Harrison,0.8933496,Water_EQI
+Henry Co,0.9207878,Water_EQI
+Hickory,0.8316328,Water_EQI
+Holt Cou,0.9399811,Water_EQI
+Howard C,0.9035305,Water_EQI
+Howell C,1.017065,Built_EQI
+Iron Cou,0.8342417,Water_EQI
+Jackson,1.41108,Air_EQI
+Jasper C,0.8566946,Water_EQI
+Jefferso,1.17072,Air_EQI
+Johnson,0.9203207,Water_EQI
+Knox Cou,-0.2132103,Land_EQI
+Laclede,0.6175251,Built_EQI
+Lafayett,0.9011536,Water_EQI
+Lawrence,0.9160841,Water_EQI
+Lewis Co,0.8709257,Water_EQI
+Lincoln,0.509159,Sociod_EQI
+Linn Cou,0.8734316,Water_EQI
+Livingst,0.9953185,Built_EQI
+McDonald,-0.1433383,Air_EQI
+Macon Co,0.808165,Water_EQI
+Madison,0.8672529,Water_EQI
+Maries C,0.5550712,Water_EQI
+Marion C,0.9991993,Built_EQI
+Mercer C,0.8598271,Water_EQI
+Miller C,0.9279261,Water_EQI
+Mississi,0.9273053,Land_EQI
+Moniteau,0.9099899,Water_EQI
+Monroe C,0.8810576,Water_EQI
+Montgome,0.8325459,Water_EQI
+Morgan C,0.9450823,Water_EQI
+New Madr,0.5821492,Land_EQI
+Newton C,1.244894,Built_EQI
+Nodaway,0.9270479,Water_EQI
+Oregon C,0.8829974,Water_EQI
+Osage Co,0.4102941,Sociod_EQI
+Ozark Co,0.0756361,Water_EQI
+Pemiscot,1.016623,Land_EQI
+Perry Co,0.8630229,Water_EQI
+Pettis C,0.9100609,Water_EQI
+Phelps C,1.08177,Built_EQI
+Pike Cou,1.000611,Built_EQI
+Platte C,2.01267,Sociod_EQI
+Polk Cou,0.320871,Land_EQI
+Pulaski,0.8328426,Water_EQI
+Putnam C,0.8645222,Water_EQI
+Ralls Co,0.4744717,Built_EQI
+Randolph,0.8804271,Water_EQI
+Ray Coun,0.8859333,Water_EQI
+Reynolds,0.8358962,Water_EQI
+Ripley C,0.869839,Water_EQI
+St. Char,1.980339,Sociod_EQI
+St. Clai,-0.237072,Land_EQI
+Ste. Gen,0.3478695,Built_EQI
+St. Fran,0.6808794,Built_EQI
+St. Loui,1.743891,Air_EQI
+Saline C,0.8552037,Water_EQI
+Schuyler,0.0565424,Built_EQI
+Scotland,0.8491058,Water_EQI
+Scott Co,0.8590139,Water_EQI
+Shannon,0.8356202,Water_EQI
+Shelby C,0.8662854,Water_EQI
+Stoddard,0.2622896,Air_EQI
+Stone Co,0.8748742,Water_EQI
+Sullivan,0.8336331,Water_EQI
+Taney Co,1.949522,Built_EQI
+Texas Co,-0.0066358,Built_EQI
+Vernon C,0.8095398,Built_EQI
+Warren C,0.5200087,Sociod_EQI
+Washingt,0.9133452,Water_EQI
+Wayne Co,0.8267855,Water_EQI
+Webster,0.0634532,Sociod_EQI
+Wright C,0.8731765,Water_EQI
+St. Loui,2.125994,Air_EQI
+Beaverhe,1.080953,Water_EQI
+Big Horn,1.080948,Water_EQI
+Blaine C,0.9766427,Water_EQI
+Broadwat,1.110948,Land_EQI
+Carbon C,1.01367,Water_EQI
+Cascade,1.189677,Built_EQI
+Chouteau,1.036137,Water_EQI
+Custer C,0.9602106,Built_EQI
+Dawson C,0.4697454,Land_EQI
+Deer Lod,1.106611,Built_EQI
+Fergus C,1.086258,Built_EQI
+Flathead,1.332252,Built_EQI
+Gallatin,1.306005,Built_EQI
+Glacier,1.027147,Water_EQI
+Hill Cou,0.9391311,Water_EQI
+Jefferso,1.486988,Land_EQI
+Lake Cou,1.150594,Built_EQI
+Lewis an,1.682049,Built_EQI
+Lincoln,1.031022,Water_EQI
+Madison,0.7610347,Land_EQI
+Mineral,1.001773,Water_EQI
+Missoula,1.615554,Built_EQI
+Musselsh,0.2762839,Land_EQI
+Park Cou,1.685547,Built_EQI
+Phillips,0.9958884,Water_EQI
+Pondera,0.969197,Water_EQI
+Powell C,0.9953752,Water_EQI
+Ravalli,1.024218,Water_EQI
+Richland,0.9347551,Water_EQI
+Roosevel,0.6544177,Land_EQI
+Rosebud,1.018336,Water_EQI
+Sanders,1.01389,Water_EQI
+Sheridan,0.9681309,Land_EQI
+Silver B,1.583373,Built_EQI
+Stillwat,0.9777124,Water_EQI
+Sweet Gr,0.6565729,Land_EQI
+Teton Co,0.9204481,Water_EQI
+Toole Co,0.9440058,Water_EQI
+Valley C,1.028423,Water_EQI
+Yellowst,1.356676,Built_EQI
+Adams Co,0.9253116,Water_EQI
+Antelope,0.5400812,Land_EQI
+Boone Co,0.7742287,Sociod_EQI
+Box Butt,0.6274673,Built_EQI
+Boyd Cou,1.137822,Land_EQI
+Buffalo,1.031939,Water_EQI
+Burt Cou,0.9511977,Land_EQI
+Butler C,0.8862734,Land_EQI
+Cass Cou,1.543386,Sociod_EQI
+Cedar Co,1.101801,Land_EQI
+Chase Co,0.5063481,Sociod_EQI
+Cherry C,0.9279408,Water_EQI
+Cheyenne,0.9324953,Water_EQI
+Clay Cou,1.048192,Water_EQI
+Colfax C,0.9430469,Land_EQI
+Cuming C,1.087664,Land_EQI
+Custer C,1.026641,Water_EQI
+Dakota C,0.9941304,Water_EQI
+Dawes Co,1.301077,Built_EQI
+Dawson C,1.024877,Water_EQI
+Dixon Co,1.129884,Land_EQI
+Dodge Co,1.113451,Land_EQI
+Douglas,1.38527,Air_EQI
+Fillmore,0.952005,Water_EQI
+Furnas C,0.457798,Land_EQI
+Gage Cou,0.9911985,Water_EQI
+Hall Cou,1.007049,Water_EQI
+Hamilton,1.179928,Sociod_EQI
+Holt Cou,0.7359685,Water_EQI
+Howard C,0.5922712,Water_EQI
+Jefferso,0.9904097,Water_EQI
+Johnson,1.022339,Water_EQI
+Kearney,1.052491,Sociod_EQI
+Keith Co,1.155964,Built_EQI
+Kimball,0.5899477,Water_EQI
+Knox Cou,0.8391462,Land_EQI
+Lancaste,1.072106,Water_EQI
+Lincoln,0.9865329,Water_EQI
+Madison,1.166463,Built_EQI
+Merrick,1.07481,Water_EQI
+Morrill,0.6248015,Water_EQI
+Nance Co,0.5175086,Land_EQI
+Nemaha C,0.6714386,Land_EQI
+Nuckolls,0.99141,Water_EQI
+Otoe Cou,0.8171436,Built_EQI
+Pawnee C,0.6736066,Land_EQI
+Phelps C,0.9664236,Sociod_EQI
+Pierce C,0.9209094,Land_EQI
+Platte C,1.03424,Sociod_EQI
+Polk Cou,1.061539,Sociod_EQI
+Red Will,0.8582134,Built_EQI
+Richards,0.9893795,Water_EQI
+Saline C,0.7580534,Land_EQI
+Sarpy Co,2.190262,Sociod_EQI
+Saunders,1.255529,Sociod_EQI
+Scotts B,1.205542,Built_EQI
+Seward C,1.257312,Sociod_EQI
+Sheridan,1.012022,Built_EQI
+Thayer C,0.8693299,Water_EQI
+Thurston,0.9689804,Land_EQI
+Washingt,1.679489,Sociod_EQI
+Wayne Co,1.169361,Land_EQI
+Webster,0.5452932,Land_EQI
+York Cou,0.9953741,Water_EQI
+Belknap,1.18674,Built_EQI
+Carroll,1.166735,Built_EQI
+Cheshire,0.9279991,Water_EQI
+Coos Cou,0.9498187,Water_EQI
+Grafton,1.282125,Built_EQI
+Hillsbor,1.551822,Sociod_EQI
+Merrimac,1.323025,Sociod_EQI
+Rockingh,2.043249,Sociod_EQI
+Straffor,0.9704132,Air_EQI
+Sullivan,0.98031,Water_EQI
+Atlantic,0.9693189,Air_EQI
+Bergen C,2.245086,Sociod_EQI
+Burlingt,2.055604,Sociod_EQI
+Camden C,1.88081,Air_EQI
+Cape May,0.6628231,Air_EQI
+Cumberla,1.16488,Air_EQI
+Essex Co,2.066267,Air_EQI
+Gloucest,1.682503,Sociod_EQI
+Hudson C,2.410725,Air_EQI
+Hunterdo,3.537189,Sociod_EQI
+Mercer C,1.776769,Air_EQI
+Middlese,1.816729,Air_EQI
+Monmouth,2.228565,Sociod_EQI
+Morris C,3.183686,Sociod_EQI
+Ocean Co,0.9948302,Sociod_EQI
+Passaic,1.871867,Air_EQI
+Salem Co,1.478951,Air_EQI
+Somerset,3.033464,Sociod_EQI
+Sussex C,2.424121,Sociod_EQI
+Union Co,2.012746,Air_EQI
+Warren C,1.935094,Sociod_EQI
+Bernalil,1.028533,Built_EQI
+Catron C,0.7948046,Water_EQI
+Chaves C,0.6174039,Water_EQI
+Cibola C,0.8916506,Water_EQI
+Colfax C,1.204082,Built_EQI
+Curry Co,0.8523107,Water_EQI
+Dona Ana,1.037511,Water_EQI
+Eddy Cou,0.9399203,Water_EQI
+Grant Co,1.002456,Water_EQI
+Lea Coun,0.9633434,Water_EQI
+Lincoln,1.232113,Built_EQI
+Los Alam,3.069432,Sociod_EQI
+Luna Cou,0.9250804,Water_EQI
+McKinley,0.9082127,Water_EQI
+Otero Co,0.8341902,Water_EQI
+Quay Cou,0.8548113,Water_EQI
+Rio Arri,0.9465049,Water_EQI
+Roosevel,0.8471556,Water_EQI
+Sandoval,0.7834499,Water_EQI
+San Juan,0.8546236,Water_EQI
+San Migu,0.9153818,Water_EQI
+Santa Fe,1.317723,Built_EQI
+Sierra C,0.294645,Land_EQI
+Socorro,0.9148524,Water_EQI
+Taos Cou,1.394075,Built_EQI
+Torrance,0.4178724,Water_EQI
+Valencia,0.8089483,Water_EQI
+Albany C,1.819623,Built_EQI
+Allegany,0.8362612,Water_EQI
+Bronx Co,2.336144,Air_EQI
+Broome C,1.131176,Air_EQI
+Cattarau,1.183385,Built_EQI
+Cayuga C,0.8750767,Air_EQI
+Chautauq,0.9714969,Built_EQI
+Chemung,1.092087,Air_EQI
+Chenango,0.6106643,Air_EQI
+Clinton,0.9951121,Built_EQI
+Columbia,1.219938,Land_EQI
+Cortland,1.001898,Built_EQI
+Delaware,0.7027314,Built_EQI
+Dutchess,1.369076,Sociod_EQI
+Erie Cou,1.613386,Air_EQI
+Essex Co,1.38971,Built_EQI
+Franklin,0.7918557,Water_EQI
+Fulton C,0.8602706,Water_EQI
+Genesee,1.052207,Sociod_EQI
+Greene C,0.9809158,Land_EQI
+Hamilton,0.8267408,Built_EQI
+Herkimer,0.8651599,Water_EQI
+Jefferso,0.6966639,Land_EQI
+Kings Co,2.353388,Air_EQI
+Lewis Co,0.3119954,Land_EQI
+Livingst,0.9776307,Sociod_EQI
+Madison,1.023514,Water_EQI
+Monroe C,1.503299,Air_EQI
+Montgome,1.055623,Built_EQI
+Nassau C,2.797058,Sociod_EQI
+New York,2.78984,Air_EQI
+Niagara,1.501787,Air_EQI
+Oneida C,1.065952,Air_EQI
+Onondaga,1.265712,Air_EQI
+Ontario,1.194187,Sociod_EQI
+Orange C,1.275031,Built_EQI
+Orleans,0.6584635,Land_EQI
+Oswego C,0.5115952,Air_EQI
+Otsego C,0.8312268,Built_EQI
+Putnam C,2.692702,Sociod_EQI
+Queens C,2.202838,Air_EQI
+Renssela,1.29362,Air_EQI
+Richmond,2.128481,Air_EQI
+Rockland,2.342997,Sociod_EQI
+St. Lawr,0.3674946,Land_EQI
+Saratoga,1.51459,Sociod_EQI
+Schenect,1.25188,Air_EQI
+Schohari,0.9650179,Water_EQI
+Schuyler,1.141586,Water_EQI
+Seneca C,0.5638165,Land_EQI
+Steuben,0.8214371,Water_EQI
+Suffolk,2.114977,Sociod_EQI
+Sullivan,1.058982,Built_EQI
+Tioga Co,1.120554,Sociod_EQI
+Tompkins,1.141989,Built_EQI
+Ulster C,1.304943,Built_EQI
+Warren C,1.767231,Built_EQI
+Washingt,0.8655124,Water_EQI
+Wayne Co,1.156215,Sociod_EQI
+Westches,2.038386,Sociod_EQI
+Wyoming,0.9275167,Land_EQI
+Yates Co,0.7231855,Land_EQI
+Alamance,1.184472,Air_EQI
+Alexande,1.083827,Water_EQI
+Alleghan,0.9897823,Water_EQI
+Anson Co,0.9252102,Water_EQI
+Ashe Cou,1.035833,Water_EQI
+Avery Co,1.072274,Water_EQI
+Beaufort,0.9507933,Water_EQI
+Bertie C,1.005548,Water_EQI
+Bladen C,1.040473,Water_EQI
+Brunswic,1.020276,Water_EQI
+Buncombe,1.187838,Air_EQI
+Burke Co,0.9427508,Water_EQI
+Cabarrus,1.477821,Air_EQI
+Caldwell,1.021154,Water_EQI
+Camden C,0.9141328,Water_EQI
+Carteret,1.069197,Water_EQI
+Caswell,1.016085,Water_EQI
+Catawba,1.374899,Air_EQI
+Chatham,1.043021,Water_EQI
+Cherokee,1.023769,Water_EQI
+Chowan C,0.7937765,Built_EQI
+Clay Cou,1.013083,Water_EQI
+Clevelan,1.204723,Air_EQI
+Columbus,1.076677,Water_EQI
+Craven C,1.066326,Water_EQI
+Cumberla,1.176917,Air_EQI
+Currituc,1.034941,Water_EQI
+Dare Cou,1.027899,Water_EQI
+Davidson,1.396722,Air_EQI
+Davie Co,1.003214,Sociod_EQI
+Duplin C,1.055765,Water_EQI
+Durham C,1.345238,Air_EQI
+Edgecomb,1.035942,Water_EQI
+Forsyth,1.43889,Air_EQI
+Franklin,1.055502,Water_EQI
+Gaston C,1.693889,Air_EQI
+Gates Co,0.5093656,Water_EQI
+Graham C,0.1435075,Water_EQI
+Granvill,1.010917,Water_EQI
+Greene C,1.007835,Water_EQI
+Guilford,1.634328,Air_EQI
+Halifax,0.9224302,Water_EQI
+Harnett,0.9897034,Water_EQI
+Haywood,1.095355,Water_EQI
+Henderso,1.063654,Water_EQI
+Hertford,1.017804,Water_EQI
+Hoke Cou,1.029243,Water_EQI
+Hyde Cou,0.5310295,Water_EQI
+Iredell,1.250223,Air_EQI
+Jackson,1.077459,Water_EQI
+Johnston,1.084121,Water_EQI
+Jones Co,1.039473,Water_EQI
+Lee Coun,1.02459,Water_EQI
+Lenoir C,1.041061,Water_EQI
+Lincoln,1.291587,Air_EQI
+McDowell,1.059675,Water_EQI
+Macon Co,1.078563,Water_EQI
+Madison,1.017177,Water_EQI
+Martin C,1.083096,Water_EQI
+Mecklenb,1.795411,Air_EQI
+Mitchell,0.9751639,Water_EQI
+Montgome,0.9894763,Water_EQI
+Moore Co,1.069216,Water_EQI
+Nash Cou,1.00959,Water_EQI
+New Hano,1.064707,Air_EQI
+Northamp,1.013278,Water_EQI
+Onslow C,1.047952,Water_EQI
+Orange C,1.175766,Built_EQI
+Pamlico,0.9878948,Water_EQI
+Pasquota,0.8780293,Water_EQI
+Pender C,1.02565,Water_EQI
+Perquima,0.9323261,Water_EQI
+Person C,1.046328,Water_EQI
+Pitt Cou,1.068631,Water_EQI
+Polk Cou,0.9820249,Water_EQI
+Randolph,1.358316,Air_EQI
+Richmond,1.042533,Water_EQI
+Robeson,1.03443,Water_EQI
+Rockingh,1.036744,Water_EQI
+Rowan Co,1.342406,Air_EQI
+Rutherfo,1.113413,Water_EQI
+Sampson,1.112751,Water_EQI
+Scotland,0.6130328,Air_EQI
+Stanly C,1.055382,Water_EQI
+Stokes C,1.133268,Water_EQI
+Surry Co,1.031631,Water_EQI
+Swain Co,1.011572,Built_EQI
+Transylv,1.064479,Water_EQI
+Tyrrell,0.5648559,Water_EQI
+Union Co,1.350833,Sociod_EQI
+Vance Co,0.9988605,Water_EQI
+Wake Cou,1.571886,Sociod_EQI
+Warren C,1.064875,Water_EQI
+Washingt,1.056279,Water_EQI
+Watauga,1.410464,Built_EQI
+Wayne Co,1.058373,Water_EQI
+Wilkes C,1.072086,Water_EQI
+Wilson C,1.016868,Water_EQI
+Yadkin C,1.027247,Water_EQI
+Yancey C,0.9805539,Water_EQI
+Barnes C,1.037505,Built_EQI
+Benson C,0.8850657,Water_EQI
+Bottinea,0.6227004,Land_EQI
+Bowman C,0.7559423,Built_EQI
+Burleigh,1.205122,Built_EQI
+Cass Cou,1.080003,Built_EQI
+Cavalier,0.676353,Land_EQI
+Dickey C,0.7933521,Land_EQI
+Foster C,0.5923219,Land_EQI
+Grand Fo,0.9304096,Land_EQI
+Griggs C,0.5804237,Land_EQI
+McHenry,0.5021644,Land_EQI
+McKenzie,0.8499634,Water_EQI
+McLean C,0.8704787,Land_EQI
+Mercer C,0.6782121,Land_EQI
+Morton C,0.7814631,Land_EQI
+Mountrai,1.347138,Built_EQI
+Nelson C,0.5560854,Land_EQI
+Pembina,1.038577,Land_EQI
+Pierce C,0.4154224,Land_EQI
+Ramsey C,0.8970061,Built_EQI
+Ransom C,0.8237554,Land_EQI
+Richland,0.8777819,Water_EQI
+Rolette,0.8655555,Water_EQI
+Sargent,0.8817012,Land_EQI
+Stark Co,1.22882,Built_EQI
+Stutsman,1.025852,Built_EQI
+Traill C,0.7981479,Sociod_EQI
+Walsh Co,1.169345,Land_EQI
+Ward Cou,1.113565,Built_EQI
+Wells Co,0.7548962,Land_EQI
+Williams,1.031131,Land_EQI
+Adams Co,0.6826758,Land_EQI
+Allen Co,1.153074,Air_EQI
+Ashland,1.107463,Sociod_EQI
+Ashtabul,1.030146,Air_EQI
+Athens C,1.278443,Air_EQI
+Auglaize,1.218616,Sociod_EQI
+Belmont,1.113385,Air_EQI
+Brown Co,0.5763563,Sociod_EQI
+Butler C,1.63482,Air_EQI
+Carroll,0.5567983,Air_EQI
+Champaig,1.097227,Sociod_EQI
+Clark Co,1.242687,Air_EQI
+Clermont,1.54138,Sociod_EQI
+Clinton,1.053253,Sociod_EQI
+Columbia,1.437485,Air_EQI
+Coshocto,0.8536902,Air_EQI
+Crawford,1.133507,Land_EQI
+Cuyahoga,1.895549,Air_EQI
+Darke Co,1.095493,Land_EQI
+Defiance,1.244555,Sociod_EQI
+Delaware,2.874273,Sociod_EQI
+Erie Cou,1.188516,Land_EQI
+Fairfiel,1.675693,Sociod_EQI
+Fayette,0.717551,Land_EQI
+Franklin,1.772319,Air_EQI
+Fulton C,1.369859,Sociod_EQI
+Gallia C,0.8208414,Air_EQI
+Geauga C,2.686315,Sociod_EQI
+Greene C,1.438359,Sociod_EQI
+Guernsey,0.949543,Built_EQI
+Hamilton,2.102049,Air_EQI
+Hancock,1.339912,Sociod_EQI
+Hardin C,1.137057,Land_EQI
+Harrison,0.6177182,Built_EQI
+Henry Co,1.160892,Sociod_EQI
+Highland,0.4756984,Land_EQI
+Hocking,0.5030208,Air_EQI
+Holmes C,0.5769959,Land_EQI
+Huron Co,1.13127,Land_EQI
+Jackson,0.6910715,Air_EQI
+Jefferso,1.399174,Air_EQI
+Knox Cou,0.663343,Sociod_EQI
+Lake Cou,1.690048,Sociod_EQI
+Lawrence,1.364408,Air_EQI
+Licking,1.235194,Sociod_EQI
+Logan Co,0.8925561,Land_EQI
+Lorain C,1.349211,Air_EQI
+Lucas Co,1.556321,Air_EQI
+Madison,1.063715,Land_EQI
+Mahoning,1.37777,Air_EQI
+Marion C,1.040163,Land_EQI
+Medina C,2.204433,Sociod_EQI
+Meigs Co,0.8550539,Air_EQI
+Mercer C,1.158353,Sociod_EQI
+Miami Co,1.229492,Sociod_EQI
+Monroe C,0.5394394,Air_EQI
+Montgome,1.474273,Air_EQI
+Morgan C,0.6296185,Air_EQI
+Morrow C,1.070473,Sociod_EQI
+Muskingu,1.089753,Air_EQI
+Noble Co,0.5573659,Air_EQI
+Ottawa C,0.939356,Land_EQI
+Paulding,0.857069,Sociod_EQI
+Perry Co,0.4907556,Air_EQI
+Pickaway,1.150352,Air_EQI
+Pike Cou,0.5817132,Water_EQI
+Portage,1.228308,Sociod_EQI
+Preble C,1.222256,Sociod_EQI
+Putnam C,1.710248,Sociod_EQI
+Richland,0.9576592,Air_EQI
+Ross Cou,0.9985063,Air_EQI
+Sandusky,1.041733,Land_EQI
+Scioto C,1.11782,Air_EQI
+Seneca C,0.9841949,Land_EQI
+Shelby C,1.269016,Sociod_EQI
+Stark Co,1.364097,Air_EQI
+Summit C,1.436431,Air_EQI
+Trumbull,1.25252,Air_EQI
+Tuscaraw,0.8125261,Air_EQI
+Union Co,1.76706,Sociod_EQI
+Van Wert,1.315315,Sociod_EQI
+Vinton C,0.2281643,Air_EQI
+Warren C,2.144803,Sociod_EQI
+Washingt,1.749027,Air_EQI
+Wayne Co,0.9346484,Sociod_EQI
+Williams,0.9373457,Land_EQI
+Wood Cou,1.236688,Sociod_EQI
+Wyandot,1.11623,Sociod_EQI
+Adair Co,-0.1247277,Land_EQI
+Alfalfa,0.0464931,Land_EQI
+Atoka Co,-0.0980798,Built_EQI
+Beckham,0.9646106,Built_EQI
+Blaine C,-0.2780094,Land_EQI
+Bryan Co,0.2158828,Air_EQI
+Caddo Co,-0.0125352,Built_EQI
+Canadian,1.114959,Sociod_EQI
+Carter C,0.5237728,Built_EQI
+Cherokee,0.1707894,Air_EQI
+Choctaw,0.3421149,Built_EQI
+Clevelan,0.8162194,Sociod_EQI
+Coal Cou,-0.4139509,Water_EQI
+Comanche,0.5633211,Air_EQI
+Cotton C,-0.3436982,Water_EQI
+Craig Co,0.4361224,Built_EQI
+Creek Co,0.3951653,Air_EQI
+Custer C,0.8069663,Built_EQI
+Delaware,0.1897053,Built_EQI
+Dewey Co,-0.2724791,Land_EQI
+Ellis Co,-0.0798825,Sociod_EQI
+Garfield,0.5324684,Built_EQI
+Garvin C,-0.125183,Built_EQI
+Grady Co,0.0729214,Air_EQI
+Grant Co,0.3159708,Land_EQI
+Greer Co,0.4345799,Land_EQI
+Harmon C,0.1454806,Land_EQI
+Harper C,0.1742478,Sociod_EQI
+Haskell,-0.4129657,Water_EQI
+Hughes C,-0.3923282,Water_EQI
+Jackson,0.370483,Built_EQI
+Jefferso,0.3090705,Built_EQI
+Johnston,-0.3375971,Built_EQI
+Kay Coun,0.566932,Air_EQI
+Kingfish,0.2589135,Land_EQI
+Kiowa Co,0.2763016,Built_EQI
+Latimer,-0.3486001,Water_EQI
+Le Flore,0.0539147,Air_EQI
+Lincoln,-0.2207325,Sociod_EQI
+Logan Co,0.1459593,Sociod_EQI
+Love Cou,-0.2670529,Sociod_EQI
+McClain,0.3862778,Built_EQI
+McCurtai,0.0545543,Built_EQI
+McIntosh,0.6450122,Built_EQI
+Marshall,0.0722512,Air_EQI
+Mayes Co,0.4051181,Air_EQI
+Murray C,-0.6646821,Sociod_EQI
+Muskogee,0.5611714,Air_EQI
+Noble Co,0.0228338,Sociod_EQI
+Nowata C,-0.0828158,Land_EQI
+Okfuskee,-0.4151571,Water_EQI
+Oklahoma,0.855947,Air_EQI
+Okmulgee,0.2327345,Air_EQI
+Osage Co,0.1685961,Air_EQI
+Ottawa C,0.518761,Built_EQI
+Pawnee C,0.1784174,Built_EQI
+Payne Co,0.4486439,Air_EQI
+Pittsbur,0.2139541,Air_EQI
+Pontotoc,0.5107974,Built_EQI
+Pottawat,0.2878084,Built_EQI
+Pushmata,-0.0587064,Built_EQI
+Rogers C,0.9985065,Sociod_EQI
+Seminole,0.2161512,Built_EQI
+Sequoyah,0.0271535,Air_EQI
+Stephens,0.1983501,Built_EQI
+Texas Co,0.0047325,Land_EQI
+Tillman,0.0972749,Land_EQI
+Tulsa Co,1.078704,Air_EQI
+Wagoner,0.989159,Sociod_EQI
+Washingt,0.5502902,Air_EQI
+Washita,0.1170403,Land_EQI
+Woods Co,0.5444313,Built_EQI
+Baker Co,1.089601,Land_EQI
+Benton C,1.436028,Air_EQI
+Clackama,1.863583,Sociod_EQI
+Clatsop,1.00901,Water_EQI
+Columbia,1.548616,Air_EQI
+Coos Cou,1.024911,Water_EQI
+Crook Co,1.043294,Water_EQI
+Curry Co,1.008496,Water_EQI
+Deschute,1.352737,Built_EQI
+Douglas,1.039655,Water_EQI
+Grant Co,1.050478,Water_EQI
+Harney C,1.051782,Water_EQI
+Hood Riv,0.9893336,Built_EQI
+Jackson,1.491191,Air_EQI
+Jefferso,0.8874692,Land_EQI
+Josephin,1.054788,Water_EQI
+Klamath,1.061055,Water_EQI
+Lake Cou,1.05922,Water_EQI
+Lane Cou,1.336385,Air_EQI
+Lincoln,1.621105,Built_EQI
+Linn Cou,1.231362,Air_EQI
+Malheur,1.112907,Water_EQI
+Marion C,1.588894,Air_EQI
+Morrow C,1.092066,Land_EQI
+Multnoma,2.507858,Air_EQI
+Polk Cou,1.135035,Air_EQI
+Tillamoo,1.152705,Built_EQI
+Umatilla,1.057734,Water_EQI
+Union Co,1.138387,Built_EQI
+Wallowa,0.9756416,Water_EQI
+Wasco Co,1.075126,Water_EQI
+Washingt,1.914281,Air_EQI
+Yamhill,1.523053,Air_EQI
+Adams Co,1.02614,Land_EQI
+Alleghen,1.715453,Air_EQI
+Armstron,0.8278489,Air_EQI
+Beaver C,1.681595,Air_EQI
+Bedford,0.4411251,Air_EQI
+Berks Co,1.728058,Air_EQI
+Blair Co,1.075616,Air_EQI
+Bradford,0.5681459,Air_EQI
+Bucks Co,2.3415,Sociod_EQI
+Butler C,1.270803,Air_EQI
+Cambria,0.9221302,Air_EQI
+Cameron,0.3086577,Air_EQI
+Carbon C,0.8570838,Built_EQI
+Centre C,1.162148,Air_EQI
+Chester,2.57074,Sociod_EQI
+Clarion,0.7728503,Built_EQI
+Clearfie,0.6559681,Air_EQI
+Clinton,0.6799902,Air_EQI
+Columbia,1.066757,Air_EQI
+Crawford,0.5521943,Built_EQI
+Cumberla,1.459627,Sociod_EQI
+Dauphin,1.438922,Air_EQI
+Delaware,1.921147,Air_EQI
+Elk Coun,0.6240417,Built_EQI
+Erie Cou,1.034336,Air_EQI
+Fayette,1.062463,Air_EQI
+Forest C,0.3265982,Land_EQI
+Franklin,0.9652706,Air_EQI
+Fulton C,0.1867654,Sociod_EQI
+Greene C,0.740207,Air_EQI
+Huntingd,0.4151433,Land_EQI
+Indiana,0.95293,Air_EQI
+Jefferso,0.7185133,Air_EQI
+Juniata,0.4111003,Sociod_EQI
+Lackawan,1.29741,Built_EQI
+Lancaste,1.752541,Air_EQI
+Lawrence,1.394739,Air_EQI
+Lebanon,1.333976,Air_EQI
+Lehigh C,1.548669,Air_EQI
+Luzerne,1.226816,Built_EQI
+Lycoming,1.100704,Air_EQI
+Mc Kean,0.9328633,Built_EQI
+Mercer C,1.160665,Air_EQI
+Mifflin,0.7744985,Air_EQI
+Monroe C,0.8744907,Air_EQI
+Montgome,2.257285,Sociod_EQI
+Montour,1.190058,Air_EQI
+Northamp,1.56419,Air_EQI
+Northumb,1.248689,Air_EQI
+Perry Co,0.7980669,Sociod_EQI
+Philadel,2.219418,Air_EQI
+Pike Cou,0.5289825,Sociod_EQI
+Potter C,0.3298742,Built_EQI
+Schuylki,1.11944,Air_EQI
+Snyder C,0.7692319,Air_EQI
+Somerset,0.6920548,Air_EQI
+Sullivan,-0.0090701,Land_EQI
+Susqueha,0.3939309,Sociod_EQI
+Tioga Co,0.7342324,Built_EQI
+Union Co,0.9780562,Air_EQI
+Venango,0.5912217,Built_EQI
+Warren C,0.7369334,Built_EQI
+Washingt,1.35392,Air_EQI
+Wayne Co,0.7352929,Built_EQI
+Westmore,1.382052,Air_EQI
+Wyoming,0.5623717,Sociod_EQI
+York Cou,1.705635,Air_EQI
+Bristol,1.497467,Sociod_EQI
+Kent Cou,1.347448,Air_EQI
+Newport,1.342297,Sociod_EQI
+Providen,1.602046,Air_EQI
+Washingt,1.461046,Sociod_EQI
+Abbevill,0.9929249,Water_EQI
+Aiken Co,1.140939,Air_EQI
+Allendal,-0.1561808,Built_EQI
+Anderson,1.233841,Air_EQI
+Bamberg,0.921367,Water_EQI
+Barnwell,0.9442479,Water_EQI
+Beaufort,1.089634,Sociod_EQI
+Berkeley,1.185884,Air_EQI
+Calhoun,0.3514741,Air_EQI
+Charlest,1.42803,Air_EQI
+Cherokee,1.085726,Air_EQI
+Chester,0.9380881,Water_EQI
+Chesterf,0.9441608,Water_EQI
+Clarendo,0.9179638,Water_EQI
+Colleton,0.5827013,Water_EQI
+Darlingt,1.085504,Air_EQI
+Dillon C,0.9013845,Water_EQI
+Dorchest,0.9861854,Water_EQI
+Edgefiel,0.4410691,Air_EQI
+Fairfiel,0.3528535,Air_EQI
+Florence,1.149528,Built_EQI
+Georgeto,1.291405,Built_EQI
+Greenvil,1.615366,Air_EQI
+Greenwoo,0.8890379,Water_EQI
+Hampton,0.9067191,Water_EQI
+Horry Co,1.4945,Built_EQI
+Jasper C,0.8657551,Water_EQI
+Kershaw,1.019732,Water_EQI
+Lancaste,1.003373,Air_EQI
+Laurens,0.8995756,Water_EQI
+Lee Coun,0.9770628,Water_EQI
+Lexingto,1.300617,Air_EQI
+McCormic,0.9119394,Water_EQI
+Marion C,0.9082258,Water_EQI
+Marlboro,0.4394453,Air_EQI
+Newberry,0.9667096,Water_EQI
+Oconee C,0.9470015,Water_EQI
+Orangebu,0.9407131,Water_EQI
+Pickens,1.014312,Air_EQI
+Richland,1.580739,Air_EQI
+Saluda C,0.9324639,Water_EQI
+Spartanb,1.739764,Air_EQI
+Sumter C,1.015221,Water_EQI
+Union Co,0.9232977,Water_EQI
+Williams,0.9796237,Water_EQI
+York Cou,1.492247,Air_EQI
+Aurora C,0.5816625,Land_EQI
+Beadle C,1.169469,Built_EQI
+Bon Homm,0.9412922,Land_EQI
+Brooking,1.062097,Land_EQI
+Brown Co,0.8380947,Built_EQI
+Brule Co,0.8286555,Built_EQI
+Butte Co,0.9181114,Land_EQI
+Charles,1.065422,Land_EQI
+Clark Co,0.9309896,Land_EQI
+Clay Cou,1.407831,Land_EQI
+Codingto,1.137434,Land_EQI
+Custer C,0.9781013,Water_EQI
+Davison,1.338977,Built_EQI
+Day Coun,0.8988322,Land_EQI
+Deuel Co,0.9439792,Land_EQI
+Douglas,0.8016624,Land_EQI
+Fall Riv,0.9745119,Water_EQI
+Grant Co,0.9671972,Land_EQI
+Gregory,0.9410591,Built_EQI
+Hamlin C,1.051947,Land_EQI
+Hughes C,1.435993,Built_EQI
+Hutchins,0.8811437,Land_EQI
+Kingsbur,1.014465,Land_EQI
+Lake Cou,1.183829,Land_EQI
+Lawrence,0.9806099,Land_EQI
+Lincoln,1.993002,Sociod_EQI
+McCook C,0.9135844,Sociod_EQI
+Meade Co,0.7473118,Sociod_EQI
+Minnehah,1.063811,Sociod_EQI
+Moody Co,1.090756,Land_EQI
+Penningt,1.354721,Built_EQI
+Potter C,0.6617256,Land_EQI
+Roberts,0.9952802,Land_EQI
+Shannon,1.061661,Water_EQI
+Spink Co,0.8914742,Land_EQI
+Tripp Co,0.8816153,Land_EQI
+Turner C,1.068514,Land_EQI
+Union Co,1.460084,Sociod_EQI
+Walworth,0.8017863,Land_EQI
+Yankton,1.032241,Land_EQI
+Anderson,1.139455,Air_EQI
+Bedford,0.4441817,Land_EQI
+Benton C,0.2221577,Air_EQI
+Bledsoe,-0.0313543,Air_EQI
+Blount C,1.273422,Air_EQI
+Bradley,1.197868,Air_EQI
+Campbell,0.435844,Air_EQI
+Cannon C,0.3791728,Land_EQI
+Carroll,0.0274384,Water_EQI
+Carter C,0.9688686,Air_EQI
+Cheatham,1.191822,Sociod_EQI
+Chester,0.1103277,Air_EQI
+Claiborn,0.1205352,Air_EQI
+Clay Cou,0.0345713,Land_EQI
+Cocke Co,0.5517637,Air_EQI
+Coffee C,1.130516,Built_EQI
+Crockett,0.3349427,Land_EQI
+Cumberla,0.3707571,Built_EQI
+Davidson,1.787255,Air_EQI
+Decatur,-0.0022466,Water_EQI
+DeKalb C,0.3925405,Built_EQI
+Dickson,0.6094543,Air_EQI
+Dyer Cou,0.7114003,Air_EQI
+Fayette,0.5726078,Sociod_EQI
+Fentress,-0.1398067,Air_EQI
+Franklin,0.5856484,Built_EQI
+Gibson C,0.3160329,Air_EQI
+Giles Co,0.5455694,Land_EQI
+Grainger,0.3578672,Air_EQI
+Greene C,1.036101,Air_EQI
+Grundy C,-0.0577539,Water_EQI
+Hamblen,1.079142,Air_EQI
+Hamilton,1.516916,Air_EQI
+Hancock,0.1549277,Air_EQI
+Hardeman,-0.0314444,Air_EQI
+Hardin C,0.2574585,Air_EQI
+Hawkins,0.9459223,Air_EQI
+Haywood,0.2591425,Built_EQI
+Henderso,0.4497207,Built_EQI
+Henry Co,0.6300843,Air_EQI
+Hickman,0.1038468,Water_EQI
+Houston,0.0547665,Air_EQI
+Humphrey,0.4831855,Built_EQI
+Jackson,0.2951275,Land_EQI
+Jefferso,0.7362102,Air_EQI
+Johnson,0.376656,Land_EQI
+Knox Cou,1.647323,Air_EQI
+Lake Cou,0.5793593,Land_EQI
+Lauderda,0.3002138,Land_EQI
+Lawrence,0.1723293,Air_EQI
+Lewis Co,-0.3253585,Air_EQI
+Lincoln,0.4733354,Land_EQI
+Loudon C,1.056288,Air_EQI
+McMinn C,0.9354503,Air_EQI
+McNairy,0.0638361,Air_EQI
+Macon Co,0.3221787,Land_EQI
+Madison,1.124143,Built_EQI
+Marion C,0.1607783,Air_EQI
+Marshall,0.6354752,Air_EQI
+Maury Co,0.6585692,Air_EQI
+Meigs Co,0.3328114,Air_EQI
+Monroe C,0.6514727,Air_EQI
+Montgome,1.095126,Air_EQI
+Moore Co,0.5525007,Sociod_EQI
+Morgan C,0.0880176,Air_EQI
+Obion Co,0.3721876,Built_EQI
+Overton,-0.3210696,Water_EQI
+Perry Co,-0.0377055,Water_EQI
+Pickett,-0.3273077,Water_EQI
+Polk Cou,0.091172,Air_EQI
+Putnam C,0.9265295,Built_EQI
+Rhea Cou,0.4191622,Air_EQI
+Roane Co,0.7637637,Air_EQI
+Robertso,0.993618,Air_EQI
+Rutherfo,1.199808,Air_EQI
+Scott Co,0.2308905,Air_EQI
+Sequatch,0.1877163,Air_EQI
+Sevier C,1.285818,Built_EQI
+Shelby C,1.652909,Air_EQI
+Smith Co,0.3892446,Land_EQI
+Stewart,0.0639426,Air_EQI
+Sullivan,1.705747,Air_EQI
+Sumner C,1.21267,Air_EQI
+Tipton C,0.6849746,Air_EQI
+Trousdal,0.6607032,Land_EQI
+Unicoi C,0.759684,Air_EQI
+Union Co,0.4776095,Air_EQI
+Van Bure,-0.0487657,Water_EQI
+Warren C,0.3666426,Air_EQI
+Washingt,1.372728,Air_EQI
+Wayne Co,-0.002649,Water_EQI
+Weakley,0.1037271,Air_EQI
+White Co,0.2218076,Air_EQI
+Williams,3.05824,Sociod_EQI
+Wilson C,1.40083,Sociod_EQI
+Anderson,0.5999227,Water_EQI
+Andrews,0.7404794,Water_EQI
+Angelina,0.8338938,Air_EQI
+Aransas,0.8213515,Built_EQI
+Archer C,0.6611612,Water_EQI
+Atascosa,0.5546633,Water_EQI
+Austin C,0.6351537,Built_EQI
+Bandera,0.6296387,Water_EQI
+Bastrop,0.5563748,Water_EQI
+Baylor C,0.8576306,Built_EQI
+Bee Coun,0.6106738,Water_EQI
+Bell Cou,0.7570526,Air_EQI
+Bexar Co,1.317454,Air_EQI
+Blanco C,0.5952125,Water_EQI
+Bosque C,0.7393848,Water_EQI
+Bowie Co,1.152513,Built_EQI
+Brazoria,1.716551,Air_EQI
+Brazos C,1.173957,Built_EQI
+Brewster,1.553913,Built_EQI
+Brown Co,0.8345672,Built_EQI
+Burleson,0.0216076,Air_EQI
+Burnet C,0.7048171,Built_EQI
+Caldwell,0.5794177,Water_EQI
+Calhoun,0.7596237,Built_EQI
+Callahan,0.6647357,Water_EQI
+Cameron,0.611902,Water_EQI
+Carson C,0.6620615,Water_EQI
+Cass Cou,0.6012765,Water_EQI
+Castro C,0.7032512,Water_EQI
+Chambers,1.144907,Air_EQI
+Cherokee,0.6014832,Water_EQI
+Childres,0.632387,Built_EQI
+Clay Cou,0.6818264,Water_EQI
+Coke Cou,0.8723993,Water_EQI
+Coleman,0.937203,Built_EQI
+Collin C,2.485149,Sociod_EQI
+Colorado,0.7615805,Built_EQI
+Comal Co,0.8490579,Built_EQI
+Comanche,0.660063,Water_EQI
+Concho C,0.6926512,Water_EQI
+Cooke Co,1.042402,Built_EQI
+Coryell,0.5724674,Water_EQI
+Crosby C,0.7255118,Water_EQI
+Dallam C,0.9583921,Built_EQI
+Dallas C,1.664193,Air_EQI
+Dawson C,0.7429777,Water_EQI
+Deaf Smi,0.6752363,Water_EQI
+Denton C,1.757323,Sociod_EQI
+DeWitt C,0.9612268,Built_EQI
+Dimmit C,0.5372394,Water_EQI
+Donley C,0.6692761,Water_EQI
+Duval Co,0.679235,Water_EQI
+Eastland,0.6684899,Water_EQI
+Ector Co,0.9439157,Built_EQI
+Ellis Co,0.8130301,Sociod_EQI
+El Paso,0.9865631,Air_EQI
+Erath Co,0.6383497,Water_EQI
+Falls Co,0.5792816,Water_EQI
+Fannin C,0.61854,Water_EQI
+Fayette,1.459114,Built_EQI
+Fisher C,0.1511015,Land_EQI
+Floyd Co,0.6782832,Water_EQI
+Fort Ben,1.812795,Sociod_EQI
+Freeston,0.618247,Water_EQI
+Frio Cou,0.0143237,Water_EQI
+Gaines C,0.7607077,Water_EQI
+Galvesto,1.660969,Air_EQI
+Garza Co,0.9016185,Built_EQI
+Gillespi,1.368177,Built_EQI
+Goliad C,0.3633582,Built_EQI
+Gonzales,0.5715024,Water_EQI
+Gray Cou,0.9028906,Built_EQI
+Grayson,0.8866891,Built_EQI
+Gregg Co,1.460658,Built_EQI
+Grimes C,0.6399424,Water_EQI
+Guadalup,0.5984365,Air_EQI
+Hale Cou,0.6976426,Water_EQI
+Hall Cou,-0.0340973,Land_EQI
+Hamilton,0.2495036,Built_EQI
+Hardin C,0.8881101,Air_EQI
+Harris C,2.346921,Air_EQI
+Harrison,0.8345991,Air_EQI
+Haskell,0.9420846,Built_EQI
+Hays Cou,0.8302547,Built_EQI
+Henderso,0.6210191,Water_EQI
+Hidalgo,0.6135016,Water_EQI
+Hill Cou,0.5969018,Water_EQI
+Hockley,0.9020167,Water_EQI
+Hood Cou,0.8668212,Sociod_EQI
+Houston,0.5824589,Water_EQI
+Howard C,0.7857926,Built_EQI
+Hunt Cou,0.7985225,Water_EQI
+Hutchins,0.8877978,Water_EQI
+Jack Cou,0.6337341,Water_EQI
+Jackson,0.0219718,Built_EQI
+Jasper C,0.8178474,Water_EQI
+Jefferso,1.915083,Air_EQI
+Jim Well,0.7665167,Water_EQI
+Johnson,0.7888024,Water_EQI
+Jones Co,0.2913985,Land_EQI
+Karnes C,0.2506134,Built_EQI
+Kaufman,0.8106893,Air_EQI
+Kendall,1.10907,Sociod_EQI
+Kerr Cou,1.185769,Built_EQI
+Kimble C,0.628399,Water_EQI
+Kleberg,0.7634653,Water_EQI
+Knox Cou,0.3725034,Land_EQI
+Lamar Co,1.002691,Built_EQI
+Lamb Cou,0.7120419,Water_EQI
+Lampasas,0.1191588,Built_EQI
+Lavaca C,0.2597894,Built_EQI
+Lee Coun,0.5252761,Water_EQI
+Leon Cou,0.2490613,Built_EQI
+Liberty,0.8798279,Air_EQI
+Limeston,0.5416575,Water_EQI
+Live Oak,-0.0093416,Water_EQI
+Llano Co,0.6652645,Water_EQI
+Lubbock,1.19891,Built_EQI
+Lynn Cou,0.7019903,Water_EQI
+McCulloc,1.380475,Built_EQI
+McLennan,0.7802927,Built_EQI
+Madison,0.015789,Water_EQI
+Marion C,0.604798,Water_EQI
+Matagord,0.5699804,Built_EQI
+Medina C,0.5798025,Water_EQI
+Midland,1.022505,Built_EQI
+Milam Co,0.5956657,Water_EQI
+Mitchell,0.6225622,Water_EQI
+Montague,0.6432337,Water_EQI
+Montgome,1.377988,Air_EQI
+Moore Co,0.6905025,Water_EQI
+Nacogdoc,0.755586,Air_EQI
+Navarro,0.6239737,Water_EQI
+Newton C,0.5963852,Water_EQI
+Nolan Co,1.014118,Built_EQI
+Nueces C,1.090183,Built_EQI
+Orange C,1.554522,Air_EQI
+Palo Pin,0.9868285,Built_EQI
+Panola C,0.5772815,Water_EQI
+Parker C,0.8097812,Sociod_EQI
+Pecos Co,0.6631414,Water_EQI
+Polk Cou,0.6780315,Water_EQI
+Potter C,1.478438,Built_EQI
+Randall,1.156681,Sociod_EQI
+Real Cou,0.5213881,Water_EQI
+Red Rive,0.5965499,Water_EQI
+Reeves C,0.6748397,Water_EQI
+Refugio,0.155884,Built_EQI
+Robertso,0.0028973,Water_EQI
+Rockwall,2.343878,Sociod_EQI
+Runnels,1.170151,Built_EQI
+Rusk Cou,0.6171632,Water_EQI
+Sabine C,0.5905541,Water_EQI
+San Augu,0.5478786,Water_EQI
+San Jaci,0.6482225,Water_EQI
+San Patr,0.5541685,Water_EQI
+San Saba,0.9455573,Built_EQI
+Scurry C,0.6828677,Water_EQI
+Shelby C,0.6062846,Water_EQI
+Somervel,0.7247258,Built_EQI
+Starr Co,0.6113194,Water_EQI
+Stephens,1.341587,Built_EQI
+Swisher,0.6809613,Water_EQI
+Tarrant,1.357827,Air_EQI
+Taylor C,0.9991076,Built_EQI
+Terry Co,0.7285849,Water_EQI
+Tom Gree,0.981041,Built_EQI
+Travis C,1.240481,Air_EQI
+Trinity,0.6448083,Water_EQI
+Tyler Co,0.6023399,Water_EQI
+Uvalde C,0.5739759,Water_EQI
+Val Verd,0.5760754,Water_EQI
+Van Zand,0.6163583,Water_EQI
+Victoria,1.143098,Built_EQI
+Walker C,0.6353297,Air_EQI
+Waller C,0.6348166,Water_EQI
+Ward Cou,0.6839322,Water_EQI
+Washingt,1.077623,Built_EQI
+Webb Cou,0.6131957,Air_EQI
+Wharton,0.6395479,Water_EQI
+Wheeler,0.7266329,Water_EQI
+Wichita,1.052737,Built_EQI
+Wilbarge,0.7158508,Built_EQI
+Willacy,0.6002192,Water_EQI
+Williams,1.923508,Sociod_EQI
+Wilson C,0.5623426,Water_EQI
+Winkler,0.6739264,Water_EQI
+Wise Cou,0.6400048,Water_EQI
+Yoakum C,0.7044098,Water_EQI
+Young Co,1.04983,Built_EQI
+Zapata C,0.6218594,Water_EQI
+Box Elde,1.461512,Sociod_EQI
+Cache Co,0.9826694,Sociod_EQI
+Carbon C,0.8801841,Built_EQI
+Davis Co,2.355314,Sociod_EQI
+Duchesne,0.1279779,Land_EQI
+Grand Co,1.243946,Built_EQI
+Iron Cou,1.035896,Water_EQI
+Juab Cou,0.9690182,Water_EQI
+Kane Cou,1.030547,Water_EQI
+Millard,0.9847371,Water_EQI
+Salt Lak,1.507174,Land_EQI
+Sanpete,0.9620109,Water_EQI
+Sevier C,0.9859483,Water_EQI
+Summit C,2.404139,Sociod_EQI
+Tooele C,1.111541,Sociod_EQI
+Uintah C,0.9525554,Water_EQI
+Utah Cou,1.497299,Sociod_EQI
+Wasatch,1.575037,Sociod_EQI
+Washingt,1.046132,Water_EQI
+Weber Co,1.078574,Sociod_EQI
+Addison,0.9315692,Water_EQI
+Benningt,1.53499,Built_EQI
+Caledoni,0.9081296,Water_EQI
+Chittend,1.70919,Built_EQI
+Essex Co,0.8226293,Water_EQI
+Franklin,0.9395174,Water_EQI
+Grand Is,0.8691593,Water_EQI
+Lamoille,1.076163,Built_EQI
+Orange C,0.9150533,Water_EQI
+Orleans,0.8510782,Water_EQI
+Rutland,1.393571,Built_EQI
+Washingt,1.496239,Built_EQI
+Windham,1.616901,Built_EQI
+Windsor,1.199783,Built_EQI
+Accomack,0.5539356,Land_EQI
+Albemarl,1.984215,Sociod_EQI
+Alleghan,0.5857379,Land_EQI
+Amelia C,0.2933168,Sociod_EQI
+Amherst,0.6876239,Air_EQI
+Appomatt,0.3744423,Land_EQI
+Arlingto,1.884945,Sociod_EQI
+Augusta,1.345848,Sociod_EQI
+Bath Cou,0.2775763,Land_EQI
+Bland Co,-0.0486794,Land_EQI
+Botetour,1.726444,Sociod_EQI
+Brunswic,-0.230109,Air_EQI
+Buchanan,-0.0835709,Air_EQI
+Buckingh,0.1577833,Land_EQI
+Campbell,0.7096311,Air_EQI
+Caroline,0.6325879,Sociod_EQI
+Carroll,0.265317,Land_EQI
+Charles,0.450523,Air_EQI
+Charlott,-0.0527785,Land_EQI
+Chesterf,2.413419,Sociod_EQI
+Clarke C,1.694255,Sociod_EQI
+Craig Co,0.4466076,Sociod_EQI
+Culpeper,1.015682,Sociod_EQI
+Cumberla,0.7198865,Water_EQI
+Dickenso,-0.1203579,Air_EQI
+Dinwiddi,0.8166643,Sociod_EQI
+Essex Co,0.896817,Built_EQI
+Fairfax,3.309,Sociod_EQI
+Fauquier,2.537836,Sociod_EQI
+Floyd Co,0.2592432,Land_EQI
+Fluvanna,1.420562,Sociod_EQI
+Franklin,1.042921,Water_EQI
+Frederic,1.533896,Sociod_EQI
+Giles Co,0.8356389,Water_EQI
+Gloucest,1.268332,Sociod_EQI
+Goochlan,1.772815,Sociod_EQI
+Grayson,0.3272805,Land_EQI
+Greene C,1.073558,Sociod_EQI
+Greensvi,0.0497638,Air_EQI
+Halifax,0.446313,Air_EQI
+Hanover,2.69196,Sociod_EQI
+Henrico,1.805567,Sociod_EQI
+Henry Co,0.6817664,Air_EQI
+Isle of,1.325729,Sociod_EQI
+James Ci,2.227341,Sociod_EQI
+King and,0.0737669,Air_EQI
+King Geo,1.156816,Sociod_EQI
+King Wil,1.22116,Sociod_EQI
+Lancaste,0.2937355,Built_EQI
+Lee Coun,0.6192084,Land_EQI
+Loudoun,3.531119,Sociod_EQI
+Louisa C,0.6873516,Sociod_EQI
+Lunenbur,0.0905727,Water_EQI
+Madison,0.570716,Sociod_EQI
+Mathews,0.9605821,Sociod_EQI
+Mecklenb,0.6235427,Built_EQI
+Middlese,-0.0252861,Sociod_EQI
+Montgome,0.9270338,Air_EQI
+Nelson C,0.8014706,Land_EQI
+New Kent,1.498111,Sociod_EQI
+Northamp,0.3107662,Built_EQI
+Northumb,0.3117233,Water_EQI
+Nottoway,-0.0896186,Air_EQI
+Orange C,1.11445,Sociod_EQI
+Page Cou,0.6420143,Land_EQI
+Patrick,0.4923287,Land_EQI
+Pittsylv,0.4753735,Air_EQI
+Powhatan,1.952192,Sociod_EQI
+Prince E,0.4604273,Built_EQI
+Prince G,1.44942,Sociod_EQI
+Prince W,2.881884,Sociod_EQI
+Pulaski,0.6069378,Air_EQI
+Rappahan,0.8066697,Sociod_EQI
+Richmond,0.0238962,Water_EQI
+Roanoke,2.15126,Sociod_EQI
+Rockbrid,0.8027973,Land_EQI
+Rockingh,0.9588701,Sociod_EQI
+Russell,0.3164068,Land_EQI
+Scott Co,0.6110232,Air_EQI
+Shenando,0.667746,Sociod_EQI
+Smyth Co,0.259096,Land_EQI
+Southamp,0.0577439,Air_EQI
+Spotsylv,2.215759,Sociod_EQI
+Stafford,3.01851,Sociod_EQI
+Surry Co,0.1983153,Sociod_EQI
+Sussex C,0.1458868,Air_EQI
+Tazewell,0.2038508,Built_EQI
+Warren C,0.9033822,Sociod_EQI
+Washingt,0.7140676,Air_EQI
+Westmore,0.1308306,Air_EQI
+Wise Cou,0.3260894,Air_EQI
+Wythe Co,0.2947376,Land_EQI
+York Cou,2.646729,Sociod_EQI
+Alexandr,2.04282,Built_EQI
+Bristol,1.408463,Air_EQI
+Buena Vi,0.4234659,Air_EQI
+Charlott,2.470936,Built_EQI
+Chesapea,1.592649,Sociod_EQI
+Colonial,1.481805,Air_EQI
+Covingto,1.168077,Built_EQI
+Danville,1.297708,Built_EQI
+Emporia,1.856238,Built_EQI
+Fairfax,3.4853,Built_EQI
+Falls Ch,3.883786,Built_EQI
+Franklin,0.9636917,Built_EQI
+Frederic,1.562788,Built_EQI
+Galax ci,1.501029,Built_EQI
+Hampton,1.13552,Air_EQI
+Harrison,1.41269,Built_EQI
+Hopewell,1.771418,Air_EQI
+Lexingto,2.009311,Built_EQI
+Lynchbur,1.496662,Built_EQI
+Manassas,2.042578,Sociod_EQI
+Martinsv,1.782407,Built_EQI
+Newport,1.174839,Air_EQI
+Norfolk,1.456278,Air_EQI
+Norton c,3.024205,Built_EQI
+Petersbu,1.477153,Air_EQI
+Poquoson,2.604922,Sociod_EQI
+Portsmou,1.326466,Air_EQI
+Radford,1.006039,Air_EQI
+Richmond,1.744641,Air_EQI
+Roanoke,1.317097,Air_EQI
+Salem ci,1.10563,Air_EQI
+Staunton,0.9975909,Built_EQI
+Suffolk,0.8634779,Air_EQI
+Virginia,1.594067,Sociod_EQI
+Waynesbo,1.517103,Air_EQI
+Williams,0.9174991,Air_EQI
+Winchest,2.173996,Built_EQI
+Adams Co,0.8354359,Land_EQI
+Asotin C,0.9345739,Air_EQI
+Benton C,0.9822866,Sociod_EQI
+Chelan C,1.715651,Built_EQI
+Clallam,0.8396291,Built_EQI
+Clark Co,1.74636,Air_EQI
+Columbia,0.8289144,Built_EQI
+Cowlitz,1.391431,Air_EQI
+Douglas,0.6360723,Land_EQI
+Ferry Co,0.4327442,Land_EQI
+Franklin,0.9528255,Land_EQI
+Grant Co,0.9753674,Land_EQI
+Grays Ha,1.184748,Built_EQI
+Island C,1.198848,Sociod_EQI
+Jefferso,0.5702999,Sociod_EQI
+King Cou,1.595431,Sociod_EQI
+Kitsap C,1.187162,Sociod_EQI
+Kittitas,1.192604,Built_EQI
+Klickita,0.9338282,Land_EQI
+Lewis Co,0.9015076,Built_EQI
+Lincoln,0.7372613,Land_EQI
+Mason Co,0.4993977,Land_EQI
+Okanogan,0.9213646,Built_EQI
+Pacific,0.9745961,Built_EQI
+Pend Ore,0.6719211,Built_EQI
+Pierce C,0.9909939,Air_EQI
+San Juan,1.06275,Sociod_EQI
+Skagit C,1.264305,Built_EQI
+Skamania,0.8521117,Land_EQI
+Snohomis,1.696735,Sociod_EQI
+Spokane,1.046623,Built_EQI
+Stevens,1.057076,Land_EQI
+Thurston,1.139904,Sociod_EQI
+Wahkiaku,0.6910397,Sociod_EQI
+Walla Wa,0.8959141,Built_EQI
+Whatcom,1.464841,Built_EQI
+Whitman,0.7487687,Built_EQI
+Yakima C,1.004896,Land_EQI
+Barbour,1.100346,Water_EQI
+Berkeley,1.232419,Air_EQI
+Boone Co,1.043693,Water_EQI
+Braxton,1.047937,Water_EQI
+Brooke C,1.421749,Air_EQI
+Cabell C,1.591468,Air_EQI
+Calhoun,1.010799,Water_EQI
+Clay Cou,1.053522,Water_EQI
+Doddridg,0.2423657,Water_EQI
+Fayette,1.291281,Water_EQI
+Gilmer C,1.180932,Water_EQI
+Grant Co,0.2516699,Water_EQI
+Greenbri,1.072703,Water_EQI
+Hampshir,1.074277,Water_EQI
+Hancock,1.541976,Air_EQI
+Hardy Co,0.2552981,Land_EQI
+Harrison,1.071685,Water_EQI
+Jackson,0.7754942,Air_EQI
+Jefferso,1.140657,Sociod_EQI
+Kanawha,1.696955,Air_EQI
+Lewis Co,1.074892,Water_EQI
+Lincoln,0.4309757,Air_EQI
+Logan Co,1.011588,Water_EQI
+McDowell,1.100089,Water_EQI
+Marion C,1.114007,Air_EQI
+Marshall,1.074098,Water_EQI
+Mason Co,0.7892795,Air_EQI
+Mercer C,1.095339,Water_EQI
+Mineral,0.7194675,Air_EQI
+Mingo Co,1.069594,Water_EQI
+Monongal,1.326847,Air_EQI
+Monroe C,1.098928,Water_EQI
+Morgan C,0.3414051,Air_EQI
+Nicholas,1.090923,Water_EQI
+Ohio Cou,1.425565,Built_EQI
+Pendleto,0.2533372,Water_EQI
+Pleasant,0.9567986,Water_EQI
+Pocahont,1.121497,Water_EQI
+Preston,1.068897,Water_EQI
+Putnam C,1.217373,Air_EQI
+Raleigh,1.048228,Water_EQI
+Randolph,1.12886,Water_EQI
+Ritchie,1.03198,Water_EQI
+Roane Co,1.26281,Water_EQI
+Summers,1.066945,Water_EQI
+Taylor C,0.494217,Air_EQI
+Tucker C,1.091527,Water_EQI
+Tyler Co,1.062129,Water_EQI
+Upshur C,1.112606,Water_EQI
+Wayne Co,1.159809,Air_EQI
+Webster,1.112513,Water_EQI
+Wetzel C,1.026147,Water_EQI
+Wirt Cou,0.4213546,Air_EQI
+Wood Cou,1.723126,Air_EQI
+Wyoming,1.071073,Water_EQI
+Adams Co,-0.0144204,Land_EQI
+Ashland,1.467994,Built_EQI
+Barron C,0.8441892,Built_EQI
+Bayfield,0.946328,Built_EQI
+Brown Co,1.55054,Air_EQI
+Buffalo,0.8953434,Sociod_EQI
+Burnett,0.9339168,Built_EQI
+Calumet,1.846136,Sociod_EQI
+Chippewa,0.8098161,Sociod_EQI
+Clark Co,0.8261251,Water_EQI
+Columbia,1.548675,Sociod_EQI
+Crawford,0.5499646,Water_EQI
+Dane Cou,1.427212,Air_EQI
+Dodge Co,1.312186,Sociod_EQI
+Door Cou,1.332787,Built_EQI
+Douglas,1.05283,Built_EQI
+Dunn Cou,0.6706851,Water_EQI
+Eau Clai,1.119534,Built_EQI
+Florence,0.0900205,Land_EQI
+Fond du,1.188858,Sociod_EQI
+Forest C,0.3860776,Built_EQI
+Grant Co,0.8025262,Sociod_EQI
+Green Co,1.338607,Sociod_EQI
+Green La,0.8035368,Built_EQI
+Iowa Cou,1.120369,Sociod_EQI
+Iron Cou,1.603768,Built_EQI
+Jackson,0.3681678,Built_EQI
+Jefferso,1.321323,Sociod_EQI
+Juneau C,0.7787212,Built_EQI
+Kenosha,1.435137,Air_EQI
+Kewaunee,1.25455,Sociod_EQI
+La Cross,1.063642,Built_EQI
+Lafayett,1.723246,Land_EQI
+Langlade,0.7981679,Built_EQI
+Lincoln,0.7450441,Built_EQI
+Manitowo,1.070082,Sociod_EQI
+Marathon,1.10924,Sociod_EQI
+Marinett,0.9060482,Built_EQI
+Marquett,0.6633996,Water_EQI
+Milwauke,1.92661,Air_EQI
+Monroe C,0.6019598,Water_EQI
+Oconto C,0.7918018,Water_EQI
+Oneida C,1.608953,Built_EQI
+Outagami,1.528778,Sociod_EQI
+Ozaukee,2.644464,Sociod_EQI
+Pepin Co,0.8875887,Sociod_EQI
+Pierce C,1.672101,Sociod_EQI
+Polk Cou,0.9632254,Sociod_EQI
+Portage,0.8488138,Water_EQI
+Price Co,0.8947083,Built_EQI
+Racine C,1.368239,Air_EQI
+Richland,0.8426294,Water_EQI
+Rock Cou,1.266255,Air_EQI
+Rusk Cou,0.709484,Water_EQI
+St. Croi,2.177341,Sociod_EQI
+Sauk Cou,1.34071,Built_EQI
+Sawyer C,0.9780616,Built_EQI
+Shawano,0.8493367,Sociod_EQI
+Sheboyga,1.228496,Sociod_EQI
+Taylor C,0.8496825,Water_EQI
+Trempeal,0.7369083,Sociod_EQI
+Vernon C,0.4926499,Water_EQI
+Vilas Co,1.409794,Built_EQI
+Walworth,0.9547351,Land_EQI
+Washburn,1.02137,Built_EQI
+Washingt,2.104066,Sociod_EQI
+Waukesha,2.49782,Sociod_EQI
+Waupaca,1.03311,Sociod_EQI
+Waushara,0.820087,Water_EQI
+Winnebag,1.176307,Air_EQI
+Wood Cou,0.9145266,Air_EQI
+Albany C,1.073219,Water_EQI
+Big Horn,1.139145,Water_EQI
+Campbell,1.153706,Sociod_EQI
+Carbon C,1.191476,Built_EQI
+Converse,1.062989,Water_EQI
+Crook Co,0.980021,Water_EQI
+Fremont,1.08303,Water_EQI
+Goshen C,1.090011,Water_EQI
+Hot Spri,0.6566808,Built_EQI
+Johnson,1.220431,Built_EQI
+Laramie,1.103246,Built_EQI
+Lincoln,1.022355,Water_EQI
+Natrona,1.20993,Built_EQI
+Park Cou,1.351674,Built_EQI
+Platte C,1.022285,Water_EQI
+Sheridan,1.115378,Built_EQI
+Sweetwat,1.309324,Built_EQI
+Teton Co,2.418939,Built_EQI
+Uinta Co,1.162652,Water_EQI
+Washakie,1.004629,Water_EQI
+Weston C,1.039474,Water_EQI

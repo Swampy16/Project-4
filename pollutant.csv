@@ -1,0 +1,2603 @@
+County,Highest Pollutant,Highest Pollutant Value
+Autauga,O3,522.38
+Baldwin,O3,540.79
+Barbour,O3,896.42
+Bibb Cou,O3,563.48
+Blount C,O3,561.94
+Bullock,O3,652.28
+Butler C,O3,578.7
+Calhoun,O3,531.53
+Chambers,O3,634.03
+Cherokee,O3,838.14
+Chilton,O3,534.52
+Choctaw,O3,641.07
+Clarke C,O3,592.35
+Clay Cou,O3,485.97
+Cleburne,O3,592.32
+Coffee C,O3,789.66
+Colbert,O3,1178.5
+Conecuh,O3,551.7
+Coosa Co,O3,534.47
+Covingto,O3,667.19
+Crenshaw,O3,628.37
+Cullman,O3,622.29
+Dale Cou,O3,965.41
+Dallas C,O3,541.73
+DeKalb C,O3,852.01
+Elmore C,O3,522.75
+Escambia,O3,560.09
+Etowah C,O3,646.69
+Fayette,O3,817.46
+Franklin,O3,929.91
+Geneva C,O3,1200.57
+Greene C,O3,632.23
+Hale Cou,O3,573.01
+Henry Co,O3,1296.75
+Houston,O3,1730.12
+Jackson,O3,952.67
+Jefferso,O3,651.83
+Lamar Co,O3,968.71
+Lauderda,O3,3080.58
+Lawrence,O3,817.1
+Lee Coun,O3,822.94
+Limeston,O3,862.58
+Lowndes,O3,580.24
+Macon Co,O3,651.63
+Madison,O3,825.5
+Marengo,O3,556.69
+Marion C,O3,954.6
+Marshall,O3,666.63
+Mobile C,O3,542.97
+Monroe C,O3,515.58
+Montgome,O3,583.68
+Morgan C,O3,702.2
+Perry Co,O3,560.06
+Pickens,O3,783.39
+Pike Cou,O3,635.85
+Randolph,O3,553.51
+Russell,O3,1237.46
+St. Clai,O3,595.8
+Shelby C,O3,556.3
+Sumter C,O3,636.18
+Talladeg,O3,555.67
+Tallapoo,O3,564.53
+Tuscaloo,O3,716.05
+Walker C,O3,755.38
+Washingt,O3,692.5
+Wilcox C,O3,561.15
+Winston,O3,705.66
+Anchorag,CO,6.2390284
+Fairbank,CO,5.5815055
+Juneau B,O3,7.8
+Kodiak I,CO,1.7487908
+Valdez-C,O3,2.3
+Apache C,O3,450.25
+Cochise,O3,90.62
+Coconino,O3,125.63
+Gila Cou,O3,100.1
+Graham C,O3,95.9
+Greenlee,O3,126.24
+La Paz C,O3,248.65
+Maricopa,O3,183.08
+Mohave C,O3,515.09
+Navajo C,O3,214.22
+Pima Cou,O3,91.17
+Pinal Co,O3,156.92
+Santa Cr,O3,89.43
+Yavapai,O3,110.86
+Yuma Cou,O3,161.8
+Arkansas,O3,1644.61
+Ashley C,O3,2029.63
+Baxter C,O3,1609.13
+Benton C,O3,2648.52
+Boone Co,O3,1041.0
+Bradley,O3,1422.17
+Calhoun,O3,1227.42
+Carroll,O3,1360.28
+Chicot C,O3,3033.75
+Clark Co,O3,757.13
+Clay Cou,O3,1878.11
+Cleburne,O3,1109.87
+Clevelan,O3,1215.74
+Columbia,O3,1599.27
+Conway C,O3,878.15
+Craighea,O3,1377.89
+Crawford,O3,1693.99
+Crittend,O3,854.65
+Cross Co,O3,1289.87
+Dallas C,O3,853.79
+Desha Co,O3,2356.25
+Drew Cou,O3,1765.91
+Faulkner,O3,1000.54
+Franklin,O3,1013.09
+Fulton C,O3,1674.64
+Garland,O3,819.03
+Grant Co,O3,899.05
+Greene C,O3,1629.79
+Hempstea,O3,1090.07
+Hot Spri,O3,848.34
+Howard C,O3,726.98
+Independ,O3,1223.14
+Izard Co,O3,1424.17
+Jackson,O3,1291.25
+Jefferso,O3,1163.29
+Johnson,O3,660.02
+Lafayett,O3,1759.08
+Lawrence,O3,1521.98
+Lee Coun,O3,1634.34
+Lincoln,O3,1410.22
+Little R,O3,1448.14
+Logan Co,O3,870.06
+Lonoke C,O3,1008.63
+Madison,O3,942.79
+Marion C,O3,1502.36
+Miller C,O3,1853.13
+Mississi,O3,1328.96
+Monroe C,O3,1546.86
+Montgome,O3,533.75
+Nevada C,O3,1119.67
+Newton C,O3,598.33
+Ouachita,O3,1159.25
+Perry Co,O3,864.4
+Phillips,O3,2053.27
+Pike Cou,O3,792.19
+Poinsett,O3,972.65
+Polk Cou,O3,845.45
+Pope Cou,O3,816.9
+Prairie,O3,1255.51
+Pulaski,O3,581.53
+Randolph,O3,1665.87
+St. Fran,O3,1389.72
+Saline C,O3,882.39
+Scott Co,O3,800.09
+Searcy C,O3,804.76
+Sebastia,O3,1166.28
+Sevier C,O3,1049.71
+Sharp Co,O3,1442.73
+Stone Co,O3,1151.61
+Union Co,O3,1610.72
+Van Bure,O3,1029.17
+Washingt,O3,2177.04
+White Co,O3,1122.97
+Woodruff,O3,1299.23
+Yell Cou,O3,809.39
+Alameda,O3,167.78
+Amador C,O3,340.97
+Butte Co,O3,370.44
+Calavera,O3,559.55
+Colusa C,O3,532.08
+Contra C,O3,243.42
+Del Nort,O3,1314.75
+El Dorad,O3,598.91
+Fresno C,O3,578.31
+Glenn Co,O3,759.76
+Humboldt,O3,626.02
+Imperial,O3,788.52
+Inyo Cou,O3,882.94
+Kern Cou,O3,800.56
+Kings Co,O3,952.61
+Lake Cou,O3,941.19
+Lassen C,O3,636.92
+Los Ange,O3,2426.93
+Madera C,O3,1124.62
+Marin Co,O3,1729.56
+Mariposa,O3,1882.4
+Mendocin,O3,948.16
+Merced C,O3,1469.18
+Modoc Co,CO,646.6008976
+Mono Cou,O3,1007.93
+Monterey,O3,1124.02
+Napa Cou,O3,1842.39
+Nevada C,O3,1809.89
+Orange C,O3,1739.64
+Placer C,O3,1247.38
+Plumas C,O3,1326.85
+Riversid,O3,1230.31
+Sacramen,O3,1698.88
+San Beni,O3,1452.72
+San Bern,O3,2514.53
+San Dieg,O3,1856.94
+San Fran,O3,1933.88
+San Joaq,O3,2064.02
+San Luis,O3,1629.25
+San Mate,O3,2282.01
+Santa Ba,O3,1979.9
+Santa Cl,O3,2991.63
+Santa Cr,O3,2483.53
+Shasta C,O3,2368.0
+Siskiyou,O3,2378.25
+Solano C,O3,2318.6
+Sonoma C,O3,2197.17
+Stanisla,O3,2331.21
+Sutter C,O3,2631.78
+Tehama C,O3,2490.51
+Trinity,O3,1150.82
+Tulare C,O3,2098.15
+Tuolumne,O3,1607.62
+Ventura,O3,2766.48
+Yolo Cou,O3,2166.16
+Yuba Cou,O3,1412.45
+Adams Co,O3,2282.48
+Alamosa,O3,1185.8
+Arapahoe,O3,2163.49
+Archulet,O3,1933.85
+Baca Cou,O3,737.94
+Bent Cou,O3,782.16
+Boulder,O3,2935.17
+Chaffee,O3,1451.21
+Clear Cr,O3,2390.48
+Conejos,O3,1243.84
+Costilla,O3,1094.5
+Custer C,O3,1306.21
+Delta Co,O3,1549.79
+Denver C,O3,2806.96
+Douglas,O3,3104.99
+Eagle Co,O3,1432.46
+Elbert C,O3,1581.82
+El Paso,O3,1780.77
+Fremont,O3,1556.74
+Garfield,O3,1609.48
+Grand Co,O3,1807.36
+Gunnison,O3,1609.98
+Huerfano,O3,1049.44
+Jefferso,O3,3037.4
+Kit Cars,O3,1412.44
+La Plata,O3,2798.88
+Larimer,O3,2461.16
+Las Anim,O3,666.55
+Lincoln,O3,1074.22
+Logan Co,O3,1707.5
+Mesa Cou,O3,2077.51
+Moffat C,O3,1386.79
+Montezum,O3,2571.97
+Montrose,O3,1708.25
+Morgan C,O3,1847.3
+Otero Co,O3,683.6
+Park Cou,O3,1843.92
+Phillips,O3,1868.23
+Pitkin C,O3,1485.17
+Prowers,O3,978.82
+Pueblo C,O3,1127.79
+Rio Gran,O3,1312.07
+Routt Co,O3,1388.77
+Summit C,O3,1753.49
+Teller C,O3,2264.53
+Weld Cou,O3,2638.1
+Yuma Cou,O3,1726.46
+Fairfiel,O3,5842.57
+Hartford,O3,6415.0
+Litchfie,O3,9579.8
+Middlese,O3,5110.49
+New Have,O3,5708.37
+New Lond,O3,6130.86
+Tolland,O3,5584.64
+Windham,O3,7911.02
+Kent Cou,O3,4805.01
+New Cast,O3,3775.15
+Sussex C,O3,4218.53
+District,O3,3464.74
+Alachua,O3,3562.41
+Baker Co,O3,3900.23
+Bay Coun,O3,3157.87
+Bradford,O3,4009.01
+Brevard,O3,3401.27
+Broward,O3,4155.32
+Calhoun,O3,2431.51
+Charlott,O3,4048.84
+Citrus C,O3,3723.19
+Clay Cou,O3,4883.34
+Collier,O3,3109.91
+Columbia,O3,5683.08
+DeSoto C,O3,3706.12
+Dixie Co,O3,2903.49
+Duval Co,O3,6722.74
+Escambia,O3,551.77
+Flagler,O3,3677.79
+Franklin,O3,2483.75
+Gadsden,O3,2904.7
+Gilchris,O3,3604.19
+Glades C,O3,3658.76
+Gulf Cou,O3,1997.58
+Hamilton,O3,4472.45
+Hardee C,O3,3463.55
+Hendry C,O3,3543.9
+Hernando,O3,4215.46
+Highland,O3,3768.51
+Hillsbor,O3,3703.27
+Holmes C,O3,1952.24
+Indian R,O3,3810.36
+Jackson,O3,2302.23
+Jefferso,O3,4501.04
+Lafayett,O3,3732.14
+Lake Cou,O3,4402.76
+Lee Coun,O3,4041.91
+Leon Cou,O3,4006.34
+Levy Cou,O3,2837.45
+Liberty,O3,2600.94
+Madison,O3,4320.06
+Manatee,O3,3792.64
+Marion C,O3,3881.44
+Martin C,O3,3466.29
+Monroe C,O3,2431.93
+Nassau C,O3,4882.58
+Okaloosa,O3,1576.29
+Okeechob,O3,3670.19
+Orange C,O3,3787.94
+Osceola,O3,3660.84
+Palm Bea,O3,3777.79
+Pasco Co,O3,4715.11
+Pinellas,O3,4116.87
+Polk Cou,O3,3413.04
+Putnam C,O3,4091.23
+St. John,O3,4560.51
+St. Luci,O3,3615.01
+Santa Ro,O3,1383.8
+Sarasota,O3,4435.83
+Seminole,O3,3898.23
+Sumter C,O3,4594.52
+Suwannee,O3,4375.36
+Taylor C,O3,3697.18
+Volusia,O3,4034.24
+Wakulla,O3,3541.58
+Walton C,O3,1871.19
+Washingt,O3,2948.06
+Appling,O3,4516.73
+Atkinson,O3,4439.7
+Bacon Co,O3,4394.37
+Baker Co,O3,2569.91
+Baldwin,O3,5171.79
+Banks Co,O3,5478.1
+Barrow C,O3,5825.56
+Bartow C,O3,5337.45
+Ben Hill,O3,4424.31
+Berrien,O3,4380.57
+Bibb Cou,O3,6074.19
+Bleckley,O3,4127.36
+Brantley,O3,4925.41
+Brooks C,O3,4232.69
+Bryan Co,O3,5029.6
+Bulloch,O3,4474.04
+Burke Co,O3,5284.77
+Butts Co,O3,5386.21
+Calhoun,O3,2229.91
+Camden C,O3,5124.85
+Candler,O3,4359.48
+Carroll,O3,1384.03
+Catoosa,O3,5098.2
+Charlton,O3,4365.45
+Chatham,O3,5880.53
+Chattaho,O3,4410.36
+Chattoog,O3,1734.33
+Cherokee,O3,6188.18
+Clarke C,O3,6612.45
+Clay Cou,O3,1497.74
+Clayton,O3,5665.4
+Clinch C,O3,4361.34
+Cobb Cou,O3,6204.58
+Coffee C,O3,4492.84
+Colquitt,O3,4068.6
+Columbia,O3,5148.54
+Cook Cou,O3,4189.36
+Coweta C,O3,4705.4
+Crawford,O3,5285.76
+Crisp Co,O3,4750.53
+Dade Cou,O3,1722.39
+Dawson C,O3,6376.53
+Decatur,O3,2638.19
+DeKalb C,O3,5797.34
+Dodge Co,O3,4392.44
+Dooly Co,O3,5034.89
+Doughert,O3,3443.78
+Douglas,O3,5785.13
+Early Co,O3,1769.07
+Effingha,O3,4982.02
+Elbert C,O3,5810.25
+Emanuel,O3,4315.98
+Evans Co,O3,4486.55
+Fannin C,O3,6399.54
+Fayette,O3,5805.92
+Floyd Co,O3,2367.55
+Forsyth,O3,6272.53
+Franklin,O3,5705.04
+Fulton C,O3,6151.08
+Gilmer C,O3,6357.68
+Glynn Co,O3,5958.05
+Gordon C,O3,4926.91
+Grady Co,O3,3356.07
+Greene C,O3,5218.89
+Gwinnett,O3,6051.92
+Habersha,O3,5731.7
+Hall Cou,O3,5672.14
+Hancock,O3,4772.97
+Haralson,O3,1217.59
+Harris C,O3,3055.91
+Hart Cou,O3,6558.26
+Heard Co,O3,841.61
+Henry Co,O3,5550.93
+Houston,O3,5342.01
+Irwin Co,O3,4316.24
+Jackson,O3,5767.54
+Jasper C,O3,5323.05
+Jeff Dav,O3,4413.01
+Jefferso,O3,4471.05
+Jenkins,O3,4620.57
+Johnson,O3,4448.64
+Jones Co,O3,5820.89
+Lamar Co,O3,5237.88
+Lanier C,O3,4522.3
+Laurens,O3,4352.98
+Lee Coun,O3,4509.78
+Liberty,O3,4903.18
+Lincoln,O3,5396.99
+Long Cou,O3,4783.9
+Lowndes,O3,4755.53
+Lumpkin,O3,5982.57
+McDuffie,O3,4886.77
+McIntosh,O3,5068.88
+Macon Co,O3,5150.33
+Madison,O3,5861.93
+Marion C,O3,4934.73
+Meriweth,O3,3622.47
+Miller C,O3,2161.26
+Mitchell,O3,3089.25
+Monroe C,O3,5326.71
+Montgome,O3,4258.29
+Morgan C,O3,5641.11
+Murray C,O3,6395.54
+Muscogee,O3,6352.56
+Newton C,O3,5364.64
+Oconee C,O3,6332.64
+Oglethor,O3,5555.59
+Paulding,O3,6037.7
+Peach Co,O3,5322.61
+Pickens,O3,6246.96
+Pierce C,O3,4569.46
+Pike Cou,O3,5026.25
+Polk Cou,O3,2156.99
+Pulaski,O3,4254.53
+Putnam C,O3,5392.27
+Quitman,O3,1403.06
+Rabun Co,O3,6336.64
+Randolph,O3,2082.55
+Richmond,O3,5734.75
+Rockdale,O3,5533.42
+Schley C,O3,4938.31
+Screven,O3,5076.12
+Seminole,O3,2172.67
+Spalding,O3,5371.2
+Stephens,O3,5921.93
+Stewart,O3,2408.07
+Sumter C,O3,5271.33
+Talbot C,O3,5099.82
+Tattnall,O3,4399.76
+Taylor C,O3,5052.54
+Telfair,O3,4424.71
+Terrell,O3,3176.01
+Thomas C,O3,4088.2
+Tift Cou,O3,4104.62
+Toombs C,O3,4285.27
+Towns Co,O3,6115.25
+Treutlen,O3,4252.47
+Troup Co,O3,1215.7
+Turner C,O3,4428.8
+Twiggs C,O3,5231.43
+Union Co,O3,6059.39
+Upson Co,O3,5059.81
+Walker C,O3,2316.94
+Walton C,O3,5668.82
+Ware Cou,O3,4457.21
+Warren C,O3,4536.83
+Washingt,O3,4281.95
+Wayne Co,O3,4716.71
+Wheeler,O3,4458.03
+White Co,O3,5647.27
+Whitfiel,O3,5638.81
+Wilcox C,O3,4564.59
+Wilkes C,O3,5202.31
+Wilkinso,O3,4576.53
+Worth Co,O3,4236.74
+Honolulu,O3,2339.22
+Kauai Co,O3,335.72
+Maui Cou,O3,798.59
+Ada Coun,O3,4902.3
+Adams Co,O3,4177.81
+Bannock,O3,3893.31
+Bear Lak,O3,4536.7
+Benewah,O3,5499.74
+Bingham,O3,3309.18
+Blaine C,O3,3054.0
+Boise Co,O3,3947.85
+Bonner C,O3,4241.02
+Bonnevil,O3,2993.41
+Boundary,O3,2975.56
+Canyon C,O3,4599.04
+Cassia C,O3,3160.41
+Clearwat,O3,3250.25
+Custer C,O3,3083.94
+Elmore C,O3,3862.9
+Fremont,O3,2801.93
+Gem Coun,O3,3835.27
+Gooding,O3,2931.32
+Idaho Co,O3,3549.43
+Jefferso,O3,2827.84
+Jerome C,O3,3030.71
+Kootenai,O3,6026.18
+Latah Co,O3,5070.37
+Lemhi Co,O3,3121.33
+Lewis Co,O3,3794.27
+Minidoka,O3,3265.77
+Nez Perc,O3,4060.05
+Owyhee C,O3,2515.87
+Payette,O3,3944.3
+Power Co,O3,3619.98
+Shoshone,O3,4144.19
+Twin Fal,O3,2669.73
+Valley C,O3,3635.11
+Washingt,O3,3321.01
+Adams Co,O3,3044.41
+Alexande,O3,4193.56
+Bond Cou,O3,2928.82
+Boone Co,O3,4445.9
+Brown Co,O3,2783.88
+Bureau C,O3,3568.3
+Calhoun,O3,4280.42
+Carroll,O3,5776.56
+Cass Cou,O3,2582.4
+Champaig,O3,3078.63
+Christia,O3,3105.71
+Clark Co,O3,5046.77
+Clay Cou,O3,5312.41
+Clinton,O3,2834.88
+Coles Co,O3,3974.81
+Cook Cou,O3,4698.65
+Crawford,O3,8988.43
+Cumberla,O3,4727.21
+DeKalb C,O3,2724.49
+De Witt,O3,3118.5
+Douglas,O3,3476.93
+DuPage C,O3,3218.47
+Edgar Co,O3,4246.06
+Edwards,O3,9630.8
+Effingha,O3,4718.69
+Fayette,O3,3631.57
+Ford Cou,O3,3249.26
+Franklin,O3,3928.72
+Fulton C,O3,2873.01
+Gallatin,O3,5182.56
+Greene C,O3,3543.48
+Grundy C,O3,2865.53
+Hamilton,O3,5042.91
+Hancock,O3,3265.06
+Hardin C,O3,5096.27
+Henderso,O3,3615.33
+Henry Co,O3,4937.07
+Iroquois,O3,2788.72
+Jackson,O3,3686.17
+Jasper C,O3,6170.43
+Jefferso,O3,3829.46
+Jersey C,O3,5274.94
+Jo Davie,O3,6407.72
+Johnson,O3,4626.28
+Kane Cou,O3,2944.57
+Kankakee,O3,3307.2
+Kendall,O3,2317.75
+Knox Cou,O3,3910.54
+Lake Cou,O3,3244.47
+La Salle,O3,2617.23
+Lawrence,O3,20834.36
+Lee Coun,O3,3555.62
+Livingst,O3,3081.61
+Logan Co,O3,3043.3
+McDonoug,O3,3264.09
+McHenry,O3,4790.92
+McLean C,O3,3143.8
+Macon Co,O3,3098.23
+Macoupin,O3,3161.63
+Madison,O3,3537.91
+Marion C,O3,3825.39
+Marshall,O3,3223.61
+Mason Co,O3,2950.43
+Massac C,O3,4976.62
+Menard C,O3,2661.21
+Mercer C,O3,4302.47
+Monroe C,O3,8745.67
+Montgome,O3,3180.3
+Morgan C,O3,2478.58
+Moultrie,O3,3400.7
+Ogle Cou,O3,4072.74
+Peoria C,O3,3188.83
+Perry Co,O3,3648.23
+Piatt Co,O3,3085.62
+Pike Cou,O3,2769.86
+Pope Cou,O3,4908.01
+Pulaski,O3,4399.21
+Putnam C,O3,3279.41
+Randolph,O3,4840.43
+Richland,O3,8838.37
+Rock Isl,O3,5016.41
+St. Clai,O3,4567.96
+Saline C,O3,4804.66
+Sangamon,O3,3083.04
+Schuyler,O3,3060.99
+Scott Co,O3,2642.59
+Shelby C,O3,3635.4
+Stark Co,O3,3495.38
+Stephens,O3,9307.65
+Tazewell,O3,3035.35
+Union Co,O3,4038.35
+Vermilio,O3,3667.4
+Wabash C,O3,17863.34
+Warren C,O3,3818.23
+Washingt,O3,3427.44
+Wayne Co,O3,5615.18
+White Co,O3,6174.59
+Whitesid,O3,4701.36
+Will Cou,O3,3732.27
+Williams,O3,4360.47
+Winnebag,O3,4730.56
+Woodford,O3,3155.24
+Adams Co,O3,5924.13
+Allen Co,O3,5801.75
+Bartholo,O3,5080.57
+Benton C,O3,4087.2
+Blackfor,O3,5676.85
+Boone Co,O3,5266.39
+Brown Co,O3,5301.17
+Carroll,O3,4788.35
+Cass Cou,O3,5053.59
+Clark Co,O3,5346.74
+Clay Cou,O3,5447.04
+Clinton,O3,5080.76
+Crawford,O3,6432.62
+Daviess,O3,11798.09
+Dearborn,O3,6092.4
+Decatur,O3,5527.95
+De Kalb,O3,5941.22
+Delaware,O3,5709.91
+Dubois C,O3,8436.85
+Elkhart,O3,5786.07
+Fayette,O3,5913.59
+Floyd Co,O3,5504.52
+Fountain,O3,4173.29
+Franklin,O3,6447.74
+Fulton C,O3,5035.41
+Gibson C,O3,31472.51
+Grant Co,O3,5349.96
+Greene C,O3,5547.1
+Hamilton,O3,5665.82
+Hancock,O3,5649.41
+Harrison,O3,5847.69
+Hendrick,O3,5186.08
+Henry Co,O3,5929.94
+Howard C,O3,5174.62
+Huntingt,O3,5591.28
+Jackson,O3,5447.21
+Jasper C,O3,3756.33
+Jay Coun,O3,6098.82
+Jefferso,O3,4935.19
+Jennings,O3,5102.76
+Johnson,O3,5288.51
+Knox Cou,O3,34830.4
+Kosciusk,O3,5419.73
+Lagrange,O3,6142.22
+Lake Cou,O3,5613.64
+La Porte,O3,5525.05
+Lawrence,O3,5789.79
+Madison,O3,5719.2
+Marion C,O3,5358.14
+Marshall,O3,5204.73
+Martin C,O3,7377.6
+Miami Co,O3,5115.89
+Monroe C,O3,5322.89
+Montgome,O3,4636.68
+Morgan C,O3,5298.5
+Newton C,O3,3275.84
+Noble Co,O3,5669.16
+Ohio Cou,O3,4977.27
+Orange C,O3,6388.53
+Owen Cou,O3,5112.26
+Parke Co,O3,4654.41
+Perry Co,O3,6822.66
+Pike Cou,O3,21750.2
+Porter C,O3,5605.05
+Posey Co,O3,6411.23
+Pulaski,O3,4565.1
+Putnam C,O3,4726.03
+Randolph,O3,6420.54
+Ripley C,O3,5512.73
+Rush Cou,O3,5673.71
+St. Jose,O3,5737.76
+Scott Co,O3,5199.2
+Shelby C,O3,5447.7
+Spencer,O3,7502.89
+Starke C,O3,4656.34
+Steuben,O3,6267.73
+Sullivan,O3,8436.52
+Switzerl,O3,4588.15
+Tippecan,O3,4236.27
+Tipton C,O3,5377.32
+Union Co,O3,7009.31
+Vanderbu,O3,5858.59
+Vermilli,O3,4372.53
+Vigo Cou,O3,5675.27
+Wabash C,O3,5291.01
+Warren C,O3,3943.9
+Warrick,O3,6589.89
+Washingt,O3,5437.47
+Wayne Co,O3,6462.62
+Wells Co,O3,5781.12
+White Co,O3,3860.58
+Whitley,O3,5666.55
+Adair Co,O3,3777.09
+Adams Co,O3,3692.48
+Allamake,O3,4923.47
+Appanoos,O3,3677.75
+Audubon,O3,3821.03
+Benton C,O3,4703.49
+Black Ha,O3,4558.56
+Boone Co,O3,4382.79
+Bremer C,O3,4605.37
+Buchanan,O3,4910.65
+Buena Vi,O3,3957.85
+Butler C,O3,4227.3
+Calhoun,O3,4098.17
+Carroll,O3,3839.82
+Cass Cou,O3,3774.74
+Cedar Co,O3,4595.87
+Cerro Go,O3,4080.48
+Cherokee,O3,3915.66
+Chickasa,O3,4385.74
+Clarke C,O3,4116.35
+Clay Cou,O3,4070.25
+Clayton,O3,5083.72
+Clinton,O3,5181.19
+Crawford,O3,3883.57
+Dallas C,O3,4513.44
+Davis Co,O3,4132.78
+Decatur,O3,3830.4
+Delaware,O3,5041.54
+Des Moin,O3,3769.56
+Dickinso,O3,4074.68
+Dubuque,O3,5165.55
+Emmet Co,O3,4140.17
+Fayette,O3,4737.56
+Floyd Co,O3,4163.09
+Franklin,O3,4035.42
+Fremont,O3,3995.29
+Greene C,O3,4131.78
+Grundy C,O3,4261.9
+Guthrie,O3,3813.53
+Hamilton,O3,4109.38
+Hancock,O3,3898.89
+Hardin C,O3,4101.96
+Harrison,O3,4617.0
+Henry Co,O3,4098.03
+Howard C,O3,4234.75
+Humboldt,O3,3942.16
+Ida Coun,O3,3862.13
+Iowa Cou,O3,4369.89
+Jackson,O3,5332.09
+Jasper C,O3,4362.02
+Jefferso,O3,4299.93
+Johnson,O3,4708.42
+Jones Co,O3,4942.95
+Keokuk C,O3,4359.23
+Kossuth,O3,3955.74
+Lee Coun,O3,3709.56
+Linn Cou,O3,5365.24
+Louisa C,O3,4090.29
+Lucas Co,O3,4180.64
+Lyon Cou,O3,6576.79
+Madison,O3,4366.84
+Mahaska,O3,4075.47
+Marion C,O3,4199.04
+Marshall,O3,4419.76
+Mills Co,O3,4616.74
+Mitchell,O3,4177.35
+Monona C,O3,3920.63
+Monroe C,O3,3938.6
+Montgome,O3,3970.91
+Muscatin,O3,4229.25
+O'Brien,O3,4123.51
+Osceola,O3,4345.27
+Page Cou,O3,3843.99
+Palo Alt,O3,4515.95
+Plymouth,O3,4163.36
+Pocahont,O3,4142.26
+Polk Cou,O3,5346.13
+Pottawat,O3,4535.14
+Poweshie,O3,4335.47
+Ringgold,O3,3636.36
+Sac Coun,O3,3905.24
+Scott Co,O3,4433.0
+Shelby C,O3,4011.03
+Sioux Co,O3,5254.28
+Story Co,O3,4583.54
+Tama Cou,O3,4338.31
+Taylor C,O3,3577.23
+Union Co,O3,3810.05
+Van Bure,O3,4715.96
+Wapello,O3,4152.72
+Warren C,O3,4958.68
+Washingt,O3,4390.75
+Wayne Co,O3,3832.97
+Webster,O3,4203.32
+Winnebag,O3,3947.5
+Winneshi,O3,4466.88
+Woodbury,O3,3770.14
+Worth Co,O3,3957.11
+Wright C,O3,4009.87
+Adair Co,O3,6652.25
+Allen Co,O3,10518.75
+Anderson,O3,4843.29
+Ballard,O3,5004.5
+Barren C,O3,13979.77
+Bath Cou,O3,5083.47
+Bell Cou,O3,5293.9
+Boone Co,O3,5343.88
+Bourbon,O3,4941.28
+Boyd Cou,O3,6331.32
+Boyle Co,O3,4909.98
+Bracken,O3,5278.17
+Breathit,O3,5480.45
+Breckinr,O3,8113.72
+Bullitt,O3,5483.93
+Butler C,O3,10321.28
+Caldwell,O3,5819.66
+Calloway,O3,6118.3
+Campbell,O3,5286.57
+Carlisle,O3,5466.65
+Carroll,O3,4585.5
+Carter C,O3,6374.68
+Casey Co,O3,5374.49
+Christia,O3,7014.79
+Clark Co,O3,4860.89
+Clay Cou,O3,5215.21
+Clinton,O3,7523.88
+Crittend,O3,5350.28
+Cumberla,O3,8063.6
+Daviess,O3,10695.83
+Edmonson,O3,24957.54
+Elliott,O3,5630.96
+Estill C,O3,4916.51
+Fayette,O3,4861.06
+Fleming,O3,5166.71
+Floyd Co,O3,5370.36
+Franklin,O3,4939.68
+Fulton C,O3,6425.44
+Gallatin,O3,4753.76
+Garrard,O3,4823.95
+Grant Co,O3,4784.67
+Graves C,O3,5779.21
+Grayson,O3,12172.42
+Green Co,O3,7436.87
+Greenup,O3,10376.84
+Hancock,O3,8206.26
+Hardin C,O3,7022.97
+Harlan C,O3,5907.21
+Harrison,O3,4871.67
+Hart Cou,O3,14726.1
+Henderso,O3,4965.36
+Henry Co,O3,4692.69
+Hickman,O3,6454.85
+Hopkins,O3,5912.17
+Jackson,O3,5083.76
+Jefferso,O3,5284.26
+Jessamin,O3,4992.27
+Johnson,O3,5478.16
+Kenton C,O3,4780.39
+Knott Co,O3,5916.96
+Knox Cou,O3,5361.99
+Larue Co,O3,6947.67
+Laurel C,O3,5283.55
+Lawrence,O3,5693.13
+Lee Coun,O3,5123.88
+Leslie C,O3,5642.64
+Letcher,O3,6171.77
+Lewis Co,O3,6227.87
+Lincoln,O3,5070.51
+Livingst,O3,5508.83
+Logan Co,O3,9673.31
+Lyon Cou,O3,5946.62
+McCracke,O3,5211.79
+McCreary,O3,7541.17
+McLean C,O3,7185.66
+Madison,O3,4820.97
+Magoffin,O3,5451.19
+Marion C,O3,5348.72
+Marshall,O3,5847.56
+Martin C,O3,5745.54
+Mason Co,O3,5064.94
+Meade Co,O3,6592.0
+Menifee,O3,5123.86
+Mercer C,O3,4947.06
+Metcalfe,O3,8093.27
+Monroe C,O3,9268.64
+Montgome,O3,4901.45
+Morgan C,O3,5378.1
+Muhlenbe,O3,7734.61
+Nelson C,O3,5375.68
+Nicholas,O3,4987.69
+Ohio Cou,O3,9487.32
+Oldham C,O3,5024.31
+Owen Cou,O3,4783.59
+Owsley C,O3,5133.13
+Pendleto,O3,4722.04
+Perry Co,O3,6471.49
+Pike Cou,O3,5566.92
+Powell C,O3,4963.3
+Pulaski,O3,5475.29
+Robertso,O3,4962.2
+Rockcast,O3,5063.4
+Rowan Co,O3,5290.79
+Russell,O3,6638.14
+Scott Co,O3,5140.33
+Shelby C,O3,4835.57
+Simpson,O3,9269.86
+Spencer,O3,5059.21
+Taylor C,O3,5911.38
+Todd Cou,O3,8715.38
+Trigg Co,O3,6703.09
+Trimble,O3,4851.34
+Union Co,O3,5142.63
+Warren C,O3,12642.57
+Washingt,O3,5055.71
+Wayne Co,O3,6906.33
+Webster,O3,5354.53
+Whitley,O3,6396.6
+Wolfe Co,O3,5145.32
+Woodford,O3,5046.59
+Acadia P,O3,2358.25
+Allen Pa,O3,2370.21
+Ascensio,O3,3062.8
+Assumpti,O3,3250.21
+Avoyelle,O3,3006.1
+Beaurega,O3,2661.1
+Bienvill,O3,2223.53
+Bossier,O3,2442.69
+Caddo Pa,O3,3712.74
+Calcasie,O3,2965.84
+Caldwell,O3,3251.15
+Cameron,O3,2565.85
+Catahoul,O3,3658.03
+Claiborn,O3,1863.76
+Concordi,O3,4108.87
+De Soto,O3,3148.79
+East Bat,O3,2897.75
+East Car,O3,3640.87
+East Fel,O3,2706.79
+Evangeli,O3,2548.27
+Franklin,O3,3856.98
+Grant Pa,O3,2801.49
+Iberia P,O3,2242.36
+Ibervill,O3,2992.0
+Jackson,O3,2573.24
+Jefferso,O3,4420.14
+Jefferso,O3,2308.45
+Lafayett,O3,2983.74
+Lafourch,O3,2436.39
+La Salle,O3,3192.24
+Lincoln,O3,2141.1
+Livingst,O3,2874.62
+Madison,O3,4321.92
+Morehous,O3,2717.78
+Natchito,O3,2421.07
+Orleans,O3,4791.49
+Ouachita,O3,3117.81
+Plaquemi,O3,1608.97
+Pointe C,O3,2951.83
+Rapides,O3,2733.28
+Red Rive,O3,2563.37
+Richland,O3,3526.63
+Sabine P,O3,2609.6
+St. Bern,O3,3749.81
+St. Char,O3,5103.79
+St. Hele,O3,2140.71
+St. Jame,NO2,8661.62663
+St. John,O3,3690.73
+St. Land,O3,2842.66
+St. Mart,O3,2680.82
+St. Tamm,O3,4486.32
+Tangipah,O3,2320.87
+Tensas P,O3,4475.53
+Terrebon,O3,1731.73
+Union Pa,O3,2063.99
+Vermilio,O3,1863.49
+Vernon P,O3,2516.61
+Washingt,O3,2235.85
+Webster,O3,2012.11
+West Bat,O3,3058.26
+West Car,O3,3258.7
+West Fel,O3,3088.07
+Winn Par,O3,2559.73
+Androsco,O3,9063.12
+Aroostoo,O3,698.24
+Cumberla,O3,8238.12
+Franklin,O3,4057.04
+Hancock,O3,4375.37
+Kennebec,O3,5692.34
+Knox Cou,O3,6452.54
+Lincoln,O3,6455.88
+Oxford C,O3,6708.87
+Penobsco,O3,2416.12
+Piscataq,O3,1676.08
+Sagadaho,O3,6760.98
+Somerset,O3,2377.35
+Waldo Co,O3,6346.69
+Washingt,O3,1582.03
+York Cou,O3,10035.81
+Allegany,O3,7327.47
+Anne Aru,O3,5473.73
+Baltimor,O3,6404.92
+Calvert,O3,5266.56
+Caroline,O3,4683.18
+Carroll,O3,6623.07
+Cecil Co,O3,5324.6
+Charles,O3,7974.15
+Dorchest,O3,3439.89
+Frederic,O3,6356.64
+Garrett,O3,6583.21
+Harford,O3,5729.37
+Howard C,O3,6272.76
+Kent Cou,O3,5014.63
+Montgome,O3,6836.3
+Prince G,O3,6043.11
+Queen An,O3,4911.66
+St. Mary,O3,4222.94
+Somerset,O3,3032.04
+Talbot C,O3,4391.72
+Washingt,O3,7047.18
+Wicomico,O3,2856.41
+Worceste,O3,2718.97
+Baltimor,O3,11835.31
+Barnstab,O3,6699.29
+Berkshir,O3,12229.82
+Bristol,O3,12422.31
+Dukes Co,O3,5790.27
+Essex Co,O3,11221.16
+Franklin,O3,12663.22
+Hampden,O3,10709.83
+Hampshir,O3,13617.27
+Middlese,O3,10758.29
+Nantucke,O3,2582.49
+Norfolk,O3,11954.54
+Plymouth,O3,12072.35
+Suffolk,O3,6931.98
+Worceste,O3,10917.93
+Adams Co,O3,5019.83
+Alcorn C,O3,3987.85
+Amite Co,O3,2928.47
+Attala C,O3,3131.12
+Benton C,O3,3996.59
+Bolivar,O3,4264.0
+Calhoun,O3,3877.31
+Carroll,O3,3813.24
+Chickasa,O3,3150.28
+Choctaw,O3,2301.44
+Claiborn,O3,4676.3
+Clarke C,O3,1340.92
+Clay Cou,O3,1822.26
+Coahoma,O3,2992.28
+Copiah C,O3,4616.58
+Covingto,O3,2438.15
+DeSoto C,O3,4582.72
+Forrest,O3,2116.6
+Franklin,O3,3590.39
+George C,O3,1784.64
+Greene C,O3,1146.8
+Grenada,O3,5459.33
+Hancock,O3,6070.9
+Harrison,O3,7906.99
+Hinds Co,O3,5817.19
+Holmes C,O3,4151.91
+Humphrey,O3,4511.61
+Itawamba,O3,1831.07
+Jackson,O3,4612.74
+Jasper C,O3,2495.09
+Jefferso,O3,4306.28
+Jefferso,O3,4122.31
+Jones Co,O3,1785.35
+Kemper C,O3,1103.37
+Lafayett,O3,4454.46
+Lamar Co,O3,2363.35
+Lauderda,O3,2465.54
+Lawrence,O3,3555.02
+Leake Co,O3,3369.47
+Lee Coun,O3,4890.29
+Leflore,O3,4319.87
+Lincoln,O3,3373.39
+Lowndes,O3,1054.35
+Madison,O3,5821.59
+Marion C,O3,3438.82
+Marshall,O3,4127.92
+Monroe C,O3,1508.99
+Montgome,O3,3493.28
+Neshoba,O3,2495.63
+Newton C,O3,3424.26
+Noxubee,O3,1017.52
+Oktibbeh,O3,1662.1
+Panola C,O3,4519.97
+Pearl Ri,O3,2825.39
+Perry Co,O3,1823.84
+Pike Cou,O3,3015.78
+Pontotoc,O3,5001.68
+Prentiss,O3,3046.28
+Quitman,O3,3706.31
+Rankin C,O3,5167.2
+Scott Co,O3,3807.92
+Sharkey,O3,4459.64
+Simpson,O3,3978.18
+Smith Co,O3,3048.07
+Stone Co,O3,4155.19
+Sunflowe,O3,5279.68
+Tallahat,O3,4295.93
+Tate Cou,O3,5375.52
+Tippah C,O3,4141.79
+Tishomin,O3,2118.88
+Tunica C,O3,2503.25
+Union Co,O3,5045.92
+Walthall,O3,3100.66
+Warren C,O3,5768.05
+Washingt,O3,3827.9
+Wayne Co,O3,989.53
+Webster,O3,2843.19
+Wilkinso,O3,3482.11
+Winston,O3,1723.37
+Yalobush,O3,4800.93
+Yazoo Co,O3,5377.87
+Adair Co,O3,3660.72
+Andrew C,O3,3977.85
+Atchison,O3,3472.65
+Audrain,O3,3862.63
+Barry Co,O3,2600.54
+Barton C,O3,4792.97
+Bates Co,O3,4648.09
+Benton C,O3,4638.61
+Bollinge,O3,3860.7
+Boone Co,O3,3741.83
+Buchanan,O3,4798.68
+Butler C,O3,2288.83
+Caldwell,O3,4701.99
+Callaway,O3,2218.89
+Camden C,O3,3903.36
+Cape Gir,O3,3862.1
+Carroll,O3,4189.16
+Carter C,O3,1959.3
+Cass Cou,O3,6416.89
+Cedar Co,O3,6157.7
+Chariton,O3,3729.07
+Christia,O3,4301.82
+Clark Co,O3,3862.85
+Clay Cou,O3,6602.08
+Clinton,O3,5859.32
+Cole Cou,O3,2695.25
+Cooper C,O3,3549.87
+Crawford,O3,2525.65
+Dade Cou,O3,5812.67
+Dallas C,O3,4841.15
+Daviess,O3,4137.72
+DeKalb C,O3,4405.07
+Dent Cou,O3,2888.09
+Douglas,O3,2629.29
+Dunklin,O3,2172.67
+Franklin,O3,3885.28
+Gasconad,O3,2421.11
+Gentry C,O3,3956.32
+Greene C,O3,7052.24
+Grundy C,O3,3780.94
+Harrison,O3,3698.02
+Henry Co,O3,5201.6
+Hickory,O3,4981.17
+Holt Cou,O3,3450.73
+Howard C,O3,3758.5
+Howell C,O3,1808.95
+Iron Cou,O3,3962.57
+Jackson,O3,8099.13
+Jasper C,O3,4566.11
+Jefferso,O3,9283.96
+Johnson,O3,5229.81
+Knox Cou,O3,3918.44
+Laclede,O3,3612.78
+Lafayett,O3,5104.92
+Lawrence,O3,4504.09
+Lewis Co,O3,3470.61
+Lincoln,O3,3784.47
+Linn Cou,O3,3758.1
+Livingst,O3,3955.84
+McDonald,O3,3470.19
+Macon Co,O3,3506.29
+Madison,O3,4762.17
+Maries C,O3,2529.16
+Marion C,O3,3819.91
+Mercer C,O3,3636.1
+Miller C,O3,3544.24
+Mississi,O3,4687.1
+Moniteau,O3,3618.9
+Monroe C,O3,3960.7
+Montgome,O3,3000.77
+Morgan C,O3,4329.4
+New Madr,O3,3522.36
+Newton C,O3,3993.17
+Nodaway,O3,3602.62
+Oregon C,O3,1861.1
+Osage Co,O3,2606.33
+Ozark Co,O3,1848.48
+Pemiscot,O3,2831.43
+Perry Co,O3,4286.19
+Pettis C,O3,4173.65
+Phelps C,O3,2711.61
+Pike Cou,O3,3400.61
+Platte C,O3,5847.98
+Polk Cou,O3,5677.49
+Pulaski,O3,2593.99
+Putnam C,O3,3463.9
+Ralls Co,O3,4339.41
+Randolph,O3,4004.26
+Ray Coun,O3,5540.82
+Reynolds,O3,2590.36
+Ripley C,O3,1844.59
+St. Char,O3,5187.48
+St. Clai,O3,5240.35
+Ste. Gen,O3,8200.1
+St. Fran,O3,9548.79
+St. Loui,O3,9067.48
+Saline C,O3,3962.93
+Schuyler,O3,3916.45
+Scotland,O3,4227.49
+Scott Co,O3,3835.11
+Shannon,O3,2195.11
+Shelby C,O3,4068.23
+Stoddard,O3,2771.88
+Stone Co,O3,2837.33
+Sullivan,O3,3535.57
+Taney Co,O3,2324.23
+Texas Co,O3,2381.66
+Vernon C,O3,4718.41
+Warren C,O3,3501.04
+Washingt,O3,4969.41
+Wayne Co,O3,2824.84
+Webster,O3,4148.31
+Wright C,O3,2992.75
+St. Loui,O3,9129.31
+Beaverhe,O3,2800.79
+Big Horn,O3,3453.67
+Blaine C,O3,1784.89
+Broadwat,O3,1662.26
+Carbon C,O3,2804.47
+Cascade,O3,1728.36
+Chouteau,O3,1977.02
+Custer C,O3,4582.01
+Dawson C,O3,2736.12
+Deer Lod,O3,2640.81
+Fergus C,O3,2287.09
+Flathead,O3,3089.17
+Gallatin,O3,2155.61
+Glacier,O3,1084.76
+Hill Cou,O3,1807.74
+Jefferso,O3,2081.7
+Lake Cou,O3,2550.49
+Lewis an,O3,1698.63
+Lincoln,O3,2236.07
+Madison,O3,2150.04
+Mineral,O3,2832.0
+Missoula,O3,2789.24
+Musselsh,O3,3474.71
+Park Cou,O3,2894.79
+Phillips,O3,2283.47
+Pondera,O3,1108.39
+Powell C,O3,1841.08
+Ravalli,O3,2408.49
+Richland,O3,2451.95
+Roosevel,O3,1894.09
+Rosebud,O3,3410.02
+Sanders,O3,2669.87
+Sheridan,O3,1684.1
+Silver B,O3,2556.98
+Stillwat,O3,2950.07
+Sweet Gr,O3,2330.98
+Teton Co,O3,1249.79
+Toole Co,O3,934.82
+Valley C,O3,2190.28
+Yellowst,O3,3460.22
+Adams Co,O3,1630.59
+Antelope,O3,1943.31
+Boone Co,O3,2080.76
+Box Butt,O3,2725.3
+Boyd Cou,O3,3174.51
+Buffalo,O3,1789.24
+Burt Cou,O3,3835.94
+Butler C,O3,3063.21
+Cass Cou,O3,4896.98
+Cedar Co,O3,2955.15
+Chase Co,O3,1891.79
+Cherry C,O3,3146.27
+Cheyenne,O3,1969.64
+Clay Cou,O3,1933.16
+Colfax C,O3,2805.2
+Cuming C,O3,2959.55
+Custer C,O3,2361.93
+Dakota C,O3,3412.97
+Dawes Co,O3,2987.4
+Dawson C,O3,2380.62
+Dixon Co,O3,3222.32
+Dodge Co,O3,3708.13
+Douglas,O3,5740.35
+Fillmore,O3,2235.26
+Furnas C,O3,2401.63
+Gage Cou,O3,2731.2
+Hall Cou,O3,1536.67
+Hamilton,O3,1923.46
+Holt Cou,O3,2778.44
+Howard C,O3,1797.63
+Jefferso,O3,2424.93
+Johnson,O3,3192.01
+Kearney,O3,1766.96
+Keith Co,O3,2407.49
+Kimball,O3,2042.12
+Knox Cou,O3,2626.46
+Lancaste,O3,4536.31
+Lincoln,O3,2170.85
+Madison,O3,2049.65
+Merrick,O3,1766.24
+Morrill,O3,2353.36
+Nance Co,O3,1685.63
+Nemaha C,O3,3300.53
+Nuckolls,O3,1899.37
+Otoe Cou,O3,3914.22
+Pawnee C,O3,2669.54
+Phelps C,O3,2107.4
+Pierce C,O3,2032.3
+Platte C,O3,2239.01
+Polk Cou,O3,2238.0
+Red Will,O3,1733.55
+Richards,O3,3004.56
+Saline C,O3,2893.65
+Sarpy Co,O3,5592.78
+Saunders,O3,4792.09
+Scotts B,O3,2373.36
+Seward C,O3,3279.0
+Sheridan,O3,3000.79
+Thayer C,O3,1979.18
+Thurston,O3,3251.11
+Washingt,O3,4883.32
+Wayne Co,O3,2438.13
+Webster,O3,1965.34
+York Cou,O3,2289.23
+Belknap,O3,8823.13
+Carroll,O3,8643.39
+Cheshire,O3,8710.56
+Coos Cou,O3,7502.05
+Grafton,O3,8071.86
+Hillsbor,O3,9308.56
+Merrimac,O3,8425.01
+Rockingh,O3,18344.48
+Straffor,O3,12363.39
+Sullivan,O3,8615.24
+Atlantic,O3,3641.49
+Bergen C,O3,5341.89
+Burlingt,O3,5154.81
+Camden C,O3,4497.72
+Cape May,O3,2863.25
+Cumberla,O3,4015.73
+Essex Co,O3,6927.88
+Gloucest,O3,4349.93
+Hudson C,O3,6618.13
+Hunterdo,O3,4957.63
+Mercer C,O3,4418.2
+Middlese,O3,4526.7
+Monmouth,O3,5365.22
+Morris C,O3,5015.53
+Ocean Co,O3,4379.1
+Passaic,O3,6033.18
+Salem Co,O3,4469.03
+Somerset,O3,4570.45
+Sussex C,O3,4812.82
+Union Co,O3,5939.84
+Warren C,O3,5279.09
+Bernalil,O3,5907.63
+Catron C,O3,506.32
+Chaves C,O3,1205.25
+Cibola C,O3,1028.22
+Colfax C,O3,802.17
+Curry Co,O3,511.11
+Dona Ana,O3,3294.03
+Eddy Cou,O3,3549.11
+Grant Co,O3,264.44
+Lea Coun,O3,1106.82
+Lincoln,O3,1195.36
+Los Alam,O3,2172.14
+Luna Cou,O3,634.91
+McKinley,O3,1436.33
+Otero Co,O3,1891.7
+Quay Cou,O3,682.46
+Rio Arri,O3,1612.02
+Roosevel,O3,588.05
+Sandoval,O3,2443.42
+San Juan,O3,3032.98
+San Migu,O3,1217.38
+Santa Fe,O3,2069.11
+Sierra C,O3,1026.42
+Socorro,O3,1227.91
+Taos Cou,O3,1030.73
+Torrance,O3,1675.07
+Valencia,O3,4023.81
+Albany C,O3,4157.59
+Allegany,O3,5256.1
+Bronx Co,O3,3900.52
+Broome C,O3,4464.66
+Cattarau,O3,5267.68
+Cayuga C,O3,4390.82
+Chautauq,O3,4928.88
+Chemung,O3,3980.51
+Chenango,O3,3953.81
+Clinton,O3,3911.35
+Columbia,O3,6301.56
+Cortland,O3,3975.53
+Delaware,O3,3817.49
+Dutchess,O3,4345.31
+Erie Cou,O3,5640.4
+Essex Co,O3,5299.35
+Franklin,O3,3277.71
+Fulton C,O3,3768.31
+Genesee,O3,5374.94
+Greene C,O3,4062.31
+Hamilton,O3,3909.2
+Herkimer,O3,4109.72
+Jefferso,O3,5456.67
+Kings Co,CO,7887.102988
+Lewis Co,O3,4196.34
+Livingst,O3,5182.32
+Madison,O3,4050.01
+Monroe C,O3,6357.68
+Montgome,O3,3743.1
+Nassau C,O3,3799.74
+New York,O3,7215.76
+Niagara,O3,4480.09
+Oneida C,O3,4352.53
+Onondaga,O3,4137.48
+Ontario,O3,4783.38
+Orange C,O3,5597.79
+Orleans,O3,4969.01
+Oswego C,O3,4743.62
+Otsego C,O3,3682.55
+Putnam C,O3,6093.22
+Queens C,O3,5059.82
+Renssela,O3,13158.33
+Richmond,O3,6504.35
+Rockland,O3,5394.69
+St. Lawr,O3,2743.57
+Saratoga,O3,4388.07
+Schenect,O3,4077.99
+Schohari,O3,3697.68
+Schuyler,O3,4005.21
+Seneca C,O3,4364.73
+Steuben,O3,4805.01
+Suffolk,O3,4858.35
+Sullivan,O3,4184.56
+Tioga Co,O3,4328.07
+Tompkins,O3,4073.76
+Ulster C,O3,4383.97
+Warren C,O3,4604.58
+Washingt,O3,5900.06
+Wayne Co,O3,4938.81
+Westches,O3,4543.48
+Wyoming,O3,5299.23
+Yates Co,O3,4320.4
+Alamance,O3,7408.26
+Alexande,O3,7466.74
+Alleghan,O3,7513.62
+Anson Co,O3,6349.42
+Ashe Cou,O3,7263.3
+Avery Co,O3,7103.13
+Beaufort,O3,5050.39
+Bertie C,O3,7410.29
+Bladen C,O3,7302.7
+Brunswic,O3,7983.04
+Buncombe,O3,7529.93
+Burke Co,O3,7695.58
+Cabarrus,O3,7387.68
+Caldwell,O3,7598.14
+Camden C,O3,7744.17
+Carteret,O3,2683.45
+Caswell,O3,7274.78
+Catawba,O3,7530.08
+Chatham,O3,7233.52
+Cherokee,O3,6874.23
+Chowan C,O3,7065.16
+Clay Cou,O3,6458.62
+Clevelan,O3,7568.86
+Columbus,O3,6479.18
+Craven C,O3,4714.87
+Cumberla,O3,7879.45
+Currituc,O3,6203.75
+Dare Cou,O3,2562.77
+Davidson,O3,20265.53
+Davie Co,O3,7781.05
+Duplin C,O3,8464.54
+Durham C,O3,7978.46
+Edgecomb,O3,7395.26
+Forsyth,O3,10357.01
+Franklin,O3,7337.57
+Gaston C,O3,7745.25
+Gates Co,O3,8916.23
+Graham C,O3,7462.73
+Granvill,O3,7121.81
+Greene C,O3,7617.24
+Guilford,O3,10326.49
+Halifax,O3,7144.86
+Harnett,O3,7915.1
+Haywood,O3,9150.27
+Henderso,O3,12086.03
+Hertford,O3,8082.33
+Hoke Cou,O3,6961.74
+Hyde Cou,O3,3179.31
+Iredell,O3,7173.88
+Jackson,O3,8205.26
+Johnston,O3,8152.78
+Jones Co,O3,5718.67
+Lee Coun,O3,6948.46
+Lenoir C,O3,7715.97
+Lincoln,O3,7566.62
+McDowell,O3,8129.27
+Macon Co,O3,7094.62
+Madison,O3,6882.8
+Martin C,O3,7086.65
+Mecklenb,O3,7730.87
+Mitchell,O3,7217.46
+Montgome,O3,6634.05
+Moore Co,O3,6466.36
+Nash Cou,O3,7256.19
+New Hano,O3,14169.05
+Northamp,O3,7493.37
+Onslow C,O3,5840.96
+Orange C,O3,7767.7
+Pamlico,O3,3510.37
+Pasquota,O3,7390.1
+Pender C,O3,10579.24
+Perquima,O3,7047.02
+Person C,O3,7169.48
+Pitt Cou,O3,6920.52
+Polk Cou,O3,8993.12
+Randolph,O3,6860.2
+Richmond,O3,6052.62
+Robeson,O3,6606.88
+Rockingh,O3,7379.3
+Rowan Co,O3,7890.42
+Rutherfo,O3,7903.22
+Sampson,O3,7884.72
+Scotland,O3,6075.94
+Stanly C,O3,6995.89
+Stokes C,O3,19275.7
+Surry Co,O3,7117.87
+Swain Co,O3,9411.04
+Transylv,O3,9926.63
+Tyrrell,O3,3985.39
+Union Co,O3,7618.38
+Vance Co,O3,6727.48
+Wake Cou,O3,8765.23
+Warren C,O3,6510.16
+Washingt,O3,5410.95
+Watauga,O3,6917.45
+Wayne Co,O3,7776.56
+Wilkes C,O3,6935.77
+Wilson C,O3,7453.86
+Yadkin C,O3,6670.5
+Yancey C,O3,7023.76
+Barnes C,O3,3256.67
+Benson C,O3,7856.53
+Bottinea,O3,2731.52
+Bowman C,O3,5273.01
+Burleigh,O3,3797.76
+Cass Cou,O3,2979.29
+Cavalier,O3,2936.34
+Dickey C,O3,3255.33
+Foster C,O3,6346.11
+Grand Fo,O3,2550.9
+Griggs C,O3,3471.45
+McHenry,O3,3338.08
+McKenzie,O3,4725.41
+McLean C,O3,4174.0
+Mercer C,O3,4989.38
+Morton C,O3,4689.04
+Mountrai,O3,4926.85
+Nelson C,O3,3942.42
+Pembina,O3,1947.76
+Pierce C,O3,3658.33
+Ramsey C,O3,6977.92
+Ransom C,O3,3100.36
+Richland,O3,3051.11
+Rolette,O3,2942.15
+Sargent,O3,2867.09
+Stark Co,O3,5691.3
+Stutsman,O3,4352.36
+Traill C,O3,2725.01
+Walsh Co,O3,2305.02
+Ward Cou,O3,3544.86
+Wells Co,O3,4610.73
+Williams,O3,3170.87
+Adams Co,O3,6282.98
+Allen Co,O3,7671.61
+Ashland,O3,7543.36
+Ashtabul,O3,11175.32
+Athens C,O3,8699.06
+Auglaize,O3,7593.53
+Belmont,O3,8785.18
+Brown Co,O3,6042.93
+Butler C,O3,8545.15
+Carroll,O3,8667.84
+Champaig,O3,8746.15
+Clark Co,O3,9128.27
+Clermont,O3,7684.83
+Clinton,O3,8665.99
+Columbia,O3,9741.52
+Coshocto,O3,7954.64
+Crawford,O3,7951.19
+Cuyahoga,O3,8990.01
+Darke Co,O3,7851.9
+Defiance,O3,6616.95
+Delaware,O3,8437.23
+Erie Cou,O3,8100.0
+Fairfiel,O3,8608.24
+Fayette,O3,7652.54
+Franklin,O3,12309.06
+Fulton C,O3,8176.3
+Gallia C,O3,8398.56
+Geauga C,O3,16058.34
+Greene C,O3,9095.89
+Guernsey,O3,8231.19
+Hamilton,O3,10096.49
+Hancock,O3,7833.9
+Hardin C,O3,7880.94
+Harrison,O3,8746.21
+Henry Co,O3,7750.06
+Highland,O3,6874.19
+Hocking,O3,8059.56
+Holmes C,O3,7466.74
+Huron Co,O3,7991.48
+Jackson,O3,8087.35
+Jefferso,O3,9875.98
+Knox Cou,O3,7864.11
+Lake Cou,O3,35420.51
+Lawrence,O3,7745.35
+Licking,O3,8678.53
+Logan Co,O3,8148.09
+Lorain C,O3,10449.39
+Lucas Co,O3,10893.46
+Madison,O3,9454.7
+Mahoning,O3,9774.9
+Marion C,O3,7933.33
+Medina C,O3,9066.96
+Meigs Co,O3,8796.02
+Mercer C,O3,6691.71
+Miami Co,O3,10302.98
+Monroe C,O3,7789.62
+Montgome,O3,9121.91
+Morgan C,O3,8802.12
+Morrow C,O3,8151.77
+Muskingu,O3,8016.08
+Noble Co,O3,8528.09
+Ottawa C,O3,8856.1
+Paulding,O3,6243.0
+Perry Co,O3,8168.36
+Pickaway,O3,8832.8
+Pike Cou,O3,7648.69
+Portage,O3,10791.37
+Preble C,O3,8503.99
+Putnam C,O3,7143.63
+Richland,O3,7859.3
+Ross Cou,O3,7635.64
+Sandusky,O3,8265.74
+Scioto C,O3,9379.2
+Seneca C,O3,7907.8
+Shelby C,O3,8453.53
+Stark Co,O3,9459.52
+Summit C,O3,9744.22
+Trumbull,O3,10705.12
+Tuscaraw,O3,8630.28
+Union Co,O3,8422.38
+Van Wert,O3,6361.67
+Vinton C,O3,7981.75
+Warren C,O3,12221.8
+Washingt,O3,9914.32
+Wayne Co,O3,8416.68
+Williams,O3,6655.19
+Wood Cou,O3,9776.16
+Wyandot,O3,7776.85
+Adair Co,O3,4177.67
+Alfalfa,O3,2513.52
+Atoka Co,O3,4221.43
+Beckham,O3,1384.77
+Blaine C,O3,2635.28
+Bryan Co,O3,4478.52
+Caddo Co,O3,3167.41
+Canadian,O3,3489.13
+Carter C,O3,5713.9
+Cherokee,O3,6713.95
+Choctaw,O3,3589.53
+Clevelan,O3,4753.01
+Coal Cou,O3,4542.38
+Comanche,O3,3885.73
+Cotton C,O3,4547.82
+Craig Co,O3,4660.22
+Creek Co,O3,5832.2
+Custer C,O3,2056.7
+Delaware,O3,4576.2
+Dewey Co,O3,2603.49
+Ellis Co,O3,1366.68
+Garfield,O3,3550.36
+Garvin C,O3,4881.3
+Grady Co,O3,4275.98
+Grant Co,O3,3284.46
+Greer Co,O3,1319.24
+Harmon C,O3,1044.57
+Harper C,O3,1411.0
+Haskell,O3,3590.65
+Hughes C,O3,4423.37
+Jackson,O3,1203.41
+Jefferso,O3,5577.3
+Johnston,O3,5601.59
+Kay Coun,O3,6578.25
+Kingfish,O3,3141.41
+Kiowa Co,O3,1941.66
+Latimer,O3,3765.37
+Le Flore,O3,1868.94
+Lincoln,O3,4839.92
+Logan Co,O3,4279.53
+Love Cou,O3,6151.17
+McClain,O3,4840.43
+McCurtai,O3,1894.44
+McIntosh,O3,4201.74
+Marshall,O3,6918.33
+Mayes Co,O3,5290.53
+Murray C,O3,4876.15
+Muskogee,O3,4952.18
+Noble Co,O3,5540.3
+Nowata C,O3,4423.9
+Okfuskee,O3,4758.98
+Oklahoma,O3,4670.98
+Okmulgee,O3,4593.91
+Osage Co,O3,5478.41
+Ottawa C,O3,5186.6
+Pawnee C,O3,5887.13
+Payne Co,O3,5242.02
+Pittsbur,O3,4436.58
+Pontotoc,O3,4694.05
+Pottawat,O3,4663.25
+Pushmata,O3,3464.09
+Rogers C,O3,5228.01
+Seminole,O3,4473.69
+Sequoyah,O3,3344.09
+Stephens,O3,5176.36
+Texas Co,O3,862.98
+Tillman,O3,2050.83
+Tulsa Co,O3,5985.78
+Wagoner,O3,5546.05
+Washingt,O3,4412.23
+Washita,O3,2028.98
+Woods Co,O3,2050.62
+Baker Co,O3,3317.19
+Benton C,O3,6393.39
+Clackama,O3,9136.35
+Clatsop,O3,4157.79
+Columbia,O3,8035.88
+Coos Cou,O3,2279.08
+Crook Co,O3,2419.96
+Curry Co,O3,1438.87
+Deschute,O3,3199.29
+Douglas,O3,4937.58
+Grant Co,O3,2591.72
+Harney C,O3,1539.51
+Hood Riv,O3,8272.73
+Jackson,O3,6557.5
+Jefferso,O3,4162.52
+Josephin,O3,2478.94
+Klamath,CO,2921.851295
+Lake Cou,O3,1532.26
+Lane Cou,O3,9861.33
+Lincoln,O3,3884.19
+Linn Cou,O3,8378.38
+Malheur,O3,2326.69
+Marion C,O3,9673.55
+Morrow C,O3,3228.7
+Multnoma,O3,12085.88
+Polk Cou,O3,6215.52
+Tillamoo,O3,4162.93
+Umatilla,O3,3267.28
+Union Co,O3,3720.23
+Wallowa,O3,3790.97
+Wasco Co,O3,6437.79
+Washingt,O3,8109.78
+Yamhill,O3,6403.55
+Adams Co,O3,7590.19
+Alleghen,O3,6104.83
+Armstron,O3,7918.03
+Beaver C,O3,9439.97
+Bedford,O3,7381.48
+Berks Co,O3,7788.41
+Blair Co,O3,7907.8
+Bradford,O3,5488.38
+Bucks Co,O3,6858.52
+Butler C,O3,6729.25
+Cambria,O3,8049.01
+Cameron,O3,6546.67
+Carbon C,O3,7759.28
+Centre C,O3,7889.17
+Chester,O3,9739.15
+Clarion,O3,6687.84
+Clearfie,O3,8459.16
+Clinton,O3,7746.23
+Columbia,O3,7208.79
+Crawford,O3,7807.75
+Cumberla,O3,8116.31
+Dauphin,O3,7867.68
+Delaware,O3,7611.97
+Elk Coun,O3,6595.24
+Erie Cou,O3,8183.36
+Fayette,O3,7729.94
+Forest C,O3,5672.33
+Franklin,O3,7286.54
+Fulton C,O3,7239.99
+Greene C,O3,9706.18
+Huntingd,O3,7717.0
+Indiana,O3,7839.45
+Jefferso,O3,6954.91
+Juniata,O3,8005.77
+Lackawan,O3,8023.04
+Lancaste,O3,8722.96
+Lawrence,O3,9521.46
+Lebanon,O3,7940.83
+Lehigh C,O3,8177.0
+Luzerne,O3,7984.78
+Lycoming,O3,8295.82
+Mc Kean,O3,5606.11
+Mercer C,O3,8747.79
+Mifflin,O3,8065.88
+Monroe C,O3,6753.38
+Montgome,O3,9131.35
+Montour,O3,7520.02
+Northamp,O3,8018.07
+Northumb,O3,7505.8
+Perry Co,O3,8284.77
+Philadel,O3,5098.46
+Pike Cou,O3,5232.66
+Potter C,O3,5981.33
+Schuylki,O3,7475.2
+Snyder C,O3,7909.33
+Somerset,O3,7560.98
+Sullivan,O3,6807.23
+Susqueha,O3,5250.12
+Tioga Co,O3,6256.31
+Union Co,O3,7962.49
+Venango,O3,6038.56
+Warren C,O3,5294.74
+Washingt,O3,9667.2
+Wayne Co,O3,5188.21
+Westmore,O3,8802.21
+Wyoming,O3,6490.69
+York Cou,O3,8400.31
+Bristol,O3,11143.87
+Kent Cou,O3,11518.4
+Newport,O3,10390.83
+Providen,O3,12236.49
+Washingt,O3,9176.04
+Abbevill,O3,7053.68
+Aiken Co,O3,7027.16
+Allendal,O3,5831.68
+Anderson,O3,8085.54
+Bamberg,O3,7175.31
+Barnwell,O3,5985.86
+Beaufort,O3,4925.17
+Berkeley,O3,6223.05
+Calhoun,O3,7393.85
+Charlest,CO,24815.73931
+Cherokee,O3,7409.96
+Chester,O3,7933.86
+Chesterf,O3,5914.13
+Clarendo,O3,6236.04
+Colleton,O3,6107.58
+Darlingt,O3,5820.74
+Dillon C,O3,6155.8
+Dorchest,O3,6337.72
+Edgefiel,O3,5712.17
+Fairfiel,O3,7052.89
+Florence,O3,6529.85
+Georgeto,O3,5653.03
+Greenvil,O3,11329.68
+Greenwoo,O3,6672.96
+Hampton,O3,5906.68
+Horry Co,O3,5596.45
+Jasper C,O3,5343.18
+Kershaw,O3,6011.73
+Lancaste,O3,6841.61
+Laurens,O3,7613.51
+Lee Coun,O3,5863.92
+Lexingto,O3,7887.29
+McCormic,O3,5377.79
+Marion C,O3,6402.14
+Marlboro,O3,5848.56
+Newberry,O3,7005.34
+Oconee C,O3,7315.81
+Orangebu,O3,7282.52
+Pickens,O3,8969.47
+Richland,O3,7355.8
+Saluda C,O3,6547.05
+Spartanb,O3,7939.97
+Sumter C,O3,5923.59
+Union Co,O3,7464.81
+Williams,O3,7281.12
+York Cou,O3,8646.58
+Aurora C,O3,3636.82
+Beadle C,O3,3131.28
+Bon Homm,O3,3013.71
+Brooking,O3,3781.54
+Brown Co,O3,3123.63
+Brule Co,O3,3493.75
+Butte Co,O3,5471.91
+Charles,O3,3497.4
+Clark Co,O3,3021.63
+Clay Cou,O3,4151.07
+Codingto,O3,2654.78
+Custer C,O3,5181.68
+Davison,O3,3585.34
+Day Coun,O3,2907.54
+Deuel Co,O3,2819.46
+Douglas,O3,3605.83
+Fall Riv,O3,3994.17
+Grant Co,O3,2827.48
+Gregory,O3,3353.03
+Hamlin C,O3,2869.64
+Hughes C,O3,3972.6
+Hutchins,O3,3205.0
+Kingsbur,O3,3280.7
+Lake Cou,O3,3760.68
+Lawrence,O3,5790.43
+Lincoln,O3,8595.05
+McCook C,O3,4115.43
+Meade Co,O3,5185.5
+Minnehah,O3,10071.42
+Moody Co,O3,5533.15
+Penningt,O3,5923.54
+Potter C,O3,3718.65
+Roberts,O3,2979.5
+Shannon,O3,4173.56
+Spink Co,O3,3099.93
+Tripp Co,O3,3586.19
+Turner C,O3,4635.51
+Union Co,O3,4653.87
+Walworth,O3,3664.46
+Yankton,O3,3588.69
+Anderson,O3,80276.76
+Bedford,O3,1814.94
+Benton C,O3,10199.03
+Bledsoe,O3,6424.06
+Blount C,O3,8339.57
+Bradley,O3,7831.55
+Campbell,O3,13130.68
+Cannon C,O3,3283.98
+Carroll,O3,6386.88
+Carter C,O3,6871.79
+Cheatham,O3,29113.86
+Chester,O3,4145.31
+Claiborn,O3,5903.5
+Clay Cou,O3,8631.62
+Cocke Co,O3,7310.23
+Coffee C,O3,1890.14
+Crockett,O3,3850.24
+Cumberla,O3,11444.97
+Davidson,O3,7891.99
+Decatur,O3,9580.63
+DeKalb C,O3,4512.26
+Dickson,O3,63330.85
+Dyer Cou,O3,4162.09
+Fayette,O3,2896.8
+Fentress,O3,10346.91
+Franklin,O3,1208.76
+Gibson C,O3,5132.98
+Giles Co,O3,2058.81
+Grainger,O3,6660.59
+Greene C,O3,7338.57
+Grundy C,O3,2384.83
+Hamblen,O3,7250.09
+Hamilton,O3,8287.99
+Hancock,O3,6367.9
+Hardeman,O3,3505.21
+Hardin C,O3,5180.11
+Hawkins,O3,6925.97
+Haywood,O3,3081.39
+Henderso,O3,5984.14
+Henry Co,O3,7289.01
+Hickman,O3,75083.06
+Houston,O3,16558.68
+Humphrey,O3,19158.29
+Jackson,O3,7792.35
+Jefferso,O3,7195.67
+Johnson,O3,6825.47
+Knox Cou,O3,12955.98
+Lake Cou,O3,4492.55
+Lauderda,O3,2327.77
+Lawrence,O3,54516.81
+Lewis Co,O3,58073.97
+Lincoln,O3,1071.08
+Loudon C,O3,44900.72
+McMinn C,O3,10698.36
+McNairy,O3,3898.79
+Macon Co,O3,9643.93
+Madison,O3,3959.54
+Marion C,O3,1981.81
+Marshall,O3,2489.38
+Maury Co,O3,28543.37
+Meigs Co,O3,10226.39
+Monroe C,O3,10719.86
+Montgome,O3,16146.87
+Moore Co,O3,1253.58
+Morgan C,O3,24559.07
+Obion Co,O3,6948.02
+Overton,O3,8335.11
+Perry Co,O3,20406.51
+Pickett,O3,8174.94
+Polk Cou,O3,7423.1
+Putnam C,O3,5912.08
+Rhea Cou,O3,10284.18
+Roane Co,O3,42046.75
+Robertso,O3,15368.78
+Rutherfo,O3,3400.2
+Scott Co,O3,13413.18
+Sequatch,O3,4166.59
+Sevier C,O3,7350.14
+Shelby C,O3,2018.83
+Smith Co,O3,6419.59
+Stewart,O3,9672.04
+Sullivan,O3,6775.19
+Sumner C,O3,20262.28
+Tipton C,O3,2003.12
+Trousdal,O3,8216.26
+Unicoi C,O3,6761.62
+Union Co,O3,7807.65
+Van Bure,O3,4791.09
+Warren C,O3,3200.55
+Washingt,O3,7151.57
+Wayne Co,O3,20522.4
+Weakley,O3,6804.23
+White Co,O3,5402.49
+Williams,O3,25417.9
+Wilson C,O3,6976.07
+Anderson,O3,4240.5
+Andrews,O3,1383.22
+Angelina,O3,3197.18
+Aransas,O3,4404.48
+Archer C,O3,2032.04
+Atascosa,O3,4459.04
+Austin C,O3,2394.57
+Bandera,O3,2954.78
+Bastrop,O3,4453.55
+Baylor C,O3,1147.03
+Bee Coun,O3,4979.8
+Bell Cou,O3,3905.01
+Bexar Co,O3,6153.41
+Blanco C,O3,4900.28
+Bosque C,O3,3463.9
+Bowie Co,O3,2395.02
+Brazoria,O3,6748.23
+Brazos C,O3,2319.86
+Brewster,O3,2911.54
+Brown Co,O3,1506.29
+Burleson,O3,2573.88
+Burnet C,O3,3987.33
+Caldwell,O3,5378.02
+Calhoun,O3,3306.27
+Callahan,O3,1260.25
+Cameron,O3,5263.25
+Carson C,O3,1075.12
+Cass Cou,O3,4438.83
+Castro C,O3,1245.9
+Chambers,O3,6350.87
+Cherokee,O3,4230.5
+Childres,O3,678.9
+Clay Cou,O3,3767.89
+Coke Cou,O3,1614.28
+Coleman,O3,1248.37
+Collin C,O3,5959.66
+Colorado,O3,2973.01
+Comal Co,O3,6150.36
+Comanche,O3,2008.89
+Concho C,O3,1006.64
+Cooke Co,O3,5935.88
+Coryell,O3,3021.89
+Crosby C,O3,820.3
+Dallam C,O3,816.15
+Dallas C,O3,6285.58
+Dawson C,O3,1796.48
+Deaf Smi,O3,1442.16
+Denton C,O3,6326.04
+DeWitt C,O3,4608.37
+Dimmit C,O3,3148.78
+Donley C,O3,1047.1
+Duval Co,O3,4069.42
+Eastland,O3,1703.86
+Ector Co,O3,1568.44
+Ellis Co,O3,5535.41
+El Paso,O3,5565.08
+Erath Co,O3,2823.03
+Falls Co,O3,3566.86
+Fannin C,O3,4656.5
+Fayette,O3,3625.69
+Fisher C,O3,736.0
+Floyd Co,O3,794.89
+Fort Ben,O3,3909.09
+Freeston,O3,3828.62
+Frio Cou,O3,3200.17
+Gaines C,O3,856.8
+Galvesto,O3,6327.73
+Garza Co,O3,1436.23
+Gillespi,O3,2953.91
+Goliad C,O3,4778.97
+Gonzales,O3,4640.68
+Gray Cou,O3,765.94
+Grayson,O3,5711.5
+Gregg Co,O3,6150.14
+Grimes C,O3,1910.94
+Guadalup,O3,5814.4
+Hale Cou,O3,1123.54
+Hall Cou,O3,768.41
+Hamilton,O3,2587.41
+Hardin C,O3,3899.18
+Harris C,O3,6606.26
+Harrison,O3,8110.72
+Haskell,O3,789.12
+Hays Cou,O3,6844.72
+Henderso,O3,4925.97
+Hidalgo,O3,5959.04
+Hill Cou,O3,4205.62
+Hockley,O3,1525.31
+Hood Cou,O3,5772.24
+Houston,O3,3110.82
+Howard C,O3,1484.24
+Hunt Cou,O3,6459.72
+Hutchins,O3,1389.34
+Jack Cou,O3,3704.79
+Jackson,O3,3346.55
+Jasper C,O3,1985.93
+Jefferso,O3,6088.62
+Jim Well,O3,4509.94
+Johnson,O3,6232.57
+Jones Co,O3,853.14
+Karnes C,O3,4962.73
+Kaufman,O3,10058.89
+Kendall,O3,4373.69
+Kerr Cou,O3,2359.94
+Kimble C,O3,2014.18
+Kleberg,O3,4654.6
+Knox Cou,O3,815.53
+Lamar Co,O3,4036.87
+Lamb Cou,O3,1161.53
+Lampasas,O3,2680.0
+Lavaca C,O3,4198.86
+Lee Coun,O3,3229.44
+Leon Cou,O3,2794.36
+Liberty,O3,6023.75
+Limeston,O3,3948.84
+Live Oak,O3,4506.0
+Llano Co,O3,2685.06
+Lubbock,O3,1269.65
+Lynn Cou,O3,1700.8
+McCulloc,O3,1250.16
+McLennan,O3,2945.66
+Madison,O3,2737.04
+Marion C,O3,9300.71
+Matagord,O3,2923.03
+Medina C,O3,3422.38
+Midland,O3,1817.95
+Milam Co,O3,4017.24
+Mitchell,O3,1615.71
+Montague,O3,5130.41
+Montgome,O3,10058.17
+Moore Co,O3,1391.8
+Nacogdoc,O3,3593.83
+Navarro,O3,3843.39
+Newton C,O3,2642.39
+Nolan Co,O3,756.08
+Nueces C,O3,5565.92
+Orange C,O3,6512.72
+Palo Pin,O3,2938.08
+Panola C,O3,5021.7
+Parker C,O3,6929.61
+Pecos Co,O3,1709.77
+Polk Cou,O3,1825.64
+Potter C,O3,1477.0
+Randall,O3,1264.63
+Real Cou,O3,2582.31
+Red Rive,O3,2912.79
+Reeves C,O3,1246.7
+Refugio,O3,4731.15
+Robertso,O3,3468.31
+Rockwall,O3,8774.14
+Runnels,O3,980.19
+Rusk Cou,O3,5120.12
+Sabine C,O3,2892.05
+San Augu,O3,3170.01
+San Jaci,O3,2890.6
+San Patr,O3,5780.14
+San Saba,O3,1837.06
+Scurry C,O3,1194.31
+Shelby C,O3,3586.58
+Somervel,O3,4372.38
+Starr Co,O3,3531.78
+Stephens,O3,1342.88
+Swisher,O3,1337.23
+Tarrant,O3,5696.59
+Taylor C,O3,978.33
+Terry Co,O3,1529.39
+Tom Gree,O3,1362.34
+Travis C,O3,7840.5
+Trinity,O3,2851.86
+Tyler Co,O3,1922.62
+Uvalde C,O3,2970.62
+Val Verd,O3,2210.12
+Van Zand,O3,6501.56
+Victoria,O3,5320.68
+Walker C,O3,2005.1
+Waller C,O3,3123.05
+Ward Cou,O3,1443.27
+Washingt,O3,2373.7
+Webb Cou,O3,4852.05
+Wharton,O3,3068.62
+Wheeler,O3,1063.46
+Wichita,O3,2275.39
+Wilbarge,O3,1321.53
+Willacy,O3,4783.96
+Williams,O3,6188.64
+Wilson C,O3,5460.8
+Winkler,O3,911.31
+Wise Cou,O3,5697.57
+Yoakum C,O3,665.91
+Young Co,O3,1832.81
+Zapata C,O3,3659.18
+Box Elde,O3,4178.79
+Cache Co,O3,11036.14
+Carbon C,O3,3019.12
+Davis Co,O3,12943.35
+Duchesne,O3,3244.74
+Grand Co,O3,2836.95
+Iron Cou,O3,991.88
+Juab Cou,O3,3398.99
+Kane Cou,O3,677.76
+Millard,O3,2253.81
+Salt Lak,O3,13000.5
+Sanpete,O3,3573.21
+Sevier C,O3,2277.97
+Summit C,O3,5225.59
+Tooele C,O3,4202.69
+Uintah C,O3,2030.27
+Utah Cou,O3,11904.08
+Wasatch,O3,6227.95
+Washingt,O3,1156.02
+Weber Co,O3,13443.09
+Addison,O3,6699.16
+Benningt,O3,8432.73
+Caledoni,O3,6248.96
+Chittend,O3,7069.09
+Essex Co,O3,6129.21
+Franklin,O3,4573.66
+Grand Is,O3,4309.62
+Lamoille,O3,6172.24
+Orange C,O3,7328.95
+Orleans,O3,4654.74
+Rutland,O3,7355.79
+Washingt,O3,7032.78
+Windham,O3,9603.84
+Windsor,O3,7663.15
+Accomack,O3,2945.13
+Albemarl,O3,5483.29
+Alleghan,O3,8867.97
+Amelia C,O3,7268.93
+Amherst,O3,7553.72
+Appomatt,O3,6713.59
+Arlingto,O3,8490.1
+Augusta,O3,6964.64
+Bath Cou,O3,8207.22
+Bland Co,O3,8840.87
+Botetour,O3,9218.17
+Brunswic,O3,6314.91
+Buchanan,O3,6367.1
+Buckingh,O3,6375.75
+Campbell,O3,6907.53
+Caroline,O3,8411.21
+Carroll,O3,7962.76
+Charles,O3,8661.25
+Charlott,O3,5683.34
+Chesterf,O3,9274.73
+Clarke C,O3,10934.86
+Craig Co,O3,8714.38
+Culpeper,O3,8320.05
+Cumberla,O3,6646.62
+Dickenso,O3,5908.83
+Dinwiddi,O3,7699.42
+Essex Co,O3,5701.27
+Fairfax,O3,8387.85
+Fauquier,O3,9824.93
+Floyd Co,O3,8543.52
+Fluvanna,O3,5749.07
+Franklin,O3,8529.1
+Frederic,O3,9198.05
+Giles Co,O3,8625.45
+Gloucest,O3,7144.37
+Goochlan,O3,5861.68
+Grayson,O3,8299.51
+Greene C,O3,5923.91
+Greensvi,O3,7246.01
+Halifax,O3,6391.1
+Hanover,O3,8279.06
+Henrico,O3,9181.12
+Henry Co,O3,8508.7
+Isle of,O3,10768.65
+James Ci,O3,8108.66
+King and,O3,6993.69
+King Geo,O3,8232.86
+King Wil,O3,8068.09
+Lancaste,O3,5442.6
+Lee Coun,O3,6152.06
+Loudoun,O3,9578.49
+Louisa C,O3,5739.52
+Lunenbur,O3,6170.71
+Madison,O3,6385.85
+Mathews,O3,6228.27
+Mecklenb,O3,6250.42
+Middlese,O3,5794.4
+Montgome,O3,8691.96
+Nelson C,O3,6626.26
+New Kent,O3,8150.81
+Northamp,O3,4087.37
+Northumb,O3,5000.68
+Nottoway,O3,6941.65
+Orange C,O3,6649.75
+Page Cou,O3,8628.98
+Patrick,O3,9904.72
+Pittsylv,O3,6581.81
+Powhatan,O3,6395.99
+Prince E,O3,6545.34
+Prince G,O3,8884.35
+Prince W,O3,9041.38
+Pulaski,O3,8466.57
+Rappahan,O3,8680.45
+Richmond,O3,5682.0
+Roanoke,O3,9205.23
+Rockbrid,O3,8577.6
+Rockingh,O3,6681.25
+Russell,O3,6367.92
+Scott Co,O3,6722.17
+Shenando,O3,7874.79
+Smyth Co,O3,8064.04
+Southamp,O3,8567.48
+Spotsylv,O3,8403.71
+Stafford,O3,9766.49
+Surry Co,O3,9061.83
+Sussex C,O3,8357.46
+Tazewell,O3,7942.2
+Warren C,O3,9549.43
+Washingt,O3,6824.44
+Westmore,O3,5106.42
+Wise Cou,O3,6106.2
+Wythe Co,O3,9068.68
+York Cou,O3,8594.26
+Alexandr,O3,10222.11
+Bristol,O3,6444.95
+Buena Vi,O3,8354.72
+Charlott,O3,5515.99
+Chesapea,O3,9930.82
+Colonial,O3,9109.22
+Covingto,O3,8807.26
+Danville,O3,6841.56
+Emporia,O3,7325.49
+Fairfax,O3,8007.94
+Falls Ch,O3,8769.62
+Franklin,O3,9270.99
+Frederic,O3,9447.57
+Galax ci,O3,7861.94
+Hampton,O3,11250.41
+Harrison,O3,6457.64
+Hopewell,O3,9236.16
+Lexingto,O3,8725.15
+Lynchbur,O3,7520.89
+Manassas,O3,8671.83
+Martinsv,O3,8393.17
+Newport,O3,10497.33
+Norfolk,SO2,12180.53083
+Norton c,O3,6203.64
+Petersbu,O3,8873.32
+Poquoson,O3,9511.82
+Portsmou,O3,16470.45
+Radford,O3,8531.17
+Richmond,O3,9021.44
+Roanoke,O3,9573.33
+Salem ci,O3,9249.15
+Staunton,O3,6876.72
+Suffolk,O3,11060.35
+Virginia,CO,7698.928662
+Waynesbo,O3,6789.88
+Williams,O3,8364.45
+Winchest,O3,11174.69
+Adams Co,O3,4486.48
+Asotin C,O3,4368.8
+Benton C,O3,3604.04
+Chelan C,O3,4241.0
+Clallam,O3,2933.29
+Clark Co,O3,11633.73
+Columbia,O3,4430.0
+Cowlitz,O3,9582.28
+Douglas,O3,3603.91
+Ferry Co,O3,3568.44
+Franklin,O3,3868.78
+Grant Co,O3,3787.85
+Grays Ha,O3,3588.49
+Island C,O3,8179.09
+Jefferso,O3,4421.16
+King Cou,O3,13011.96
+Kitsap C,O3,10202.83
+Kittitas,O3,4877.43
+Klickita,O3,7430.93
+Lewis Co,O3,9508.18
+Lincoln,O3,5438.49
+Mason Co,O3,6608.94
+Okanogan,O3,2864.63
+Pacific,O3,3979.09
+Pend Ore,O3,4656.09
+Pierce C,O3,11096.86
+San Juan,O3,6249.24
+Skagit C,O3,6419.74
+Skamania,O3,8630.26
+Snohomis,O3,7603.26
+Spokane,O3,12366.96
+Stevens,O3,4757.03
+Thurston,O3,9852.49
+Wahkiaku,O3,5198.03
+Walla Wa,O3,3854.73
+Whatcom,O3,4998.47
+Whitman,O3,6736.51
+Yakima C,O3,5652.34
+Barbour,O3,6610.46
+Berkeley,O3,9260.83
+Boone Co,O3,8785.83
+Braxton,O3,7956.7
+Brooke C,O3,10596.98
+Cabell C,O3,9200.44
+Calhoun,O3,8199.1
+Clay Cou,O3,8970.52
+Doddridg,O3,7384.68
+Fayette,O3,9090.08
+Gilmer C,O3,7299.61
+Grant Co,O3,6588.08
+Greenbri,O3,9416.43
+Hampshir,O3,7789.58
+Hancock,O3,10610.0
+Hardy Co,O3,7619.93
+Harrison,O3,6467.56
+Jackson,O3,9417.04
+Jefferso,O3,9737.81
+Kanawha,O3,10796.6
+Lewis Co,O3,7187.17
+Lincoln,O3,8289.78
+Logan Co,O3,7426.04
+McDowell,O3,7472.03
+Marion C,O3,6740.86
+Marshall,O3,8663.83
+Mason Co,O3,9076.16
+Mercer C,O3,8430.22
+Mineral,O3,6626.17
+Mingo Co,O3,6541.38
+Monongal,O3,8462.97
+Monroe C,O3,9021.23
+Morgan C,O3,7937.64
+Nicholas,O3,8678.06
+Ohio Cou,O3,10410.42
+Pendleto,O3,6722.45
+Pleasant,O3,8716.17
+Pocahont,O3,7793.36
+Preston,O3,6238.66
+Putnam C,O3,9710.79
+Raleigh,O3,8568.17
+Randolph,O3,6671.54
+Ritchie,O3,8350.0
+Roane Co,O3,9157.04
+Summers,O3,9046.7
+Taylor C,O3,5240.73
+Tucker C,O3,7016.66
+Tyler Co,O3,7485.42
+Upshur C,O3,6753.45
+Wayne Co,O3,7053.86
+Webster,O3,8132.91
+Wetzel C,O3,7029.02
+Wirt Cou,O3,9189.17
+Wood Cou,O3,10138.55
+Wyoming,O3,7808.78
+Adams Co,O3,7931.63
+Ashland,O3,5136.09
+Barron C,O3,6222.3
+Bayfield,O3,4938.15
+Brown Co,O3,10218.64
+Buffalo,O3,5364.76
+Burnett,O3,6666.38
+Calumet,O3,11184.15
+Chippewa,O3,5786.74
+Clark Co,O3,6153.34
+Columbia,O3,9941.39
+Crawford,O3,5958.13
+Dane Cou,O3,12494.74
+Dodge Co,O3,7822.05
+Door Cou,O3,8784.29
+Douglas,O3,5936.48
+Dunn Cou,O3,6369.73
+Eau Clai,O3,5555.65
+Florence,O3,9606.35
+Fond du,O3,10060.81
+Forest C,O3,8301.7
+Grant Co,O3,5872.61
+Green Co,O3,13202.87
+Green La,O3,8218.67
+Iowa Cou,O3,8027.77
+Iron Cou,O3,5394.44
+Jackson,O3,6338.61
+Jefferso,O3,12150.37
+Juneau C,O3,7837.97
+Kenosha,O3,8238.47
+Kewaunee,O3,10140.23
+La Cross,O3,5956.21
+Lafayett,O3,7654.53
+Langlade,O3,8394.82
+Lincoln,O3,7980.5
+Manitowo,O3,10810.0
+Marathon,O3,9089.14
+Marinett,O3,7588.87
+Marquett,O3,8084.36
+Milwauke,O3,13393.98
+Monroe C,O3,7556.66
+Oconto C,O3,8403.39
+Oneida C,O3,9798.15
+Outagami,O3,9366.66
+Ozaukee,O3,10962.11
+Pepin Co,O3,5964.09
+Pierce C,O3,7245.14
+Polk Cou,O3,7529.78
+Portage,O3,9047.82
+Price Co,O3,6445.85
+Racine C,O3,11260.59
+Richland,O3,7779.23
+Rock Cou,O3,12207.97
+Rusk Cou,O3,5745.28
+St. Croi,O3,8531.76
+Sauk Cou,O3,8385.88
+Sawyer C,O3,5530.4
+Shawano,O3,8361.74
+Sheboyga,O3,11058.71
+Taylor C,O3,5984.41
+Trempeal,O3,5296.76
+Vernon C,O3,6920.61
+Vilas Co,O3,8134.86
+Walworth,O3,11404.33
+Washburn,O3,5881.11
+Washingt,O3,10665.89
+Waukesha,O3,11112.53
+Waupaca,O3,8391.08
+Waushara,O3,8204.53
+Winnebag,O3,8860.85
+Wood Cou,O3,7609.28
+Albany C,O3,2000.5
+Big Horn,O3,3394.88
+Campbell,O3,8722.28
+Carbon C,O3,2050.1
+Converse,O3,3283.08
+Crook Co,O3,7681.15
+Fremont,O3,2279.83
+Goshen C,O3,2259.49
+Hot Spri,O3,2155.39
+Johnson,O3,3924.34
+Laramie,O3,2132.73
+Lincoln,O3,3574.21
+Natrona,O3,2682.67
+Park Cou,O3,3115.16
+Platte C,O3,2334.66
+Sheridan,O3,3641.9
+Sweetwat,O3,1703.31
+Teton Co,CO,3754.236317
+Uinta Co,O3,3467.05
+Washakie,O3,2819.26
+Weston C,O3,5283.84
